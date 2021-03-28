@@ -1,0 +1,15 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../../../components/responsive-common.css';
+
+
+
+
+/* @media screen and (max-width : 480px){
+    .selectInput {
+        width: 120px !important;
+    }
+    .iconBtn {
+        text-align: left !important;
+    }
+} */

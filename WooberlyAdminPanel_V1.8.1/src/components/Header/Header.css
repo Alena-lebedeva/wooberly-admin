@@ -1,0 +1,60 @@
+@import '../Common.css';
+@import '../responsive-common.css';
+
+
+.closeButton{
+    display:none;
+}
+
+@media screen and (min-width:768px) and (max-width:1023px){
+    .closeButton{
+    right: 35px;
+    position: absolute;
+    font-size: 35px;
+    top: 10px;
+    display:block;
+}
+.menuOpened{
+    right: 0% !important;
+    display: block;
+}
+.menuClosed{
+    display: block !important;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    right: -100%;
+    top: 0;
+    background: #fff;
+    z-index: 9;
+    transition: 0.5s linear;
+    padding-top: 40px;
+  }
+}
+
+
+@media screen and (max-width:767px){
+    .closeButton{
+    position: absolute;
+    font-size: 35px;
+    right: 15px;
+    top: 10px;
+    display:block;
+}
+.menuOpened{
+    right: 0% !important;
+    display: block;
+}
+.menuClosed {
+    display: block !important;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    right: -100%;
+    top: 0;
+    background: #fff;
+    z-index: 9;
+    transition: 0.5s linear;
+    padding-top: 40px;
+  }
+}

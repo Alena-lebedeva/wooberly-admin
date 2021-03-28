@@ -1,0 +1,6 @@
+{
+    "name": "Home Settings Form",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./HomeSettingsForm.js"
+}

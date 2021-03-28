@@ -1,0 +1,448 @@
+@media (max-width: 1920px) and (min-width: 1800px) {
+  .carBg {
+    height: 800px !important;
+  }
+  .wooberlyIcon {
+    bottom: 28% !important;
+    left: 60% !important;
+  }
+}
+@media (max-width: 1440px) and (min-width: 1366px) {
+}
+@media (max-width: 1365px) and (min-width: 1200px) {
+}
+@media (max-width: 1199px) and (min-width: 1024px) {
+  .widthInner {
+    width: 100%;
+    border-radius: 0;
+    margin: 0 auto;
+  }
+  .tableSticky .table thead th {
+    box-shadow: none !important;
+}
+  .car {
+    display: none;
+  }
+  .navBg {
+    padding: 0.5rem 2.2rem;
+  }
+  .appImg {
+    width: 100%;
+    max-width: 200px !important;
+  }
+  .signUp h3 {
+    font-size: 34px !important;
+  }
+  .aboutGrid img {
+    position: relative;
+    top: -25px !important;
+  }
+  .responsiveView {
+    width: 100% !important;
+    max-width: 175px !important;
+  }
+  .aboutCenter {
+    width: 280px !important;
+    height: 280px !important;
+  }
+  .positionFive {
+    top: 28% !important;
+  }
+  .positionTwo {
+    top: 28% !important;
+  }
+  .responsiveContentOne {
+    top: -50px !important;
+  }
+  .positionFour {
+    top: -50px !important;
+  }
+  .firstContent {
+    top: 37% !important;
+  }
+  .totalCss {
+    width: 100% !important;
+  }
+  .profileImgSection {
+    padding: 18px;
+  }
+  .earingSection {
+    width: 100% !important;
+    padding: 0 15px;
+  }
+}
+@media (max-width: 1023px) and (min-width: 768px) {
+  .navigationLink {
+    background: #fff;
+    margin-top: 12px;
+  }
+  .tableSticky .table thead th {
+    box-shadow: none !important;
+}
+  .navigationLink a {
+    color: #484848 !important;
+  }
+  .navBg {
+    padding: 15px;
+  }
+  .widthInner {
+    width: 100%;
+    border-radius: 0;
+    margin: 0 auto;
+  }
+  .car {
+    display: none;
+  }
+  .heroBkgAnimated {
+    padding-top: 15% !important;
+  }
+  .bottomLine {
+    max-width: 460px !important;
+  }
+  .appImg {
+    width: 100%;
+    max-width: 140px !important;
+  }
+  .signUp h3 {
+    font-size: 24px !important;
+  }
+  .signUp p {
+    font-size: 16px !important;
+  }
+  .responsiveContentOne {
+    width: 300px !important;
+    position: absolute !important;
+    top: -42px !important;
+    left: -5% !important;
+  }
+
+  .positionTwo {
+    top: 24% !important;
+    left: -5% !important;
+  }
+  .positionThree {
+    top: 70% !important;
+    left: -5% !important;
+  }
+  .positionFour {
+    top: -42px !important;
+    right: -5% !important;
+  }
+  .positionFive {
+    top: 20% !important;
+    right: -5% !important;
+  }
+  .positionSix {
+    top: 70% !important;
+    right: -5% !important;
+  }
+  .aboutCenter {
+    width: 190px !important;
+    height: 190px !important;
+  }
+  .responsiveView {
+    width: 100% !important;
+    max-width: 115px !important;
+  }
+  .aboutGrid img {
+    top: -1px !important;
+  }
+  .contentOne h1 {
+    font-size: 16px !important;
+  }
+  .contentOne p {
+    font-size: 12px !important;
+  }
+  .firstContent {
+    top: 19% !important;
+    left: 34% !important;
+  }
+  .totalCss {
+    width: 100% !important;
+  }
+  .earingSection {
+    width: 100% !important;
+    padding: 0 15px;
+  }
+}
+@media screen and (max-width: 823px) {
+  .rightSide {
+    float: none;
+    margin-top: 0px;
+  }
+  .navbar-collapse.show {
+    right: 0% !important;
+    top: 0 !important;
+  }
+  .navbar-collapse {
+    position: fixed !important;
+    height: 100vh !important;
+    width: 100% !important;
+    background: #fff !important;
+    right: -100% !important;
+    transition: 0.5s !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .content {
+    float: none;
+  }
+  .mr-auto.navbar-nav {
+    padding-bottom: 80px !important;
+  }
+  .tableSticky .table thead th {
+    box-shadow: none !important;
+}
+  .navigationLink {
+    background: #fff;
+    margin-top: 12px;
+  }
+  .navigationLink a {
+    color: #484848 !important;
+  }
+  .navBg {
+    padding: 10px;
+  }
+  .footer {
+    padding: 35px 0 0 15px;
+  }
+  .sideNav {
+    position: absolute;
+    height: auto;
+    width: 100%;
+  }
+  .sideMenuBg {
+    height: auto;
+  }
+  .mainContent {
+    margin-left: 0;
+  }
+  .siteAdminHeader {
+    font-size: 20px;
+    max-width: 100%;
+  }
+  .widthInner {
+    width: 100%;
+    margin: 0px auto 0 auto;
+    border-radius: 0;
+  }
+  .mobileMenu {
+    position: fixed;
+    width: 100%;
+    background: #000;
+    top: 0px;
+    height: auto;
+    z-index: 5;
+    left: -100%;
+    transition: 0.5s;
+    transition-duration: 0.5s;
+  }
+  .mobileMenuMain {
+    position: fixed;
+    width: 100%;
+    background:#fff;
+    top: 0px;
+    height: auto;
+    z-index: 5;
+    left: -100%;
+    transition: 0.5s;
+    transition-duration: 0.5s;
+  }
+  .menuOpen {
+    left: 0;
+  }
+  .menuClose {
+    left: -100%;
+  }
+ 
+  .car {
+    display: none;
+  }
+  .leftGrid h1 {
+    margin: 0 0 15px 0;
+  }
+  .noPaddingMobile {
+    padding: 0;
+  }
+  .aboutCss {
+    margin-bottom: 55px;
+  }
+  .responsiveNoPadding {
+    padding: 0px !important;
+  }
+  .countrySelectSection {
+    width: 100%;
+    vertical-align: top;
+    margin-bottom: 12px;
+  }
+  .countrySelectPhoneSection {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .heroBkgAnimated {
+    background: inherit !important;
+    background-color: #000 !important;
+    width: 100%;
+    margin: 0;
+    height: 100% !important;
+    padding-top: 10%;
+    box-sizing: border-box;
+    -webkit-animation: none;
+  }
+  .bottomLine {
+    background-size: contain !important;
+  }
+  .responsiveNoMargin {
+    margin: 0 !important;
+  }
+  .appImg {
+    width: 100%;
+    max-width: 110px !important;
+  }
+  .signUp h3 {
+    font-size: 18px !important;
+    margin-top: 18px !important;
+  }
+  .signUp p {
+    font-size: 14px !important;
+  }
+  .imgSectionHeight {
+    height: auto !important;
+  }
+  .safetyContainer {
+    padding-top: 0px !important;
+  }
+  .aboutCenter {
+    display: none !important;
+  }
+  .contentOne {
+    position: relative !important;
+    text-align: left !important;
+    width: auto !important;
+    padding: 0px 15px !important;
+  }
+  .aboutContainer {
+    padding: 30px 0 30px !important;
+  }
+  .noPosition {
+    left: 0 !important;
+    right: 0 !important;
+    top: 0 !important;
+  }
+  .firstContent {
+    font-size: 19px !important;
+    line-height: 39px !important;
+    top: 100px !important;
+    left: -37px !important;
+  }
+  .phoneImg {
+    width: 100%;
+    animation: none !important;
+    transform: inherit !important;
+    -moz-animation: none !important;
+    -webkit-animation: none !important;
+  }
+  .mobimleImg {
+    display: none !important;
+  }
+  .totalCss {
+    width: 100% !important;
+  }
+  .textRight {
+    text-align: right !important;
+    padding: 0 !important;
+  }
+  .textCenterDashboard {
+    text-align: left !important;
+  }
+  .imgWidth {
+    padding: 18px !important;
+  }
+  .rightSide {
+    float: none;
+    margin-top: 0px;
+  }
+  .sideMenuBg {
+    position: static;
+  }
+  .headerBg {
+    width: 0%;
+    height: 60px;
+    position: fixed;
+    left: inherit;
+    right: 0;
+    z-index: 3;
+    text-align: center;
+    display: none;
+  }
+  .logOut {
+    float: inherit;
+  }
+  .logOutSection {
+    display: block !important;
+  }
+  .responsiveDasboradMargin {
+    margin-top: 30px !important;
+  }
+  .earingSection {
+    width: 100% !important;
+    padding: 0 15px;
+    margin-bottom: 100px !important;
+  }
+  .cityText h1::after {
+    display: none;
+  }
+  .sliderMain::after {
+    left: 0 !important;
+    right: 0;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .cityText h1 {
+    font-size: 23px !important;
+    line-height: 30px !important;
+  }
+  .cityText p {
+    font-size: 16px !important;
+  }
+  .getButton {
+    position: relative;
+    top: 12px;
+    padding: 8px 20px !important;
+  }
+  .exportDisplay {
+    grid-template-columns: 100%;
+}
+.exportTextSection {
+    text-align: left;
+}
+.exportText {
+    margin: 6px 0;
+    display: inline-block;
+    padding-left: 3px;
+    padding-right: 5px;
+}
+}
+@media (max-width: 767px) and (min-width: 480px) {
+  .firstContent {
+    left: 0 !important;
+    right: 0 !important;
+    text-align: center !important;
+    margin: 0 auto !important;
+    width: 320px !important;
+  }
+}
+@media (max-width: 480px) and (min-width: 320px) {
+  .firstContent {
+    left: 0 !important;
+    right: 0 !important;
+    text-align: center !important;
+    margin: 0 auto !important;
+    top: 15% !important;
+    width: 280px !important;
+  }
+  .whiteDropdown select{  
+    width: 120px !important;
+  }
+}

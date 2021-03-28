@@ -1,0 +1,4488 @@
+[
+  {
+    "id": "login.title",
+    "description": "Log in page title",
+    "defaultMessage": "Log In",
+    "message": "Prijaviti se"
+  },
+  {
+    "id": "radicalstart.Becomeahost",
+    "description": "Becomeahost",
+    "defaultMessage": "Become a host",
+    "message": "Postanite domaćin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Discover",
+    "description": "Discover",
+    "defaultMessage": "Discover",
+    "message": "Otkriti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Hosting",
+    "description": "Hosting",
+    "defaultMessage": "Hosting",
+    "message": "Usluge poslužitelja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Terms",
+    "description": "Terms",
+    "defaultMessage": "Terms & Privacy",
+    "message": "Uvjeti i privatnost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Travel",
+    "description": "Trust",
+    "defaultMessage": "Travel Credit",
+    "message": "Turistički kredit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Trust",
+    "description": "Trust",
+    "defaultMessage": "Trust & Safety",
+    "message": "Povjerenje i sigurnost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.about",
+    "description": "About Nav link",
+    "defaultMessage": "About",
+    "message": "Oko",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutFooter",
+    "description": "AboutFooter",
+    "defaultMessage": "About Us",
+    "message": "O nama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminpanel",
+    "description": "admin panel",
+    "defaultMessage": "Admin Panel",
+    "message": "upravljačka ploča",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bannerDesc",
+    "description": "Description in header",
+    "defaultMessage": "Complex web apps made easy",
+    "message": "Složene web aplikacije lako",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bannerTitle",
+    "description": "Title in page header",
+    "defaultMessage": "React",
+    "message": "Reagirati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.brand",
+    "description": "Brand name displayed in header",
+    "defaultMessage": "RadicalStart",
+    "message": "RadicalStart",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contact",
+    "description": "Contact Nav link",
+    "defaultMessage": "Contact",
+    "message": "Kontakt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contactUs",
+    "description": "contact",
+    "defaultMessage": "Contact Us",
+    "message": "Kontaktirajte nas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dashboard",
+    "description": "dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "kontrolna ploča",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dummyText",
+    "description": "dummyText",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum je jednostavno dummy tekst tiska i slaganje sloga industrije. Lorem Ipsum postoji u industriji standardni dummy tekst otkad 1500-ih, kada je nepoznati tiskar uzeo tiskarsku galiju slova i posložio ih da bi napravio knjigu s uzorkom tiska.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailaddress",
+    "description": "emailaddress",
+    "defaultMessage": "Email Address",
+    "message": "Email adresa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.firstName",
+    "description": "firstName",
+    "defaultMessage": "First Name",
+    "message": "Ime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.formssidebar",
+    "description": "formssidebar",
+    "defaultMessage": "Forms",
+    "message": "obrasci",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.heading",
+    "description": "heading",
+    "defaultMessage": "Heading",
+    "message": "Naslov",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.lastName",
+    "description": "lastName",
+    "defaultMessage": "Last Name",
+    "message": "Prezime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.login",
+    "description": "Login Nav link",
+    "defaultMessage": "Login",
+    "message": "Prijaviti se",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.phoneNumber",
+    "description": "phoneNumber",
+    "defaultMessage": "Phone Number",
+    "message": "Broj telefona",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.recommand",
+    "description": "recommand",
+    "defaultMessage": "Recommand",
+    "message": "Recommand",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rentallContent",
+    "description": "RentALL",
+    "defaultMessage": "RentALL",
+    "message": "RentALL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.select",
+    "description": "select",
+    "defaultMessage": "Select",
+    "message": "Odaberi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.settings",
+    "description": "settings",
+    "defaultMessage": "Settings",
+    "message": "postavke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signup",
+    "description": "Sign up Nav link",
+    "defaultMessage": "Sign up",
+    "message": "Prijavite se",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderContent",
+    "description": "Luxury",
+    "defaultMessage": "Luxury",
+    "message": "Luksuzno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.textarea",
+    "description": "textarea",
+    "defaultMessage": "Text Area",
+    "message": "tekst Područje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.users",
+    "description": "users",
+    "defaultMessage": "Users",
+    "message": "Korisnici",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.password",
+    "description": "password",
+    "defaultMessage": "Password",
+    "message": "Zaporka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.required",
+    "description": "required error message",
+    "defaultMessage": "*Required",
+    "message": "*Potreban",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.email",
+    "description": "Your Email Address to Login",
+    "defaultMessage": "Email Address",
+    "message": "Email adresa",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Pogrešna adresa Email",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Nijedan račun postoji za ovu poruku. Uvjerite se da je upisali u ispravno, ili „prijavite se” umjesto",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "E-mail je potrebno",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Već si prijavljen!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.password",
+    "description": "Your Password to Login",
+    "defaultMessage": "Password",
+    "message": "Zaporka",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Zaporka mora imati najmanje 8 znakova. Molim te pokušaj ponovno",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "potrebna je lozinka",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Pogrešna lozinka. Molim te pokušaj ponovno",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Oprostite, nešto je pošlo naopako. Molim te pokušaj ponovno",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.userLoggedIn",
+    "description": "You are already Logged-in as user",
+    "defaultMessage": "You are already logged in as User, please logout in the main site to continue!",
+    "message": "Već ste prijavljeni kao korisnik, odjava u glavnom mjestu za nastavak!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Pogrešna adresa Email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Nijedan račun postoji za ovu poruku. Uvjerite se da je upisali u ispravno, ili „prijavite se” umjesto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "E-mail je potrebno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Već si prijavljen!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Zaporka mora imati najmanje 8 znakova. Molim te pokušaj ponovno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "potrebna je lozinka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Pogrešna lozinka. Molim te pokušaj ponovno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Oprostite, nešto je pošlo naopako. Molim te pokušaj ponovno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Amount",
+    "description": "Amount",
+    "defaultMessage": "Amount",
+    "message": "Iznos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.BaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Base Currency",
+    "message": "Osnovna valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.HomeSiteSettings",
+    "description": "HomeSiteSettings",
+    "defaultMessage": "Homepage Settings",
+    "message": "Početna stranica Postavke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Safety",
+    "description": "Safety",
+    "defaultMessage": "Safety",
+    "message": "sigurnosni",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Wooberly",
+    "description": "Wooberly",
+    "defaultMessage": "Wooberly",
+    "message": "Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutFooterDesc",
+    "description": "aboutFooterDesc",
+    "defaultMessage": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "message": "Sperma maiorum repudiandae, cu EAM dolore bonorum probatus. I legere Sanctus sperma, quot nostrud kandidat ex MEl. Oglas ullum audire admodum EOS. Ne EAM quod habeo aeque, oglas decoreos.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutImage1",
+    "description": "Feature Banner 1",
+    "defaultMessage": "Feature Banner #1",
+    "message": "Značajka bannera # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutImage2",
+    "description": "Feature Banner 2",
+    "defaultMessage": "Feature Banner #2",
+    "message": "Značajka bannera # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutSectionSettings",
+    "description": "Top Features Settings",
+    "defaultMessage": "Top Features",
+    "message": "Top Značajke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.action",
+    "description": "Action",
+    "defaultMessage": "Action",
+    "message": "Akcijski",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.active",
+    "description": "Active Status",
+    "defaultMessage": "Active",
+    "message": "Aktivan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addCancelReason",
+    "description": "Add Cancel Reason",
+    "defaultMessage": "Add Cancel Reason",
+    "message": "Dodaj Odustani razlog",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addCategory",
+    "description": "Add category form header",
+    "defaultMessage": "Add Category",
+    "message": "Dodaj Kategorija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addFare",
+    "description": "Button",
+    "defaultMessage": "Add Fare",
+    "message": "Dodaj Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addLocation",
+    "description": "addLocation",
+    "defaultMessage": "Add Location",
+    "message": "Dodaj lokaciju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addPage",
+    "description": "Add Page",
+    "defaultMessage": "Add Page",
+    "message": "Dodaj stranicu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addPromoCode",
+    "description": "Add PromoCode",
+    "defaultMessage": "Add Promo Code",
+    "message": "Dodaj Promo kod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adeditFaredFare",
+    "description": "Button",
+    "defaultMessage": "Edit Fare",
+    "message": "Uredi Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.allowedPaymentCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Allowed Payment Currency",
+    "message": "Dozvoljeni Valuta plaćanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.approve",
+    "description": "Approve",
+    "defaultMessage": "Approve",
+    "message": "Odobriti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.availableSeats",
+    "description": "Available Seats",
+    "defaultMessage": "Available Seats",
+    "message": "Dostupni sjedala",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ban",
+    "description": "Ban Status",
+    "defaultMessage": "Ban",
+    "message": "Zabrana",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.banStatus",
+    "description": "Ban Status Permit/Ban",
+    "defaultMessage": "Ban Status",
+    "message": "Status zabrane",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingId",
+    "description": "Booking ID",
+    "defaultMessage": "Booking ID",
+    "message": "rezervacija ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookings",
+    "description": "bookings",
+    "defaultMessage": "Bookings",
+    "message": "rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingsMenu",
+    "description": "bookingsMenu",
+    "defaultMessage": "Manage Bookings",
+    "message": "Upravljanje Rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.button",
+    "description": "Button",
+    "defaultMessage": "Button",
+    "message": "Dugme",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelButton",
+    "description": "Cancel",
+    "defaultMessage": "Cancel",
+    "message": "Otkazati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Odustani razlog",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancellationReasons",
+    "description": "Cancellation Reasons",
+    "defaultMessage": "Cancellation Reasons",
+    "message": "Otkazivanje Razlozi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledBy",
+    "description": "Cancelled By",
+    "defaultMessage": "Cancelled By",
+    "message": "je otkazao",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.capacity",
+    "description": "Capacity",
+    "defaultMessage": "Capacity",
+    "message": "Kapacitet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.card",
+    "description": "Card",
+    "defaultMessage": "Card",
+    "message": "Kartica",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cash",
+    "description": "Cash",
+    "defaultMessage": "Cash",
+    "message": "Unovčiti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryMapMarker",
+    "description": "",
+    "defaultMessage": "Category Map Marker",
+    "message": "Kategorija Oznaka na karti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.category",
+    "description": "Category",
+    "defaultMessage": "Category",
+    "message": "Kategorija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryContent",
+    "description": "Category Content",
+    "defaultMessage": "Category Content",
+    "message": "Kategorija sadržaj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryIcon",
+    "description": "",
+    "defaultMessage": "Category Icon",
+    "message": "Kategorija Ikona",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryId",
+    "description": "Category ID",
+    "defaultMessage": "Category ID",
+    "message": "ID kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryMenu",
+    "description": "categoryMenu",
+    "defaultMessage": "Manage Categories",
+    "message": "Upravljanje kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryName",
+    "description": "Category Name",
+    "defaultMessage": "Category Name",
+    "message": "ime kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryTitle",
+    "description": "Category Title",
+    "defaultMessage": "Category Title",
+    "message": "Kategorija Naslov",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.changePassword",
+    "description": "Change Password",
+    "defaultMessage": "Change Password",
+    "message": "promjena lozinke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.chooseFile",
+    "description": "",
+    "defaultMessage": "Choose File",
+    "message": "Odaberite datoteku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.city",
+    "description": "city",
+    "defaultMessage": "Lorem Ipsum is simply dummy text",
+    "message": "Lorem Ipsum je jednostavno probni tekst",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.citySectionSettings",
+    "description": "Category Settings",
+    "defaultMessage": "Category",
+    "message": "Kategorija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.code",
+    "description": "text",
+    "defaultMessage": "Code",
+    "message": "Kodirati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.comments",
+    "description": "Comments",
+    "defaultMessage": "Comments",
+    "message": "komentari",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content1",
+    "description": "Content 1",
+    "defaultMessage": "Content 1",
+    "message": "sadržaj 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content2",
+    "description": "Content 2",
+    "defaultMessage": "Content 2",
+    "message": "sadržaj 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content3",
+    "description": "Content 3",
+    "defaultMessage": "Content 3",
+    "message": "sadržaj 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content4",
+    "description": "Content 4",
+    "defaultMessage": "Content 4",
+    "message": "sadržaj 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content5",
+    "description": "Content 5",
+    "defaultMessage": "Content 5",
+    "message": "sadržaj 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content6",
+    "description": "Content 6",
+    "defaultMessage": "Content 6",
+    "message": "sadržaj 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contentpageManagement",
+    "description": "Content Management",
+    "defaultMessage": "Content Management",
+    "message": "Upravljanje sadržajem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.copyRights",
+    "description": "Copy Rights",
+    "defaultMessage": "Wooberly 2020. All Rights Reserved",
+    "message": "Wooberly 2020. Sva prava pridržana",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.country",
+    "description": "Country Name",
+    "defaultMessage": "Country",
+    "message": "Zemlja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.countryCodeError",
+    "description": "Invalid Country Code",
+    "defaultMessage": "Invalid Country Code",
+    "message": "Ispravan kod zemlje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.createdAt",
+    "description": "Created date",
+    "defaultMessage": "Account Created on",
+    "message": "Račun je izrađen na",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currency",
+    "description": "Currency Type",
+    "defaultMessage": "Currency",
+    "message": "Valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.decline",
+    "description": "Decline",
+    "defaultMessage": "Decline",
+    "message": "Odbiti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.deleteAction",
+    "description": "Delete action name",
+    "defaultMessage": "Delete",
+    "message": "Izbrisati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.description",
+    "description": "text",
+    "defaultMessage": "Description",
+    "message": "Opis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.details",
+    "description": "Details",
+    "defaultMessage": "Details",
+    "message": "Detalji",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.discount",
+    "description": "text",
+    "defaultMessage": "Discount",
+    "message": "Popust",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus scaevola elaboraret vel oglas, vis ne noster vocent prodesset, dn EI omittantur dissentiet. Nobis postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppDriverDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus scaevola elaboraret vel oglas, vis ne noster vocent prodesset, dn EI omittantur dissentiet. Nobis postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppText",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Rider App",
+    "message": "Preuzimanje jahač App",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppTextDriver",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Driver App",
+    "message": "Preuzimanje Vozač App",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driver",
+    "description": "driver",
+    "defaultMessage": "Driver",
+    "message": "Vozač",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverCommission",
+    "description": "Driver Commission Percentage",
+    "defaultMessage": "Driver Commission(%)",
+    "message": "Vozač komisija (%)",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverEmail",
+    "description": "Driver Email",
+    "defaultMessage": "Driver Email",
+    "message": "vozač e-mail",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverFeeType",
+    "description": "Driver Fee Type",
+    "defaultMessage": "Driver Fee Type",
+    "message": "Vozač Naknada Vrsta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverFeeValue",
+    "description": "Driver Fee Value",
+    "defaultMessage": "Driver Commission",
+    "message": "Komisija za vozača",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverMenu",
+    "description": "driverMenu",
+    "defaultMessage": "Manage Drivers",
+    "message": "Upravljanje upravljačkim programima",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverName",
+    "description": "Driver Name",
+    "defaultMessage": "Driver Name",
+    "message": "Ime vozač",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverRatings",
+    "description": "Driver Ratings",
+    "defaultMessage": "Driver Ratings",
+    "message": "Ocjene vozač",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverServiceFee",
+    "description": "Driver Service Fee",
+    "defaultMessage": "Driver Service Fee",
+    "message": "Vozač naknada za uslugu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverTotalFare",
+    "description": "Driver Total Fare",
+    "defaultMessage": "Driver Total Fare",
+    "message": "Vozač Ukupno Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.drivers",
+    "description": "drivers",
+    "defaultMessage": "Drivers",
+    "message": "vozači",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dropLocation",
+    "description": "Drop Location",
+    "defaultMessage": "Drop Location",
+    "message": "kap Lokacija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.earnings",
+    "description": "Earnings",
+    "defaultMessage": "Your Earnings",
+    "message": "Vaša zarada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.edit",
+    "description": "edit",
+    "defaultMessage": "Edit",
+    "message": "Uredi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAction",
+    "description": "Edit action name",
+    "defaultMessage": "Edit",
+    "message": "Uredi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editCancelReason",
+    "description": "Edit Cancel Reason",
+    "defaultMessage": "Edit Cancel Reason",
+    "message": "Uredi Odustani razlog",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editCategory",
+    "description": "Edit category form header",
+    "defaultMessage": "Edit Category",
+    "message": "Uredi Kategorija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editDriver",
+    "description": "Edit driver form header",
+    "defaultMessage": "Edit Driver",
+    "message": "Uredi vozača",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editPageDetails",
+    "description": "Edit Page Details",
+    "defaultMessage": "Edit Page Details",
+    "message": "Uređivanje pojedinosti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editPromoCode",
+    "description": "Edit PromoCode",
+    "defaultMessage": "Edit Promo Code",
+    "message": "Uredi Promo kod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editRider",
+    "description": "Edit rider form header",
+    "defaultMessage": "Edit Rider",
+    "message": "Uredi jahač",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editVehicle",
+    "description": "Edit vehicle form header",
+    "defaultMessage": "Edit Vehicle",
+    "message": "Uredi vozila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.eligibleForATrip",
+    "description": "text",
+    "defaultMessage": "Eligible for a Trip",
+    "message": "Pravo na putovanje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.enableDisable",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Enable / Disable",
+    "message": "Set Omogući / Onemogući",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exceedLimit",
+    "description": "Exceeding character limit",
+    "defaultMessage": "Exceeding character limit",
+    "message": "Prekoračenje dopuštenog broja znakova",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exceedLimit100",
+    "description": "Please dont exceed 100 words",
+    "defaultMessage": "Please dont exceed 100 words",
+    "message": "Molimo da ne prelazi 100 riječi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.expireDate",
+    "description": "text",
+    "defaultMessage": "Expiry Date",
+    "message": "datum isteka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fixed",
+    "description": "Fixed Fee Type",
+    "defaultMessage": "Fixed",
+    "message": "fiksni",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fixedAmount",
+    "description": "text",
+    "defaultMessage": "Fixed Amount",
+    "message": "fiksni iznos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.floatError",
+    "description": "Numeric Error Response",
+    "defaultMessage": "It should be a number value",
+    "message": "To bi trebao biti broj vrijednost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.followUs",
+    "description": "Follow Us",
+    "defaultMessage": "Follow  Us",
+    "message": "Prati nas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerCategory",
+    "description": "Footer Category",
+    "defaultMessage": "Footer Category",
+    "message": "Podnožje Kategorija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo1",
+    "description": "Footer Logo 1",
+    "defaultMessage": "Footer Logo #1",
+    "message": "Podnožje Logo # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo2",
+    "description": "Footer Logo 2",
+    "defaultMessage": "Footer Logo #2",
+    "message": "Podnožje Logo # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo3",
+    "description": "Footer Logo 3",
+    "defaultMessage": "Footer Logo #3",
+    "message": "Podnožje Logo # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo4",
+    "description": "Footer Logo 4",
+    "defaultMessage": "Footer Logo #4",
+    "message": "Podnožje Logo # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerSectionSettings",
+    "description": "Footer Settings",
+    "defaultMessage": "Footer",
+    "message": "Podnožje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.form",
+    "description": "form",
+    "defaultMessage": "Form",
+    "message": "Oblik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.goBack",
+    "description": "Go Back Button Text",
+    "defaultMessage": "Go Back",
+    "message": "vratiti se",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.goToMainSite",
+    "description": "goToMainSite option",
+    "defaultMessage": "Go to main site",
+    "message": "Idi na glavnu stranicu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescFive",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po gloriatur tincidunt. Vim odio unum atomorum u. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescFour",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po gloriatur tincidunt. Vim odio unum atomorum u. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescOne",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po gloriatur tincidunt. Vim odio unum atomorum u. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescSix",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po gloriatur tincidunt. Vim odio unum atomorum u. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescThree",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po gloriatur tincidunt. Vim odio unum atomorum u. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescTwo",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po gloriatur tincidunt. Vim odio unum atomorum u. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitle",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleFive",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleFour",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleSix",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleThree",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleTwo",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.holdPayout",
+    "description": "Hold Payout",
+    "defaultMessage": "Hold Payout",
+    "message": "Držite dobitak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeContent",
+    "description": "Start Riding With Wooberly",
+    "defaultMessage": "Start Riding With Wooberly",
+    "message": "Početak jahanje s Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeContent1",
+    "description": "Banner Content",
+    "defaultMessage": "Banner Content",
+    "message": "Baner sadržaj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage1",
+    "description": "Banner Image 1",
+    "defaultMessage": "Banner Image #1",
+    "message": "Slika natpisa # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage2",
+    "description": "Banner Image 2",
+    "defaultMessage": "Banner Image #2",
+    "message": "Slika natpisa # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage3",
+    "description": "Banner Image 3",
+    "defaultMessage": "Banner Image #3",
+    "message": "Slika natpisa # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage4",
+    "description": "Banner Image 4",
+    "defaultMessage": "Banner Image #4",
+    "message": "Slika natpisa # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage5",
+    "description": "Banner Image 5",
+    "defaultMessage": "Banner Image #5",
+    "message": "Slika natpisa # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage6",
+    "description": "Banner Image 6",
+    "defaultMessage": "Banner Image #6",
+    "message": "Slika natpisa # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage7",
+    "description": "Banner Image Tablet",
+    "defaultMessage": "Banner Image Tablet",
+    "message": "Natpisna tableta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage8",
+    "description": "Banner Image Mobile",
+    "defaultMessage": "Banner Image Mobile",
+    "message": "Slike bannera Mobile",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeSectionSettings",
+    "description": "Banner Settings",
+    "defaultMessage": "Banner",
+    "message": "zastava",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeTitle",
+    "description": "Banner Title",
+    "defaultMessage": "Banner Title",
+    "message": "Baner Naslov",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homepageBanner",
+    "description": "Homepage Banner Settings",
+    "defaultMessage": "Homepage Banner",
+    "message": "Početna stranica bannera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.id",
+    "description": "ID text",
+    "defaultMessage": "ID",
+    "message": "iskaznica",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.inactive",
+    "description": "Inactive Status",
+    "defaultMessage": "Inactive",
+    "message": "neaktivan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.insuranceImage",
+    "description": "insuranceImage",
+    "defaultMessage": "Insurance Image",
+    "message": "Osiguranje slike",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.intError",
+    "description": "Integer Error Response",
+    "defaultMessage": "It should be a decimal value",
+    "message": "To bi trebao biti decimalna vrijednost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidUrl",
+    "description": "Invalid Page URL",
+    "defaultMessage": "Invalid Page URL",
+    "message": "Neispravan URL stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVehicleName",
+    "description": "Invalid Vehicle Name",
+    "defaultMessage": "Invalid Vehicle Name",
+    "message": "Pogrešna Ime vozila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVehicleNumber",
+    "description": "Invalid Vehicle Number",
+    "defaultMessage": "Invalid Vehicle Number",
+    "message": "Pogrešan broj vozila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.isSpecialTrip",
+    "description": "Special Trip",
+    "defaultMessage": "Special Trip",
+    "message": "Posebna putovanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.licenceBackImage",
+    "description": "licenceBackImage",
+    "defaultMessage": "Licence Back Image",
+    "message": "Licenca Natrag slika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.licenceFrontImage",
+    "description": "licenceFrontImage",
+    "defaultMessage": "Licence Front Image",
+    "message": "Licenca Front image",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.location",
+    "description": "location",
+    "defaultMessage": "Manage Location",
+    "message": "Upravljanje Lokacija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.locationName",
+    "description": "Table header",
+    "defaultMessage": "Location",
+    "message": "Mjesto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logo",
+    "description": "Logo",
+    "defaultMessage": "Logo",
+    "message": "Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logout",
+    "description": "logout option",
+    "defaultMessage": "Logout",
+    "message": "Odjavite se",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Odustani razlog",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCancelledTrips",
+    "description": "manageCancelledTrips sidemenu",
+    "defaultMessage": "Cancelled Bookings",
+    "message": "Poništene rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCompletedTrips",
+    "description": "CompletedTrips sidemenu",
+    "defaultMessage": "Completed Bookings",
+    "message": "završeni rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCurrency",
+    "description": "manageCurrency sidemenu",
+    "defaultMessage": "Manage Currency",
+    "message": "Upravljanje Valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageDashboard",
+    "description": "Manage Dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "kontrolna ploča",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageFailedPayout",
+    "description": "Failed Payout",
+    "defaultMessage": "Failed Payout",
+    "message": "Neuspješno isplata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageFare",
+    "description": "Admin sidemenu",
+    "defaultMessage": "Manage Fare",
+    "message": "Upravljanje tarifom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageNotifications",
+    "description": "Manage Notifications",
+    "defaultMessage": "Manage Notifications",
+    "message": "Upravljanje Obavijesti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.managePayout",
+    "description": "managePayout",
+    "defaultMessage": "Manage Payout",
+    "message": "Upravljanje isplata usluge",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.managePromoCode",
+    "description": "managePromoCode sidemenu",
+    "defaultMessage": "Manage Promo Code",
+    "message": "Upravljanje Promo kod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.maximumUploadSizeLabel",
+    "description": "",
+    "defaultMessage": "Maximum upload size",
+    "message": "Maksimalna veličina prijenosa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuFour",
+    "description": "menuFour",
+    "defaultMessage": "MenuFour",
+    "message": "MenuFour",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuOne",
+    "description": "form",
+    "defaultMessage": "MenuOne",
+    "message": "MenuOne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuTwo",
+    "description": "MenuTwo",
+    "defaultMessage": "MenuTwo",
+    "message": "MenuTwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.messageLength",
+    "description": "Message must be 200 characters or less",
+    "defaultMessage": "Message must be 200 characters or less",
+    "message": "Poruka mora biti 200 znakova ili manje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.messageRequired",
+    "description": "Message is required",
+    "defaultMessage": "Message is required",
+    "message": "Poruka je potrebno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDescription",
+    "description": "Description must be 255 characters or less",
+    "defaultMessage": "Description must be 255 characters or less",
+    "message": "Opis mora biti 255 znakova ili manje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDescriptionText",
+    "description": "Meta Description",
+    "defaultMessage": "Meta Description",
+    "message": "Meta opis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaKeyword",
+    "description": "Keyword must be 255 characters or less",
+    "defaultMessage": "Keyword must be 255 characters or less",
+    "message": "Ključna riječ mora biti 255 znakova ili manje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaTitle",
+    "description": "Meta Title",
+    "defaultMessage": "Meta Title",
+    "message": "meta Naslov",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minBasePrice",
+    "description": "Minimum base price amount",
+    "defaultMessage": "Minimum Base Price",
+    "message": "Minimalna Osnovna cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minutePrice",
+    "description": "Minute Price",
+    "defaultMessage": "Minute Price",
+    "message": "minuta Cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minutes",
+    "description": "minutes",
+    "defaultMessage": "minutes",
+    "message": "minuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.montly",
+    "description": "montly",
+    "defaultMessage": "This Month",
+    "message": "Ovaj mjesec",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.no",
+    "description": "no",
+    "defaultMessage": "No",
+    "message": "Ne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.noResult",
+    "description": "noResult",
+    "defaultMessage": "No results found",
+    "message": "Nema rezultata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notEligibleForATrip",
+    "description": "text",
+    "defaultMessage": "Not eligible for a Trip",
+    "message": "Ne ispunjava uvjete za putovanje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.numberError",
+    "description": "Invalid Phone Number",
+    "defaultMessage": "Invalid Phone Number",
+    "message": "Nevažeći telefonski broj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.numericValue",
+    "description": "Numeric value required",
+    "defaultMessage": "Numeric value required",
+    "message": "potrebna numerička vrijednost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.offline",
+    "description": "offline",
+    "defaultMessage": "Offline",
+    "message": "offline",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.online",
+    "description": "online",
+    "defaultMessage": "Online",
+    "message": "Na liniji",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.overAll",
+    "description": "Overall",
+    "defaultMessage": "Overall",
+    "message": "Sve u svemu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageBanner",
+    "description": "Page Banner",
+    "defaultMessage": "Page Banner",
+    "message": "Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageImageBanner",
+    "description": "Page Image Banner",
+    "defaultMessage": "Page Image Banner",
+    "message": "Stranica slike bannera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageName",
+    "description": "Page Name",
+    "defaultMessage": "Page Name",
+    "message": "Naziv stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageTitle",
+    "description": "Page Title",
+    "defaultMessage": "Page Title",
+    "message": "Naslov stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageUrl",
+    "description": "Page URL",
+    "defaultMessage": "Page URL",
+    "message": "URL stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paid",
+    "description": "Paid",
+    "defaultMessage": "Paid",
+    "message": "plaćen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paymentMethod",
+    "description": "Payment Method",
+    "defaultMessage": "Payment Method",
+    "message": "Način plaćanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paymentType",
+    "description": "Payment Type",
+    "defaultMessage": "Payment Type",
+    "message": "Način plaćanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.payoutAmount",
+    "description": "Payout Amount",
+    "defaultMessage": "Payout Amount",
+    "message": "Iznos isplate",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.payoutStatus",
+    "description": "Payout Status",
+    "defaultMessage": "Payout Status",
+    "message": "isplata status",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pending",
+    "description": "Pending Status",
+    "defaultMessage": "Pending",
+    "message": "U tijeku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentError",
+    "description": "Choose percentage value between 1 to 99",
+    "defaultMessage": "Choose percentage value between 1 to 99",
+    "message": "Odabrati postotak vrijednost između 1 do 99",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentage",
+    "description": "text",
+    "defaultMessage": "Percentage",
+    "message": "Postotak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentageFeeType",
+    "description": "Percentage Fee Type",
+    "defaultMessage": "Percentage",
+    "message": "Postotak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.permit",
+    "description": "Permit Status",
+    "defaultMessage": "Permit",
+    "message": "Dozvola",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.phoneDialCode",
+    "description": "Phone Dial Code",
+    "defaultMessage": "Country Code",
+    "message": "Kod države",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pickupLocation",
+    "description": "PickUp Location",
+    "defaultMessage": "PickUp Location",
+    "message": "Hvata Lokacija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.preview",
+    "description": "Preview",
+    "defaultMessage": "Preview",
+    "message": "pregled",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.privacyPolicies",
+    "description": "Privacy Policy",
+    "defaultMessage": "Privacy Policy",
+    "message": "Izjava o privatnosti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.profileId",
+    "description": "Profile Id for user",
+    "defaultMessage": "Profile ID",
+    "message": "ID profila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.profilePicture",
+    "description": "profilePicture",
+    "defaultMessage": "Profile Picture",
+    "message": "Profilna slika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.promoCodeId",
+    "description": "Promo Code",
+    "defaultMessage": "Promo Code",
+    "message": "Promo kod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.promoType",
+    "description": "text",
+    "defaultMessage": "Type",
+    "message": "Tip",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ratings",
+    "description": "Ratings",
+    "defaultMessage": "Ratings",
+    "message": "ocjene",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rcImage",
+    "description": "rcImage",
+    "defaultMessage": "RC Book Image",
+    "message": "RC Book slike",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reason",
+    "description": "Reason",
+    "defaultMessage": "Reason",
+    "message": "Razlog",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reasonRequired",
+    "description": "Reason is required",
+    "defaultMessage": "Reason is required",
+    "message": "Razlog je potrebno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.removeLocation",
+    "description": "Polygon remove",
+    "defaultMessage": "Remove Location",
+    "message": "Ukloni lokaciju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reviewsBy",
+    "description": "reviewsBy",
+    "defaultMessage": "Reviews By",
+    "message": "Pregledi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rider",
+    "description": "Rider",
+    "defaultMessage": "Rider",
+    "message": "Jahač",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderCommission",
+    "description": "Rider Commission Percentage",
+    "defaultMessage": "Rider Commission(%)",
+    "message": "Jahač komisija (%)",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderEmail",
+    "description": "Rider Email",
+    "defaultMessage": "Rider Email",
+    "message": "jahač e",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderFeeType",
+    "description": "Rider Fee Type",
+    "defaultMessage": "Rider Fee Type",
+    "message": "Jahač Naknada Vrsta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderFeeValue",
+    "description": "Rider Fee Value",
+    "defaultMessage": "Rider Commission",
+    "message": "jahač komisija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderName",
+    "description": "Rider Name",
+    "defaultMessage": "Rider Name",
+    "message": "jahač Ime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderPayableAmount",
+    "description": "Special Trip Total Fare",
+    "defaultMessage": "Rider Payable Amount",
+    "message": "Jahač Plaća Iznos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderServiceFee",
+    "description": "Rider Service Fee",
+    "defaultMessage": "Rider Service Fee",
+    "message": "Jahač naknada za uslugu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderTotalFare",
+    "description": "Rider Total Fare",
+    "defaultMessage": "Rider Total Fare",
+    "message": "Jahač Ukupno Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riders",
+    "description": "Riders",
+    "defaultMessage": "Riders",
+    "message": "jahači",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ridersMenu",
+    "description": "ridersMenu",
+    "defaultMessage": "Manage Riders",
+    "message": "Upravljanje jahačima",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyButton",
+    "description": "safetyButton",
+    "defaultMessage": "View all safety features",
+    "message": "Pogledaj sve sigurnosne značajke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyContent",
+    "description": "Safety",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum je jednostavno dummy tekst tiska i slaganje sloga industrije. Lorem Ipsum postoji kao industrijski standard probni tekst još od 1500-ih, kada je nepoznati tiskar uzeo tiskarsku galiju slova i posložio ih da bi napravio knjigu s uzorkom tiska.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Playstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Appstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage3",
+    "description": "Rider Banner",
+    "defaultMessage": "Rider Banner",
+    "message": "jahač bannera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetySectionSettings",
+    "description": "Rider Apps Settings",
+    "defaultMessage": "Rider App",
+    "message": "jahač aplikacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.searchLocation",
+    "description": "Auto-Complete input",
+    "defaultMessage": "Search Location",
+    "message": "Traži Mjesto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.setBaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Base Currency",
+    "message": "Određivanje osnovne valute",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupDrive",
+    "description": "Sign up to drive",
+    "defaultMessage": "Sign up to drive",
+    "message": "Prijavite se za vožnju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "TrgovinPlay Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Appstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage3",
+    "description": "Driver Banner",
+    "defaultMessage": "Driver Banner",
+    "message": "vozač bannera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupRide",
+    "description": "Sign up to ride",
+    "defaultMessage": "Sign up to ride",
+    "message": "Prijavite se za vožnju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupSectionSettings",
+    "description": "Driver Apps Settings",
+    "defaultMessage": "Driver App",
+    "message": "vozač aplikacija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteAdmin",
+    "description": "siteAdmin",
+    "defaultMessage": "Site Admin",
+    "message": "Brzina",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteSettings",
+    "description": "Site Settings",
+    "defaultMessage": "Site Settings",
+    "message": "Postavke stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderTitle",
+    "description": "sliderTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderTitleDesc",
+    "description": "sliderTitleDesc",
+    "defaultMessage": "Percipit repudiandae an eum, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "message": "Percipit repudiandae je eum, enim slučaju EOS br. Percipit tractatos pertinacia sperma id ad EOS facete malorum recusabo, vis insolens Perpetua definitionem ex.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.specialTripPrice",
+    "description": "discount text",
+    "defaultMessage": "Rider Discount Amount",
+    "message": "Jahač Iznos popusta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.startDriving",
+    "description": "Start Driving",
+    "defaultMessage": "Start Driving",
+    "message": "Početak Vožnja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.startRideing",
+    "description": "Start Riding",
+    "defaultMessage": "Start Riding",
+    "message": "Početak Jahanje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.staticpageManagement",
+    "description": "Manage Static Content",
+    "defaultMessage": "Manage Static Content",
+    "message": "Upravljanje Statični Sadržaj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.status",
+    "description": "Status Active/Inactive",
+    "defaultMessage": "Status",
+    "message": "Status",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuOne",
+    "description": "subMenuOne",
+    "defaultMessage": "subMenuOne",
+    "message": "subMenuOne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuThree",
+    "description": "subMenuThree",
+    "defaultMessage": "subMenuThree",
+    "message": "subMenuThree",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuTwo",
+    "description": "subMenuTwo",
+    "defaultMessage": "subMenuTwo",
+    "message": "subMenuTwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.submitButton",
+    "description": "Submit",
+    "defaultMessage": "Submit",
+    "message": "podnijeti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.symbol",
+    "description": "currencyManagement value",
+    "defaultMessage": "Symbol",
+    "message": "Simbol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.table",
+    "description": "Table",
+    "defaultMessage": "Table",
+    "message": "Stol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsAmount",
+    "description": "Tips Amount",
+    "defaultMessage": "Tips Amount",
+    "message": "Savjeti za iznos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title",
+    "description": "text",
+    "defaultMessage": "Title",
+    "message": "Titula",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title1",
+    "description": "Title 1",
+    "defaultMessage": "Title 1",
+    "message": "Naslov 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title2",
+    "description": "Title 2",
+    "defaultMessage": "Title 2",
+    "message": "Naslov 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title3",
+    "description": "Title 3",
+    "defaultMessage": "Title 3",
+    "message": "Naslov 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title4",
+    "description": "Title 4",
+    "defaultMessage": "Title 4",
+    "message": "Naslov 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title5",
+    "description": "Title 5",
+    "defaultMessage": "Title 5",
+    "message": "Naslov 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title6",
+    "description": "Title 6",
+    "defaultMessage": "Title 6",
+    "message": "Naslov 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.today",
+    "description": "today",
+    "defaultMessage": "Today",
+    "message": "Danas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tollFee",
+    "description": "tollFee",
+    "defaultMessage": "Toll Fee",
+    "message": "cestarina naknada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalDuration",
+    "description": "Total Duration",
+    "defaultMessage": "Total Duration",
+    "message": "ukupno trajanje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalFare",
+    "description": "Total Fare",
+    "defaultMessage": "Total Fare",
+    "message": "ukupno Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalRideDistance",
+    "description": "Total Rider Distance",
+    "defaultMessage": "Total Rider Distance",
+    "message": "Ukupno jahač Udaljenost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripDate",
+    "description": "Trip Date",
+    "defaultMessage": "Trip Date",
+    "message": "putovanja Datum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripEnd",
+    "description": "Trip End",
+    "defaultMessage": "Trip End",
+    "message": "putovanje Kraj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripStart",
+    "description": "Trip Start",
+    "defaultMessage": "Trip Start",
+    "message": "putovanje Početak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripStatus",
+    "description": "Trip Status",
+    "defaultMessage": "Trip Status",
+    "message": "la status",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.unitPrice",
+    "description": "Unit Price",
+    "defaultMessage": "Unit Price",
+    "message": "Jedinična cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.unpaid",
+    "description": "Unpaid",
+    "defaultMessage": "Unpaid",
+    "message": "neplaćen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.update",
+    "description": "Update",
+    "defaultMessage": "Update",
+    "message": "ažuriranje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.useFullLink",
+    "description": "Usefull Links",
+    "defaultMessage": "Usefull Links",
+    "message": "Korisni linkovi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.usedPromoCode",
+    "description": "text",
+    "defaultMessage": "Used Promo Code",
+    "message": "Rabljeni Promo kod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.userStatus",
+    "description": "User Status Active/Inactive",
+    "defaultMessage": "User Status",
+    "message": "Status korisnika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validUrl",
+    "description": "Valid URL required",
+    "defaultMessage": "Valid URL required",
+    "message": "potreban važeći URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vechicleName",
+    "description": "Vehicle",
+    "defaultMessage": "Vehicle",
+    "message": "Vozilo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleId",
+    "description": "Vehicle ID",
+    "defaultMessage": "Vehicle ID",
+    "message": "ID vozila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleName",
+    "description": "Vehicle Name",
+    "defaultMessage": "Vehicle Name",
+    "message": "Naziv vozila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNameError3",
+    "description": "New Password must be minimum 8 characters",
+    "defaultMessage": "Vehicle Name must be minimum 3 characters and maximum 15 characters",
+    "message": "Ime vozilo mora biti minimalno 3 znaka i maksimalno 15 znakova",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNumber",
+    "description": "Vehicle Number",
+    "defaultMessage": "Vehicle Number",
+    "message": "vozila Broj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNumberError",
+    "description": "Invalid Vehicle Number",
+    "defaultMessage": "Invalid Vehicle Number",
+    "message": "Pogrešan broj vozila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleOwnerEmail",
+    "description": "Vehicle Owner Email",
+    "defaultMessage": "Vehicle Owner Email",
+    "message": "Vozila Vlasnik e",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleOwnerName",
+    "description": "Vehicle Owner Name",
+    "defaultMessage": "Vehicle Owner Name",
+    "message": "Vozila Ime vlasnika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleType",
+    "description": "Vehicle Type",
+    "defaultMessage": "Vehicle Type",
+    "message": "tip vozila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehiclesMenu",
+    "description": "vehiclesMenu",
+    "defaultMessage": "Manage Vehicles",
+    "message": "Upravljanje vozila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.view",
+    "description": "View Details Link",
+    "defaultMessage": "View",
+    "message": "Pogled",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.viewCity",
+    "description": "view City",
+    "defaultMessage": "View city",
+    "message": "pogled na grad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.wallet",
+    "description": "Wallet",
+    "defaultMessage": "Wallet",
+    "message": "Novčanik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.walletBalance",
+    "description": "Wallet Balance",
+    "defaultMessage": "Wallet Balance",
+    "message": "Stanje novčanik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.weekly",
+    "description": "weekly",
+    "defaultMessage": "This Week",
+    "message": "Ovaj tjedan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.yes",
+    "description": "Yes",
+    "defaultMessage": "Yes",
+    "message": "Da",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "rentall.dropzoneUpload",
+    "description": "Dropzone upload info",
+    "defaultMessage": "Upload a file from your computer",
+    "message": "Prenesite datoteku s vašeg računala",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "rentall.dropzoneUploadError",
+    "description": "Dropzone upload error message",
+    "defaultMessage": "Remove the existing image and try upload again",
+    "message": "Uklonite postojeću sliku i pokušati upload ponovo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "AddListSettingsForm.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Dodati",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNew",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Ime",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNewDescription",
+    "description": "description",
+    "defaultMessage": "Description",
+    "message": "Opis",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.delete",
+    "description": "Delete Button",
+    "defaultMessage": "Delete",
+    "message": "Izbrisati",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.required",
+    "description": "Required",
+    "defaultMessage": "*Required",
+    "message": "*Potreban",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.update",
+    "description": "Update Button",
+    "defaultMessage": "Update",
+    "message": "ažuriranje",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "exceedLimit",
+    "description": "exceedLimit",
+    "defaultMessage": "Maximum allowed character is 255.",
+    "message": "Najveća dopuštena lik je 255.",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.blankSpace",
+    "description": "Password error",
+    "defaultMessage": "Password should not be blank space.",
+    "message": "Lozinka ne smije biti prazan prostor.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailBlankSpace",
+    "description": "email address error",
+    "defaultMessage": "Email should not be blank spaces",
+    "message": "E-mail se ne bi trebali biti razmaci",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailInvalid",
+    "description": "email address error",
+    "defaultMessage": "*Invalid email address",
+    "message": "* Pogrešna adresa e-pošte",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.passwordInvalid",
+    "description": "Password minimum characters error",
+    "defaultMessage": "Password should be minimum 8 characters.",
+    "message": "Lozinka treba biti najmanje 8 znakova.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exportDataIntoCSV",
+    "description": "Export Data into CSV",
+    "defaultMessage": "Export Data into CSV",
+    "message": "Izvoz podataka u CSV",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminName",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Ime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminRole",
+    "description": "Admin Role",
+    "defaultMessage": "Admin Role",
+    "message": "Uloga administratora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailText",
+    "description": "Email",
+    "defaultMessage": "Email",
+    "message": "E-mail",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdmin",
+    "description": "Manage Admins",
+    "defaultMessage": "Manage Admins",
+    "message": "Administracijsko upravljanje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdminRoles",
+    "description": "Manage Admin Roles",
+    "defaultMessage": "Manage Admin Roles",
+    "message": "Upravljanje uloge administratora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdminUsers",
+    "description": "Manage Admin Users",
+    "defaultMessage": "Manage Admin Users",
+    "message": "Upravljanje Administratori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordText",
+    "description": "Password Content",
+    "defaultMessage": "Provide new password only. Ignore this field to use the existing password for this user.",
+    "message": "Dati samo novu lozinku. Zanemari ovo polje koristiti postojeću lozinku za ovog korisnika.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.privileges",
+    "description": "Privileges",
+    "defaultMessage": "Privileges",
+    "message": "privilegije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.role",
+    "description": "Role",
+    "defaultMessage": "Role",
+    "message": "Uloga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.roleName",
+    "description": "Role Name",
+    "defaultMessage": "Role Name",
+    "message": "Naziv uloge",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.selectRole",
+    "description": "Select Role",
+    "defaultMessage": "Select Role",
+    "message": "Odaberite uloga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addNewLabel",
+    "description": "Add New",
+    "defaultMessage": "Add New",
+    "message": "Dodaj novi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminUserLabel",
+    "description": "Admin User",
+    "defaultMessage": "Admin User",
+    "message": "Admin User",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.chooseLanguageLabel",
+    "description": "Choose a Language",
+    "defaultMessage": "Choose a Language",
+    "message": "Odaberite jezik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Disable",
+    "description": "Ban Status",
+    "defaultMessage": "Disable",
+    "message": "Onemogući",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Disabled",
+    "description": "Ban Status",
+    "defaultMessage": "Disabled",
+    "message": "Onemogućeno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Enable",
+    "description": "Ban Status",
+    "defaultMessage": "Enable",
+    "message": "Omogućiti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Enabled",
+    "description": "Ban Status",
+    "defaultMessage": "Enabled",
+    "message": "Omogućeno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Support",
+    "description": "Ban Status",
+    "defaultMessage": "Support",
+    "message": "podrška",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.askQuestion",
+    "description": "Ban Status",
+    "defaultMessage": "Ask a question",
+    "message": "Pitati pitanje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.lastHours",
+    "description": "Ban Status",
+    "defaultMessage": "Last 24 hours",
+    "message": "Zadnja 24 sata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.listings",
+    "description": "Ban Status",
+    "defaultMessage": "Listings",
+    "message": "Ispis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notFound",
+    "description": "Ban Status",
+    "defaultMessage": "Sorry, the page you were trying to view does not exist.",
+    "message": "Nažalost, stranica koju ste pokušali pogled ne postoji.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reportIssue",
+    "description": "Ban Status",
+    "defaultMessage": "Report an issue",
+    "message": "Prijaviti problem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reservations",
+    "description": "Ban Status",
+    "defaultMessage": "Reservations",
+    "message": "Rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.setBase",
+    "description": "Ban Status",
+    "defaultMessage": "Set as base currency",
+    "message": "Postavi kao osnovne valute",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalList",
+    "description": "Ban Status",
+    "defaultMessage": "Total Listings",
+    "message": "ukupno Ispis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalReserv",
+    "description": "Ban Status",
+    "defaultMessage": "Total Reservations",
+    "message": "Ukupno Rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalUser",
+    "description": "Ban Status",
+    "defaultMessage": "Total Users",
+    "message": "Ukupno korisnika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.oneOne",
+    "description": "Ban Status",
+    "defaultMessage": "One",
+    "message": "Jedan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categorieslist",
+    "description": "categoryMenu",
+    "defaultMessage": "Categories",
+    "message": "Kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currencies",
+    "description": "Ban Status",
+    "defaultMessage": "Currencies",
+    "message": "valute",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.drivPayout",
+    "description": "managePayout",
+    "defaultMessage": "Driver Payout",
+    "message": "vozač isplata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fares",
+    "description": "Fares",
+    "defaultMessage": "Fares",
+    "message": "cijene",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeonly",
+    "description": "Fares",
+    "defaultMessage": "Home",
+    "message": "Dom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicles",
+    "description": "Fares",
+    "defaultMessage": "Vehicles",
+    "message": "vozila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.allonly",
+    "description": "Fares",
+    "defaultMessage": "All",
+    "message": "svi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.appstorelink",
+    "description": "Fares",
+    "defaultMessage": "App Store Link",
+    "message": "App Store Veza",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverappcntn",
+    "description": "Fares",
+    "defaultMessage": "Driver App Content",
+    "message": "Vozač Aplikacija sadržaj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverapptitle",
+    "description": "Fares",
+    "defaultMessage": "Driver App Title",
+    "message": "Vozač Naslov aplikacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.facebookUrl",
+    "description": "Fares",
+    "defaultMessage": "Facebook URL",
+    "message": "Facebook URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.instaUrl",
+    "description": "Fares",
+    "defaultMessage": "Instagram URL",
+    "message": "Instagram URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logoheight",
+    "description": "Fares",
+    "defaultMessage": "Logo Height",
+    "message": "logotip Visina",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logowidth",
+    "description": "Fares",
+    "defaultMessage": "Logo Width",
+    "message": "logotip Širina",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDesc",
+    "description": "Fares",
+    "defaultMessage": "Meta Description",
+    "message": "Meta opis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metakey",
+    "description": "Fares",
+    "defaultMessage": "Meta Keyword",
+    "message": "meta ključne riječi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.playstorelink",
+    "description": "Fares",
+    "defaultMessage": "Play Store Link",
+    "message": "Play Store Veza",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteName",
+    "description": "Fares",
+    "defaultMessage": "Site Name",
+    "message": "Ime stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteTitle",
+    "description": "Fares",
+    "defaultMessage": "Site Title",
+    "message": "Naslov stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.twiterUrl",
+    "description": "Fares",
+    "defaultMessage": "Twitter URL",
+    "message": "Twitter URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.youtubeUrl",
+    "description": "Fares",
+    "defaultMessage": "Youtube URL",
+    "message": "Youtube URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addOnly",
+    "description": "Fares",
+    "defaultMessage": "Address",
+    "message": "Adresa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.checkmein",
+    "description": "Fares",
+    "defaultMessage": "Check me in",
+    "message": "Prijavi me",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.checkmeout",
+    "description": "Fares",
+    "defaultMessage": "Check me out",
+    "message": "Provjerite me",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content",
+    "description": "Content 1",
+    "defaultMessage": "Content",
+    "message": "Sadržaj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.credentialError",
+    "description": "Fares",
+    "defaultMessage": "Sorry, a critical error occurred on this page.",
+    "message": "Žao nam je, došlo je kritična pogreška na ovoj stranici.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.errorOnly",
+    "description": "Fares",
+    "defaultMessage": "Error",
+    "message": "greška",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.miles",
+    "description": "Fares",
+    "defaultMessage": "Miles",
+    "message": "milja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.state",
+    "description": "Fares",
+    "defaultMessage": "State",
+    "message": "država",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tableCell",
+    "description": "Fares",
+    "defaultMessage": "Table cell",
+    "message": "Tablica stanica",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tableHead",
+    "description": "Fares",
+    "defaultMessage": "Table heading",
+    "message": "naslov Tablica",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.buttonLabel",
+    "description": "Change Password",
+    "defaultMessage": "Button Label",
+    "message": "gumb Oznaka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.confirmPassword",
+    "description": "Change Password",
+    "defaultMessage": "Confirm Password",
+    "message": "Potvrdi lozinku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.copyRightcontent",
+    "description": "Change Password",
+    "defaultMessage": "Copyrights content",
+    "message": "sadržaj autorska prava",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #1",
+    "message": "Značajka Opis # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #2",
+    "message": "Značajka Opis # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #3",
+    "message": "Značajka Opis # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #4",
+    "message": "Značajka Opis # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #5",
+    "message": "Značajka Opis # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #6",
+    "message": "Značajka Opis # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #1",
+    "message": "Značajka Naslov # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #2",
+    "message": "Značajka Naslov # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #3",
+    "message": "Značajka Naslov # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #4",
+    "message": "Značajka Naslov # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #5",
+    "message": "Značajka Naslov # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #6",
+    "message": "Značajka Naslov # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerContent1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Content #1",
+    "message": "Podnožje Sadržaj # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Title #1",
+    "message": "Podnožje Naslov # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerUrltitle",
+    "description": "Change Password",
+    "defaultMessage": "Footer URL Title",
+    "message": "Podnožje Naslov URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.msgOnly",
+    "description": "Change Password",
+    "defaultMessage": "Message",
+    "message": "Poruka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.nameOnly",
+    "description": "Change Password",
+    "defaultMessage": "Name",
+    "message": "Ime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.optionOne",
+    "description": "Fares",
+    "defaultMessage": "option 1",
+    "message": "opcija 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.radioButton",
+    "description": "Change Password",
+    "defaultMessage": "Radio button",
+    "message": "Radio gumb",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.redioOne",
+    "description": "Fares",
+    "defaultMessage": "radio 1",
+    "message": "radio 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderAppContent",
+    "description": "Change Password",
+    "defaultMessage": "Rider App Content",
+    "message": "Sadržaj jahač aplikacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderApptitle",
+    "description": "Change Password",
+    "defaultMessage": "Rider App Title",
+    "message": "Rider Naslov aplikacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.leaveEmail",
+    "description": "Change Password",
+    "defaultMessage": "Leave email address field blank if you don't want to change the email",
+    "message": "Ostavite e-mail adresu polje praznim ako ne želite promijeniti e-mail",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.searchOnly",
+    "description": "Change Password",
+    "defaultMessage": "Search",
+    "message": "traži",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Dodati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.topFeatures",
+    "description": "Top Features Section Settings",
+    "defaultMessage": "Top Features Section Settings",
+    "message": "Postavke odjeljka s glavnim značajkama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingDetails",
+    "description": "Booking Details",
+    "defaultMessage": "Booking Details",
+    "message": "Detalji rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.changeAdminPassword",
+    "description": "Change Admin Email/Password",
+    "defaultMessage": "Change Admin Email/Password",
+    "message": "Promijenite administratorsku e-adresu / lozinku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currencyList",
+    "description": "Currency List",
+    "defaultMessage": "Currency List",
+    "message": "Lista valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverPayout",
+    "description": "Manage Driver Payouts",
+    "defaultMessage": "Manage Driver Payouts",
+    "message": "Upravljanje isplatama vozača",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editLocation",
+    "description": "Edit Location",
+    "defaultMessage": "Edit Location",
+    "message": "Uredi lokaciju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverAndriodVersion",
+    "description": "Andriod",
+    "defaultMessage": "Driver Android Version",
+    "message": "Vozač Verzija Androida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driveriosVersion",
+    "description": "iOS",
+    "defaultMessage": "Driver iOS Version",
+    "message": "Vozač iOS Verzija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.forceUpdate",
+    "description": "forceUpdate",
+    "defaultMessage": "Force update",
+    "message": "ažuriranje sila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderAndriodVersion",
+    "description": "riderAndriodVersion",
+    "defaultMessage": "Rider Android Version",
+    "message": "Rider verzija Androida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rideriosVersion",
+    "description": "rideriosVersion",
+    "defaultMessage": "Rider iOS Version",
+    "message": "Jahač iOS Verzija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.to",
+    "description": "Label",
+    "defaultMessage": "To",
+    "message": "Do",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validatePasswordLength",
+    "description": "Password length Validation",
+    "defaultMessage": "Password must be minimum 8 characters",
+    "message": "Lozinka mora sadržavati najmanje 8 znakova",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validateConfirmPasswordLength",
+    "description": "Confirm Password length Validation",
+    "defaultMessage": "Confirm Password must be minimum 8 characters",
+    "message": "Potvrdite da lozinka mora imati najmanje 8 znakova",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validatePasswordMatch",
+    "description": "Password mismatch",
+    "defaultMessage": "Password is mismatching with Confirm password",
+    "message": "Lozinka se ne podudara s Potvrdi lozinku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.completedLabel",
+    "description": "Label",
+    "defaultMessage": "Completed",
+    "message": "dovršen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Driver Billing Information",
+    "message": "Informacije o upravljačkom programu naplate",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverEarnings",
+    "description": "Label",
+    "defaultMessage": "Driver Earnings",
+    "message": "Zarada vozač",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notRequired",
+    "description": "Label",
+    "defaultMessage": "No Action Required",
+    "message": "Ne radnja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.platformEarnings",
+    "description": "Label",
+    "defaultMessage": "Platform Earnings",
+    "message": "platforma Zarada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.platformOffered",
+    "description": "Label",
+    "defaultMessage": "Platform Overdrafts",
+    "message": "platforma prekoračenja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.processedCash",
+    "description": "Label",
+    "defaultMessage": "Processed via cash",
+    "message": "Obrađeni putem gotovine",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rideFare",
+    "description": "Label",
+    "defaultMessage": "Ride Fare",
+    "message": "vožnja Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Rider Billing Information",
+    "message": "Jahač podataka o naplati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsGivenToDriver",
+    "description": "Label",
+    "defaultMessage": "Tips given to the driver",
+    "message": "Savjet dao vozaču",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsReceivedFromRider",
+    "description": "Label",
+    "defaultMessage": "Tips received from the rider",
+    "message": "Savjet dobivene od vozača",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addAdminRole",
+    "description": "Title",
+    "defaultMessage": "Add Admin Role",
+    "message": "Dodaj Admin ulogu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAdminRole",
+    "description": "Title",
+    "defaultMessage": "Edit Admin Role",
+    "message": "Uredi Uloga administratora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.locations",
+    "description": "Pagination",
+    "defaultMessage": "Locations",
+    "message": "lokacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addAdminUserLabel",
+    "description": "Add Admin User",
+    "defaultMessage": "Add Admin User",
+    "message": "Dodaj administrator",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAdminUserLabel",
+    "description": "Edit Admin User",
+    "defaultMessage": "Edit Admin User",
+    "message": "Uredi administratora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.approved",
+    "description": "Approved Status",
+    "defaultMessage": "Approved",
+    "message": "odobren",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledByDriver",
+    "description": "Cancelled By Driver Status",
+    "defaultMessage": "Cancelled By Driver",
+    "message": "Otkazana od strane vozača",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledByRider",
+    "description": "Cancelled By Rider Status",
+    "defaultMessage": "Cancelled By Rider",
+    "message": "Otkazano Do Rider",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.completed",
+    "description": "Completed Status",
+    "defaultMessage": "Completed",
+    "message": "dovršen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.declined",
+    "description": "Declined Status",
+    "defaultMessage": "Declined",
+    "message": "Odbijeno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.expired",
+    "description": "Expired Status",
+    "defaultMessage": "Expired",
+    "message": "Istekao",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.started",
+    "description": "Started Status",
+    "defaultMessage": "Started",
+    "message": "počeo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notRequiredMessage",
+    "description": "Not Required",
+    "defaultMessage": "Not Required",
+    "message": "Nije obavezno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverPrivacyPolicy",
+    "description": "Title",
+    "defaultMessage": "Driver Privacy Policy",
+    "message": "Vozač privatnosti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.precautionNotification",
+    "description": "Title",
+    "defaultMessage": "Precaution Notification",
+    "message": "mjera opreza Obavijest",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.image",
+    "description": "Label",
+    "defaultMessage": "Image",
+    "message": "Slika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduleBooking",
+    "description": "Label",
+    "defaultMessage": "Schedule Bookings",
+    "message": "Raspored rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduled",
+    "description": "Trip status",
+    "defaultMessage": "Scheduled",
+    "message": "planiran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduledFrom",
+    "description": "Label",
+    "defaultMessage": "Scheduled From",
+    "message": "Planirano Od",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduledTo",
+    "description": "Label",
+    "defaultMessage": "Scheduled To",
+    "message": "Planirano za",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.failed",
+    "description": "Trip Status of Schedule History",
+    "defaultMessage": "Failed",
+    "message": "Neuspjeh",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.updated",
+    "description": "Trip Status of Schedule History",
+    "defaultMessage": "Updated",
+    "message": "obnovljeno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVersionNumber",
+    "description": "invalidVersionNumber",
+    "defaultMessage": "Invalid Version Number",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pendingLabel",
+    "description": "Label",
+    "defaultMessage": "Pending",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.updatedAt",
+    "description": "Label",
+    "defaultMessage": "Updated At",
+    "message": "Ažurirano na",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduleBookingHistory",
+    "description": "Heading",
+    "defaultMessage": "Schedule Booking History",
+    "message": "Raspored Povijest rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  }
+]

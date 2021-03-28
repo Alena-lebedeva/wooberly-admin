@@ -1,0 +1,12 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../../../components/responsive-common.css';
+
+
+.radioText {
+  padding: 0 15px;
+}
+.radioTextLabel {
+  vertical-align: middle;
+  margin-top: 4px;
+}

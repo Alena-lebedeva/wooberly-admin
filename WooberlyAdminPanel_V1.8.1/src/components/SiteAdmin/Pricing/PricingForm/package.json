@@ -1,0 +1,6 @@
+{
+    "name": "PricingForm",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./PricingForm.js"
+}

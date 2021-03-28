@@ -1,0 +1,11 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../../../components/responsive-common.css';
+
+
+.userStatusBadge {
+  margin-left: 10px;
+  font-size: 14px;
+  font-weight: normal;
+  vertical-align: middle;
+}

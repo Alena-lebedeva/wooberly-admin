@@ -1,0 +1,12 @@
+query getAllCancelReason ($searchList: String $currentPage: Int) {
+  getAllCancelReason(searchList: $searchList currentPage: $currentPage) {
+    count
+    result{
+      id
+      reason
+      userType
+      isActive
+    }
+    status
+  }
+}

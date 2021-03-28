@@ -1,0 +1,9 @@
+query getLocation($id: Int!){
+  getLocation( id: $id){
+    id
+   	locationName
+    coordinates
+    description
+    isActive
+  }
+}

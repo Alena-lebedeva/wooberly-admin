@@ -1,0 +1,6 @@
+{
+    "name": "AddCategoryForm",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./AddCategoryForm.js"
+}

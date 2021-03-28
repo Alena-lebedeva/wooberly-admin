@@ -1,0 +1,4488 @@
+[
+  {
+    "id": "login.title",
+    "description": "Log in page title",
+    "defaultMessage": "Log In",
+    "message": "登录"
+  },
+  {
+    "id": "radicalstart.Becomeahost",
+    "description": "Becomeahost",
+    "defaultMessage": "Become a host",
+    "message": "成为主机",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Discover",
+    "description": "Discover",
+    "defaultMessage": "Discover",
+    "message": "发现",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Hosting",
+    "description": "Hosting",
+    "defaultMessage": "Hosting",
+    "message": "主机",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Terms",
+    "description": "Terms",
+    "defaultMessage": "Terms & Privacy",
+    "message": "条款和隐私权",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Travel",
+    "description": "Trust",
+    "defaultMessage": "Travel Credit",
+    "message": "旅游信用卡",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Trust",
+    "description": "Trust",
+    "defaultMessage": "Trust & Safety",
+    "message": "信任与安全",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.about",
+    "description": "About Nav link",
+    "defaultMessage": "About",
+    "message": "关于",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutFooter",
+    "description": "AboutFooter",
+    "defaultMessage": "About Us",
+    "message": "关于我们",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminpanel",
+    "description": "admin panel",
+    "defaultMessage": "Admin Panel",
+    "message": "管理面板",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bannerDesc",
+    "description": "Description in header",
+    "defaultMessage": "Complex web apps made easy",
+    "message": "复杂的Web应用程序容易做",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bannerTitle",
+    "description": "Title in page header",
+    "defaultMessage": "React",
+    "message": "应对",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.brand",
+    "description": "Brand name displayed in header",
+    "defaultMessage": "RadicalStart",
+    "message": "RadicalStart",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contact",
+    "description": "Contact Nav link",
+    "defaultMessage": "Contact",
+    "message": "联系",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contactUs",
+    "description": "contact",
+    "defaultMessage": "Contact Us",
+    "message": "联系我们",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dashboard",
+    "description": "dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "仪表板",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dummyText",
+    "description": "dummyText",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem存有简直是印刷排版行业的虚拟文本。 Lorem存有一直是业界标准的虚拟文本，自从16世纪，当一个未知的打印机了类型的厨房和炒它使一个模式标本书。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailaddress",
+    "description": "emailaddress",
+    "defaultMessage": "Email Address",
+    "message": "电子邮件地址",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.firstName",
+    "description": "firstName",
+    "defaultMessage": "First Name",
+    "message": "名字",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.formssidebar",
+    "description": "formssidebar",
+    "defaultMessage": "Forms",
+    "message": "形式",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.heading",
+    "description": "heading",
+    "defaultMessage": "Heading",
+    "message": "标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.lastName",
+    "description": "lastName",
+    "defaultMessage": "Last Name",
+    "message": "姓",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.login",
+    "description": "Login Nav link",
+    "defaultMessage": "Login",
+    "message": "登录",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.phoneNumber",
+    "description": "phoneNumber",
+    "defaultMessage": "Phone Number",
+    "message": "电话号码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.recommand",
+    "description": "recommand",
+    "defaultMessage": "Recommand",
+    "message": "支持建议",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rentallContent",
+    "description": "RentALL",
+    "defaultMessage": "RentALL",
+    "message": "RentALL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.select",
+    "description": "select",
+    "defaultMessage": "Select",
+    "message": "选择",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.settings",
+    "description": "settings",
+    "defaultMessage": "Settings",
+    "message": "设置",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signup",
+    "description": "Sign up Nav link",
+    "defaultMessage": "Sign up",
+    "message": "注册",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderContent",
+    "description": "Luxury",
+    "defaultMessage": "Luxury",
+    "message": "豪华",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.textarea",
+    "description": "textarea",
+    "defaultMessage": "Text Area",
+    "message": "文本区域",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.users",
+    "description": "users",
+    "defaultMessage": "Users",
+    "message": "用户",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.password",
+    "description": "password",
+    "defaultMessage": "Password",
+    "message": "密码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.required",
+    "description": "required error message",
+    "defaultMessage": "*Required",
+    "message": "*需要",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.email",
+    "description": "Your Email Address to Login",
+    "defaultMessage": "Email Address",
+    "message": "电子邮件地址",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "无效的邮件地址",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "存在此电子邮件没有考虑。请确保它在输入正确，或者“注册”，而不是",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "电子邮件是必需的",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "您已经登录！",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.password",
+    "description": "Your Password to Login",
+    "defaultMessage": "Password",
+    "message": "密码",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "您的密码必须至少8个字符。请再试一遍",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "密码是必需的",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "密码错误。请再试一遍",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "抱歉，出了一些问题。请再试一遍",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.userLoggedIn",
+    "description": "You are already Logged-in as user",
+    "defaultMessage": "You are already logged in as User, please logout in the main site to continue!",
+    "message": "您已经登录为用户，在主站点继续请退出！",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "无效的邮件地址",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "存在此电子邮件没有考虑。请确保它在输入正确，或者“注册”，而不是",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "电子邮件是必需的",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "您已经登录！",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "您的密码必须至少8个字符。请再试一遍",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "密码是必需的",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "密码错误。请再试一遍",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "抱歉，出了一些问题。请再试一遍",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Amount",
+    "description": "Amount",
+    "defaultMessage": "Amount",
+    "message": "量",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.BaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Base Currency",
+    "message": "基础货币",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.HomeSiteSettings",
+    "description": "HomeSiteSettings",
+    "defaultMessage": "Homepage Settings",
+    "message": "首页设置",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Safety",
+    "description": "Safety",
+    "defaultMessage": "Safety",
+    "message": "安全",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Wooberly",
+    "description": "Wooberly",
+    "defaultMessage": "Wooberly",
+    "message": "Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutFooterDesc",
+    "description": "aboutFooterDesc",
+    "defaultMessage": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "message": "一个暨maiorum repudiandae，铜EAM dolore bonorum probatus。等莱格尔圣哉暨和quot nostrud才对见习恩美。广告ullum audire admodum EOS。氖EAM狴habeo aeque，广告decoreos。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutImage1",
+    "description": "Feature Banner 1",
+    "defaultMessage": "Feature Banner #1",
+    "message": "功能横幅广告＃1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutImage2",
+    "description": "Feature Banner 2",
+    "defaultMessage": "Feature Banner #2",
+    "message": "功能横幅＃2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutSectionSettings",
+    "description": "Top Features Settings",
+    "defaultMessage": "Top Features",
+    "message": "热门功能",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.action",
+    "description": "Action",
+    "defaultMessage": "Action",
+    "message": "行动",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.active",
+    "description": "Active Status",
+    "defaultMessage": "Active",
+    "message": "活性",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addCancelReason",
+    "description": "Add Cancel Reason",
+    "defaultMessage": "Add Cancel Reason",
+    "message": "添加取消原因",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addCategory",
+    "description": "Add category form header",
+    "defaultMessage": "Add Category",
+    "message": "添加类别",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addFare",
+    "description": "Button",
+    "defaultMessage": "Add Fare",
+    "message": "添加票价",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addLocation",
+    "description": "addLocation",
+    "defaultMessage": "Add Location",
+    "message": "添加位置",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addPage",
+    "description": "Add Page",
+    "defaultMessage": "Add Page",
+    "message": "添加页面",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addPromoCode",
+    "description": "Add PromoCode",
+    "defaultMessage": "Add Promo Code",
+    "message": "加入促销代码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adeditFaredFare",
+    "description": "Button",
+    "defaultMessage": "Edit Fare",
+    "message": "编辑票价",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.allowedPaymentCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Allowed Payment Currency",
+    "message": "允许的付款币种",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.approve",
+    "description": "Approve",
+    "defaultMessage": "Approve",
+    "message": "批准",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.availableSeats",
+    "description": "Available Seats",
+    "defaultMessage": "Available Seats",
+    "message": "可用座位",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ban",
+    "description": "Ban Status",
+    "defaultMessage": "Ban",
+    "message": "禁止",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.banStatus",
+    "description": "Ban Status Permit/Ban",
+    "defaultMessage": "Ban Status",
+    "message": "潘基状态",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingId",
+    "description": "Booking ID",
+    "defaultMessage": "Booking ID",
+    "message": "预订ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookings",
+    "description": "bookings",
+    "defaultMessage": "Bookings",
+    "message": "预订",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingsMenu",
+    "description": "bookingsMenu",
+    "defaultMessage": "Manage Bookings",
+    "message": "管理预订",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.button",
+    "description": "Button",
+    "defaultMessage": "Button",
+    "message": "按键",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelButton",
+    "description": "Cancel",
+    "defaultMessage": "Cancel",
+    "message": "取消",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "取消原因",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancellationReasons",
+    "description": "Cancellation Reasons",
+    "defaultMessage": "Cancellation Reasons",
+    "message": "取消的原因",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledBy",
+    "description": "Cancelled By",
+    "defaultMessage": "Cancelled By",
+    "message": "取消了",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.capacity",
+    "description": "Capacity",
+    "defaultMessage": "Capacity",
+    "message": "容量",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.card",
+    "description": "Card",
+    "defaultMessage": "Card",
+    "message": "卡",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cash",
+    "description": "Cash",
+    "defaultMessage": "Cash",
+    "message": "现金",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryMapMarker",
+    "description": "",
+    "defaultMessage": "Category Map Marker",
+    "message": "分类地图标记",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.category",
+    "description": "Category",
+    "defaultMessage": "Category",
+    "message": "类别",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryContent",
+    "description": "Category Content",
+    "defaultMessage": "Category Content",
+    "message": "类别的内容",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryIcon",
+    "description": "",
+    "defaultMessage": "Category Icon",
+    "message": "类别图标",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryId",
+    "description": "Category ID",
+    "defaultMessage": "Category ID",
+    "message": "分类ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryMenu",
+    "description": "categoryMenu",
+    "defaultMessage": "Manage Categories",
+    "message": "管理类别",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryName",
+    "description": "Category Name",
+    "defaultMessage": "Category Name",
+    "message": "分类名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryTitle",
+    "description": "Category Title",
+    "defaultMessage": "Category Title",
+    "message": "分类标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.changePassword",
+    "description": "Change Password",
+    "defaultMessage": "Change Password",
+    "message": "更改密码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.chooseFile",
+    "description": "",
+    "defaultMessage": "Choose File",
+    "message": "选择文件",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.city",
+    "description": "city",
+    "defaultMessage": "Lorem Ipsum is simply dummy text",
+    "message": "Lorem存有简直是虚拟文本",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.citySectionSettings",
+    "description": "Category Settings",
+    "defaultMessage": "Category",
+    "message": "类别",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.code",
+    "description": "text",
+    "defaultMessage": "Code",
+    "message": "码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.comments",
+    "description": "Comments",
+    "defaultMessage": "Comments",
+    "message": "注释",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content1",
+    "description": "Content 1",
+    "defaultMessage": "Content 1",
+    "message": "内容1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content2",
+    "description": "Content 2",
+    "defaultMessage": "Content 2",
+    "message": "内容2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content3",
+    "description": "Content 3",
+    "defaultMessage": "Content 3",
+    "message": "内容3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content4",
+    "description": "Content 4",
+    "defaultMessage": "Content 4",
+    "message": "内容4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content5",
+    "description": "Content 5",
+    "defaultMessage": "Content 5",
+    "message": "内容5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content6",
+    "description": "Content 6",
+    "defaultMessage": "Content 6",
+    "message": "内容6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contentpageManagement",
+    "description": "Content Management",
+    "defaultMessage": "Content Management",
+    "message": "内容管理",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.copyRights",
+    "description": "Copy Rights",
+    "defaultMessage": "Wooberly 2020. All Rights Reserved",
+    "message": "Wooberly 2020年版权所有",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.country",
+    "description": "Country Name",
+    "defaultMessage": "Country",
+    "message": "国家",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.countryCodeError",
+    "description": "Invalid Country Code",
+    "defaultMessage": "Invalid Country Code",
+    "message": "国家代码无效",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.createdAt",
+    "description": "Created date",
+    "defaultMessage": "Account Created on",
+    "message": "已建立账户上",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currency",
+    "description": "Currency Type",
+    "defaultMessage": "Currency",
+    "message": "货币",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.decline",
+    "description": "Decline",
+    "defaultMessage": "Decline",
+    "message": "下降",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.deleteAction",
+    "description": "Delete action name",
+    "defaultMessage": "Delete",
+    "message": "删除",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.description",
+    "description": "text",
+    "defaultMessage": "Description",
+    "message": "描述",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.details",
+    "description": "Details",
+    "defaultMessage": "Details",
+    "message": "细节",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.discount",
+    "description": "text",
+    "defaultMessage": "Discount",
+    "message": "折扣",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus斯凯沃拉elaboraret VEL广告，可见没有NOSTER的Vocent prodesset，NEC EI omittantur dissentiet。诺比斯postea EI EST。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppDriverDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus斯凯沃拉elaboraret VEL广告，可见没有NOSTER的Vocent prodesset，NEC EI omittantur dissentiet。诺比斯postea EI EST。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppText",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Rider App",
+    "message": "下载骑手应用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppTextDriver",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Driver App",
+    "message": "下载驱动程序应用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driver",
+    "description": "driver",
+    "defaultMessage": "Driver",
+    "message": "司机",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverCommission",
+    "description": "Driver Commission Percentage",
+    "defaultMessage": "Driver Commission(%)",
+    "message": "驱动程序委员会（％）",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverEmail",
+    "description": "Driver Email",
+    "defaultMessage": "Driver Email",
+    "message": "司机电子邮件",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverFeeType",
+    "description": "Driver Fee Type",
+    "defaultMessage": "Driver Fee Type",
+    "message": "司机费用类型",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverFeeValue",
+    "description": "Driver Fee Value",
+    "defaultMessage": "Driver Commission",
+    "message": "驱动程序委员会",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverMenu",
+    "description": "driverMenu",
+    "defaultMessage": "Manage Drivers",
+    "message": "管理驱动程序",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverName",
+    "description": "Driver Name",
+    "defaultMessage": "Driver Name",
+    "message": "驱动程序名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverRatings",
+    "description": "Driver Ratings",
+    "defaultMessage": "Driver Ratings",
+    "message": "司机评级",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverServiceFee",
+    "description": "Driver Service Fee",
+    "defaultMessage": "Driver Service Fee",
+    "message": "司机服务费",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverTotalFare",
+    "description": "Driver Total Fare",
+    "defaultMessage": "Driver Total Fare",
+    "message": "司机总费用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.drivers",
+    "description": "drivers",
+    "defaultMessage": "Drivers",
+    "message": "驱动程序",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dropLocation",
+    "description": "Drop Location",
+    "defaultMessage": "Drop Location",
+    "message": "放置位置",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.earnings",
+    "description": "Earnings",
+    "defaultMessage": "Your Earnings",
+    "message": "您的收入",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.edit",
+    "description": "edit",
+    "defaultMessage": "Edit",
+    "message": "编辑",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAction",
+    "description": "Edit action name",
+    "defaultMessage": "Edit",
+    "message": "编辑",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editCancelReason",
+    "description": "Edit Cancel Reason",
+    "defaultMessage": "Edit Cancel Reason",
+    "message": "编辑取消原因",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editCategory",
+    "description": "Edit category form header",
+    "defaultMessage": "Edit Category",
+    "message": "编辑类别",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editDriver",
+    "description": "Edit driver form header",
+    "defaultMessage": "Edit Driver",
+    "message": "编辑驱动程序",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editPageDetails",
+    "description": "Edit Page Details",
+    "defaultMessage": "Edit Page Details",
+    "message": "编辑页面详细信息",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editPromoCode",
+    "description": "Edit PromoCode",
+    "defaultMessage": "Edit Promo Code",
+    "message": "编辑促销代码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editRider",
+    "description": "Edit rider form header",
+    "defaultMessage": "Edit Rider",
+    "message": "编辑骑士",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editVehicle",
+    "description": "Edit vehicle form header",
+    "defaultMessage": "Edit Vehicle",
+    "message": "编辑车",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.eligibleForATrip",
+    "description": "text",
+    "defaultMessage": "Eligible for a Trip",
+    "message": "有资格获得旅行",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.enableDisable",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Enable / Disable",
+    "message": "设置启用/禁用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exceedLimit",
+    "description": "Exceeding character limit",
+    "defaultMessage": "Exceeding character limit",
+    "message": "超出字符限制",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exceedLimit100",
+    "description": "Please dont exceed 100 words",
+    "defaultMessage": "Please dont exceed 100 words",
+    "message": "请不要超过100个字",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.expireDate",
+    "description": "text",
+    "defaultMessage": "Expiry Date",
+    "message": "到期日",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fixed",
+    "description": "Fixed Fee Type",
+    "defaultMessage": "Fixed",
+    "message": "固定",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fixedAmount",
+    "description": "text",
+    "defaultMessage": "Fixed Amount",
+    "message": "固定值",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.floatError",
+    "description": "Numeric Error Response",
+    "defaultMessage": "It should be a number value",
+    "message": "这应该是一个数值",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.followUs",
+    "description": "Follow Us",
+    "defaultMessage": "Follow  Us",
+    "message": "跟着我们",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerCategory",
+    "description": "Footer Category",
+    "defaultMessage": "Footer Category",
+    "message": "页脚类别",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo1",
+    "description": "Footer Logo 1",
+    "defaultMessage": "Footer Logo #1",
+    "message": "页脚标志＃1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo2",
+    "description": "Footer Logo 2",
+    "defaultMessage": "Footer Logo #2",
+    "message": "页脚标志＃2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo3",
+    "description": "Footer Logo 3",
+    "defaultMessage": "Footer Logo #3",
+    "message": "页脚标志＃3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo4",
+    "description": "Footer Logo 4",
+    "defaultMessage": "Footer Logo #4",
+    "message": "页脚徽标＃4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerSectionSettings",
+    "description": "Footer Settings",
+    "defaultMessage": "Footer",
+    "message": "页脚",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.form",
+    "description": "form",
+    "defaultMessage": "Form",
+    "message": "形成",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.goBack",
+    "description": "Go Back Button Text",
+    "defaultMessage": "Go Back",
+    "message": "回去",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.goToMainSite",
+    "description": "goToMainSite option",
+    "defaultMessage": "Go to main site",
+    "message": "转到主网站",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescFive",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "每gloriatur tincidunt标识。 Vim的奥迪奥UNUM atomorum的。 UT埃森特dicunt dolorum妹。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescFour",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "每gloriatur tincidunt标识。 Vim的奥迪奥UNUM atomorum的。 UT埃森特dicunt dolorum妹。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescOne",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "每gloriatur tincidunt标识。 Vim的奥迪奥UNUM atomorum的。 UT埃森特dicunt dolorum妹。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescSix",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "每gloriatur tincidunt标识。 Vim的奥迪奥UNUM atomorum的。 UT埃森特dicunt dolorum妹。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescThree",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "每gloriatur tincidunt标识。 Vim的奥迪奥UNUM atomorum的。 UT埃森特dicunt dolorum妹。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescTwo",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "每gloriatur tincidunt标识。 Vim的奥迪奥UNUM atomorum的。 UT埃森特dicunt dolorum妹。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitle",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem存有",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleFive",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem存有",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleFour",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem存有",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleSix",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem存有",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleThree",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem存有",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleTwo",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem存有",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.holdPayout",
+    "description": "Hold Payout",
+    "defaultMessage": "Hold Payout",
+    "message": "保持派息",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeContent",
+    "description": "Start Riding With Wooberly",
+    "defaultMessage": "Start Riding With Wooberly",
+    "message": "开始骑着Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeContent1",
+    "description": "Banner Content",
+    "defaultMessage": "Banner Content",
+    "message": "横幅内容",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage1",
+    "description": "Banner Image 1",
+    "defaultMessage": "Banner Image #1",
+    "message": "横幅图片＃1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage2",
+    "description": "Banner Image 2",
+    "defaultMessage": "Banner Image #2",
+    "message": "横幅图片＃2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage3",
+    "description": "Banner Image 3",
+    "defaultMessage": "Banner Image #3",
+    "message": "横幅图片＃3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage4",
+    "description": "Banner Image 4",
+    "defaultMessage": "Banner Image #4",
+    "message": "横幅图片＃4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage5",
+    "description": "Banner Image 5",
+    "defaultMessage": "Banner Image #5",
+    "message": "横幅图片＃5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage6",
+    "description": "Banner Image 6",
+    "defaultMessage": "Banner Image #6",
+    "message": "横幅图片＃6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage7",
+    "description": "Banner Image Tablet",
+    "defaultMessage": "Banner Image Tablet",
+    "message": "横幅图片平板",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage8",
+    "description": "Banner Image Mobile",
+    "defaultMessage": "Banner Image Mobile",
+    "message": "横幅图片手机",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeSectionSettings",
+    "description": "Banner Settings",
+    "defaultMessage": "Banner",
+    "message": "旗帜",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeTitle",
+    "description": "Banner Title",
+    "defaultMessage": "Banner Title",
+    "message": "横幅标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homepageBanner",
+    "description": "Homepage Banner Settings",
+    "defaultMessage": "Homepage Banner",
+    "message": "首页横幅",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.id",
+    "description": "ID text",
+    "defaultMessage": "ID",
+    "message": "ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.inactive",
+    "description": "Inactive Status",
+    "defaultMessage": "Inactive",
+    "message": "待用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.insuranceImage",
+    "description": "insuranceImage",
+    "defaultMessage": "Insurance Image",
+    "message": "保险图片",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.intError",
+    "description": "Integer Error Response",
+    "defaultMessage": "It should be a decimal value",
+    "message": "这应该是一个十进制值",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidUrl",
+    "description": "Invalid Page URL",
+    "defaultMessage": "Invalid Page URL",
+    "message": "无效页URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVehicleName",
+    "description": "Invalid Vehicle Name",
+    "defaultMessage": "Invalid Vehicle Name",
+    "message": "无效的车辆名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVehicleNumber",
+    "description": "Invalid Vehicle Number",
+    "defaultMessage": "Invalid Vehicle Number",
+    "message": "无效的车辆号码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.isSpecialTrip",
+    "description": "Special Trip",
+    "defaultMessage": "Special Trip",
+    "message": "专程",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.licenceBackImage",
+    "description": "licenceBackImage",
+    "defaultMessage": "Licence Back Image",
+    "message": "许可后图像",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.licenceFrontImage",
+    "description": "licenceFrontImage",
+    "defaultMessage": "Licence Front Image",
+    "message": "许可证前面的图像",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.location",
+    "description": "location",
+    "defaultMessage": "Manage Location",
+    "message": "管理位置",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.locationName",
+    "description": "Table header",
+    "defaultMessage": "Location",
+    "message": "位置",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logo",
+    "description": "Logo",
+    "defaultMessage": "Logo",
+    "message": "商标",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logout",
+    "description": "logout option",
+    "defaultMessage": "Logout",
+    "message": "登出",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "取消原因",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCancelledTrips",
+    "description": "manageCancelledTrips sidemenu",
+    "defaultMessage": "Cancelled Bookings",
+    "message": "取消预订",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCompletedTrips",
+    "description": "CompletedTrips sidemenu",
+    "defaultMessage": "Completed Bookings",
+    "message": "已完成的预订",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCurrency",
+    "description": "manageCurrency sidemenu",
+    "defaultMessage": "Manage Currency",
+    "message": "管理货币",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageDashboard",
+    "description": "Manage Dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "仪表板",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageFailedPayout",
+    "description": "Failed Payout",
+    "defaultMessage": "Failed Payout",
+    "message": "奖金失败",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageFare",
+    "description": "Admin sidemenu",
+    "defaultMessage": "Manage Fare",
+    "message": "管理车费",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageNotifications",
+    "description": "Manage Notifications",
+    "defaultMessage": "Manage Notifications",
+    "message": "管理通知",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.managePayout",
+    "description": "managePayout",
+    "defaultMessage": "Manage Payout",
+    "message": "管理赔率",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.managePromoCode",
+    "description": "managePromoCode sidemenu",
+    "defaultMessage": "Manage Promo Code",
+    "message": "管理促销代码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.maximumUploadSizeLabel",
+    "description": "",
+    "defaultMessage": "Maximum upload size",
+    "message": "最大上载大小",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuFour",
+    "description": "menuFour",
+    "defaultMessage": "MenuFour",
+    "message": "MenuFour",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuOne",
+    "description": "form",
+    "defaultMessage": "MenuOne",
+    "message": "MenuOne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuTwo",
+    "description": "MenuTwo",
+    "defaultMessage": "MenuTwo",
+    "message": "MenuTwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.messageLength",
+    "description": "Message must be 200 characters or less",
+    "defaultMessage": "Message must be 200 characters or less",
+    "message": "消息必须是200个字符或更少",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.messageRequired",
+    "description": "Message is required",
+    "defaultMessage": "Message is required",
+    "message": "消息需要",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDescription",
+    "description": "Description must be 255 characters or less",
+    "defaultMessage": "Description must be 255 characters or less",
+    "message": "说明必须255个字符或更少",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDescriptionText",
+    "description": "Meta Description",
+    "defaultMessage": "Meta Description",
+    "message": "元描述",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaKeyword",
+    "description": "Keyword must be 255 characters or less",
+    "defaultMessage": "Keyword must be 255 characters or less",
+    "message": "关键字必须为255个字符或更少",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaTitle",
+    "description": "Meta Title",
+    "defaultMessage": "Meta Title",
+    "message": "元标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minBasePrice",
+    "description": "Minimum base price amount",
+    "defaultMessage": "Minimum Base Price",
+    "message": "最低基本价格",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minutePrice",
+    "description": "Minute Price",
+    "defaultMessage": "Minute Price",
+    "message": "分钟的价格",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minutes",
+    "description": "minutes",
+    "defaultMessage": "minutes",
+    "message": "分钟",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.montly",
+    "description": "montly",
+    "defaultMessage": "This Month",
+    "message": "这个月",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.no",
+    "description": "no",
+    "defaultMessage": "No",
+    "message": "没有",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.noResult",
+    "description": "noResult",
+    "defaultMessage": "No results found",
+    "message": "未找到结果",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notEligibleForATrip",
+    "description": "text",
+    "defaultMessage": "Not eligible for a Trip",
+    "message": "没有资格获得旅行",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.numberError",
+    "description": "Invalid Phone Number",
+    "defaultMessage": "Invalid Phone Number",
+    "message": "无效的电话号码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.numericValue",
+    "description": "Numeric value required",
+    "defaultMessage": "Numeric value required",
+    "message": "需要的数值",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.offline",
+    "description": "offline",
+    "defaultMessage": "Offline",
+    "message": "离线",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.online",
+    "description": "online",
+    "defaultMessage": "Online",
+    "message": "线上",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.overAll",
+    "description": "Overall",
+    "defaultMessage": "Overall",
+    "message": "总体",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageBanner",
+    "description": "Page Banner",
+    "defaultMessage": "Page Banner",
+    "message": "网页横幅",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageImageBanner",
+    "description": "Page Image Banner",
+    "defaultMessage": "Page Image Banner",
+    "message": "网页图片横幅",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageName",
+    "description": "Page Name",
+    "defaultMessage": "Page Name",
+    "message": "页面名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageTitle",
+    "description": "Page Title",
+    "defaultMessage": "Page Title",
+    "message": "页面标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageUrl",
+    "description": "Page URL",
+    "defaultMessage": "Page URL",
+    "message": "页面URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paid",
+    "description": "Paid",
+    "defaultMessage": "Paid",
+    "message": "付费",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paymentMethod",
+    "description": "Payment Method",
+    "defaultMessage": "Payment Method",
+    "message": "付款方法",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paymentType",
+    "description": "Payment Type",
+    "defaultMessage": "Payment Type",
+    "message": "付款方式",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.payoutAmount",
+    "description": "Payout Amount",
+    "defaultMessage": "Payout Amount",
+    "message": "赔付金额",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.payoutStatus",
+    "description": "Payout Status",
+    "defaultMessage": "Payout Status",
+    "message": "赔率状态",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pending",
+    "description": "Pending Status",
+    "defaultMessage": "Pending",
+    "message": "待定",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentError",
+    "description": "Choose percentage value between 1 to 99",
+    "defaultMessage": "Choose percentage value between 1 to 99",
+    "message": "选择介于1到99个值",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentage",
+    "description": "text",
+    "defaultMessage": "Percentage",
+    "message": "百分比",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentageFeeType",
+    "description": "Percentage Fee Type",
+    "defaultMessage": "Percentage",
+    "message": "百分比",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.permit",
+    "description": "Permit Status",
+    "defaultMessage": "Permit",
+    "message": "许可证",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.phoneDialCode",
+    "description": "Phone Dial Code",
+    "defaultMessage": "Country Code",
+    "message": "国家代码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pickupLocation",
+    "description": "PickUp Location",
+    "defaultMessage": "PickUp Location",
+    "message": "接人的地方",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.preview",
+    "description": "Preview",
+    "defaultMessage": "Preview",
+    "message": "预习",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.privacyPolicies",
+    "description": "Privacy Policy",
+    "defaultMessage": "Privacy Policy",
+    "message": "隐私政策",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.profileId",
+    "description": "Profile Id for user",
+    "defaultMessage": "Profile ID",
+    "message": "资料编号",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.profilePicture",
+    "description": "profilePicture",
+    "defaultMessage": "Profile Picture",
+    "message": "资料图片",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.promoCodeId",
+    "description": "Promo Code",
+    "defaultMessage": "Promo Code",
+    "message": "促销代码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.promoType",
+    "description": "text",
+    "defaultMessage": "Type",
+    "message": "类型",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ratings",
+    "description": "Ratings",
+    "defaultMessage": "Ratings",
+    "message": "评级",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rcImage",
+    "description": "rcImage",
+    "defaultMessage": "RC Book Image",
+    "message": "RC书图像",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reason",
+    "description": "Reason",
+    "defaultMessage": "Reason",
+    "message": "原因",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reasonRequired",
+    "description": "Reason is required",
+    "defaultMessage": "Reason is required",
+    "message": "原因是必需的",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.removeLocation",
+    "description": "Polygon remove",
+    "defaultMessage": "Remove Location",
+    "message": "移除位置",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reviewsBy",
+    "description": "reviewsBy",
+    "defaultMessage": "Reviews By",
+    "message": "评论",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rider",
+    "description": "Rider",
+    "defaultMessage": "Rider",
+    "message": "骑士",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderCommission",
+    "description": "Rider Commission Percentage",
+    "defaultMessage": "Rider Commission(%)",
+    "message": "骑士委员会（％）",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderEmail",
+    "description": "Rider Email",
+    "defaultMessage": "Rider Email",
+    "message": "骑士电子邮件",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderFeeType",
+    "description": "Rider Fee Type",
+    "defaultMessage": "Rider Fee Type",
+    "message": "骑士费用类型",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderFeeValue",
+    "description": "Rider Fee Value",
+    "defaultMessage": "Rider Commission",
+    "message": "骑士委员会",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderName",
+    "description": "Rider Name",
+    "defaultMessage": "Rider Name",
+    "message": "骑士名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderPayableAmount",
+    "description": "Special Trip Total Fare",
+    "defaultMessage": "Rider Payable Amount",
+    "message": "骑士应付额",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderServiceFee",
+    "description": "Rider Service Fee",
+    "defaultMessage": "Rider Service Fee",
+    "message": "骑士服务费",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderTotalFare",
+    "description": "Rider Total Fare",
+    "defaultMessage": "Rider Total Fare",
+    "message": "车手总票价",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riders",
+    "description": "Riders",
+    "defaultMessage": "Riders",
+    "message": "车手",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ridersMenu",
+    "description": "ridersMenu",
+    "defaultMessage": "Manage Riders",
+    "message": "管理骑手",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyButton",
+    "description": "safetyButton",
+    "defaultMessage": "View all safety features",
+    "message": "查看所有的安全功能",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyContent",
+    "description": "Safety",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem存有简直是印刷排版行业的虚拟文本。 Lorem存有一直是业界标准的虚拟文本，自从16世纪，当一个未知的打印机了类型的厨房和炒它使一个模式标本书。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Playstore 商标",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Appstore 商标",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage3",
+    "description": "Rider Banner",
+    "defaultMessage": "Rider Banner",
+    "message": "骑士横幅",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetySectionSettings",
+    "description": "Rider Apps Settings",
+    "defaultMessage": "Rider App",
+    "message": "骑士应用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.searchLocation",
+    "description": "Auto-Complete input",
+    "defaultMessage": "Search Location",
+    "message": "搜索位置",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.setBaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Base Currency",
+    "message": "设置基本货币",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupDrive",
+    "description": "Sign up to drive",
+    "defaultMessage": "Sign up to drive",
+    "message": "注册驱动",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Play商店中的标志",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "苹果商店标志",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage3",
+    "description": "Driver Banner",
+    "defaultMessage": "Driver Banner",
+    "message": "驱动横幅",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupRide",
+    "description": "Sign up to ride",
+    "defaultMessage": "Sign up to ride",
+    "message": "注册骑",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupSectionSettings",
+    "description": "Driver Apps Settings",
+    "defaultMessage": "Driver App",
+    "message": "驱动程序应用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteAdmin",
+    "description": "siteAdmin",
+    "defaultMessage": "Site Admin",
+    "message": "网站管理",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteSettings",
+    "description": "Site Settings",
+    "defaultMessage": "Site Settings",
+    "message": "网站设置",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderTitle",
+    "description": "sliderTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem存有",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderTitleDesc",
+    "description": "sliderTitleDesc",
+    "defaultMessage": "Percipit repudiandae an eum, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "message": "Percipit repudiandae的EUM，enim情况下，EOS无。 Percipit tractatos pertinacia暨ID，广告EOS facete malorum recusabo，可见霉佩蓓definitionem前。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.specialTripPrice",
+    "description": "discount text",
+    "defaultMessage": "Rider Discount Amount",
+    "message": "骑士折扣金额",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.startDriving",
+    "description": "Start Driving",
+    "defaultMessage": "Start Driving",
+    "message": "开始驾驶",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.startRideing",
+    "description": "Start Riding",
+    "defaultMessage": "Start Riding",
+    "message": "开始骑马",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.staticpageManagement",
+    "description": "Manage Static Content",
+    "defaultMessage": "Manage Static Content",
+    "message": "管理静态内容",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.status",
+    "description": "Status Active/Inactive",
+    "defaultMessage": "Status",
+    "message": "状态",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuOne",
+    "description": "subMenuOne",
+    "defaultMessage": "subMenuOne",
+    "message": "subMenuOne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuThree",
+    "description": "subMenuThree",
+    "defaultMessage": "subMenuThree",
+    "message": "subMenuThree",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuTwo",
+    "description": "subMenuTwo",
+    "defaultMessage": "subMenuTwo",
+    "message": "subMenuTwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.submitButton",
+    "description": "Submit",
+    "defaultMessage": "Submit",
+    "message": "提交",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.symbol",
+    "description": "currencyManagement value",
+    "defaultMessage": "Symbol",
+    "message": "符号",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.table",
+    "description": "Table",
+    "defaultMessage": "Table",
+    "message": "表",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsAmount",
+    "description": "Tips Amount",
+    "defaultMessage": "Tips Amount",
+    "message": "提示金额",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title",
+    "description": "text",
+    "defaultMessage": "Title",
+    "message": "标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title1",
+    "description": "Title 1",
+    "defaultMessage": "Title 1",
+    "message": "标题1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title2",
+    "description": "Title 2",
+    "defaultMessage": "Title 2",
+    "message": "标题2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title3",
+    "description": "Title 3",
+    "defaultMessage": "Title 3",
+    "message": "标题3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title4",
+    "description": "Title 4",
+    "defaultMessage": "Title 4",
+    "message": "标题4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title5",
+    "description": "Title 5",
+    "defaultMessage": "Title 5",
+    "message": "标题5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title6",
+    "description": "Title 6",
+    "defaultMessage": "Title 6",
+    "message": "标题6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.today",
+    "description": "today",
+    "defaultMessage": "Today",
+    "message": "今天",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tollFee",
+    "description": "tollFee",
+    "defaultMessage": "Toll Fee",
+    "message": "过路费",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalDuration",
+    "description": "Total Duration",
+    "defaultMessage": "Total Duration",
+    "message": "总时长",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalFare",
+    "description": "Total Fare",
+    "defaultMessage": "Total Fare",
+    "message": "总费用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalRideDistance",
+    "description": "Total Rider Distance",
+    "defaultMessage": "Total Rider Distance",
+    "message": "总骑士距离",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripDate",
+    "description": "Trip Date",
+    "defaultMessage": "Trip Date",
+    "message": "旅行日期",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripEnd",
+    "description": "Trip End",
+    "defaultMessage": "Trip End",
+    "message": "旅行结束",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripStart",
+    "description": "Trip Start",
+    "defaultMessage": "Trip Start",
+    "message": "行程开始",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripStatus",
+    "description": "Trip Status",
+    "defaultMessage": "Trip Status",
+    "message": "跳闸状态",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.unitPrice",
+    "description": "Unit Price",
+    "defaultMessage": "Unit Price",
+    "message": "单价",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.unpaid",
+    "description": "Unpaid",
+    "defaultMessage": "Unpaid",
+    "message": "未付",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.update",
+    "description": "Update",
+    "defaultMessage": "Update",
+    "message": "更新",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.useFullLink",
+    "description": "Usefull Links",
+    "defaultMessage": "Usefull Links",
+    "message": "常用链接",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.usedPromoCode",
+    "description": "text",
+    "defaultMessage": "Used Promo Code",
+    "message": "二手促销代码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.userStatus",
+    "description": "User Status Active/Inactive",
+    "defaultMessage": "User Status",
+    "message": "用户状态",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validUrl",
+    "description": "Valid URL required",
+    "defaultMessage": "Valid URL required",
+    "message": "需要有效的网址",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vechicleName",
+    "description": "Vehicle",
+    "defaultMessage": "Vehicle",
+    "message": "车辆",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleId",
+    "description": "Vehicle ID",
+    "defaultMessage": "Vehicle ID",
+    "message": "车辆ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleName",
+    "description": "Vehicle Name",
+    "defaultMessage": "Vehicle Name",
+    "message": "车辆名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNameError3",
+    "description": "New Password must be minimum 8 characters",
+    "defaultMessage": "Vehicle Name must be minimum 3 characters and maximum 15 characters",
+    "message": "车辆名称必须最少3个字符，最多15个字符",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNumber",
+    "description": "Vehicle Number",
+    "defaultMessage": "Vehicle Number",
+    "message": "车号",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNumberError",
+    "description": "Invalid Vehicle Number",
+    "defaultMessage": "Invalid Vehicle Number",
+    "message": "无效的车辆号码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleOwnerEmail",
+    "description": "Vehicle Owner Email",
+    "defaultMessage": "Vehicle Owner Email",
+    "message": "车主电子邮件",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleOwnerName",
+    "description": "Vehicle Owner Name",
+    "defaultMessage": "Vehicle Owner Name",
+    "message": "车主名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleType",
+    "description": "Vehicle Type",
+    "defaultMessage": "Vehicle Type",
+    "message": "车辆类型",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehiclesMenu",
+    "description": "vehiclesMenu",
+    "defaultMessage": "Manage Vehicles",
+    "message": "管理车辆",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.view",
+    "description": "View Details Link",
+    "defaultMessage": "View",
+    "message": "视图",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.viewCity",
+    "description": "view City",
+    "defaultMessage": "View city",
+    "message": "查看城市",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.wallet",
+    "description": "Wallet",
+    "defaultMessage": "Wallet",
+    "message": "钱包",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.walletBalance",
+    "description": "Wallet Balance",
+    "defaultMessage": "Wallet Balance",
+    "message": "电子钱包余额",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.weekly",
+    "description": "weekly",
+    "defaultMessage": "This Week",
+    "message": "本星期",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.yes",
+    "description": "Yes",
+    "defaultMessage": "Yes",
+    "message": "是",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "rentall.dropzoneUpload",
+    "description": "Dropzone upload info",
+    "defaultMessage": "Upload a file from your computer",
+    "message": "从您的计算机上传文件",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "rentall.dropzoneUploadError",
+    "description": "Dropzone upload error message",
+    "defaultMessage": "Remove the existing image and try upload again",
+    "message": "删除现有的图像，然后再次尝试上传",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "AddListSettingsForm.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "加",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNew",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "名称",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNewDescription",
+    "description": "description",
+    "defaultMessage": "Description",
+    "message": "描述",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.delete",
+    "description": "Delete Button",
+    "defaultMessage": "Delete",
+    "message": "删除",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.required",
+    "description": "Required",
+    "defaultMessage": "*Required",
+    "message": "*需要",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.update",
+    "description": "Update Button",
+    "defaultMessage": "Update",
+    "message": "更新",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "exceedLimit",
+    "description": "exceedLimit",
+    "defaultMessage": "Maximum allowed character is 255.",
+    "message": "允许的最大特点是255。",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.blankSpace",
+    "description": "Password error",
+    "defaultMessage": "Password should not be blank space.",
+    "message": "密码不应该是空白。",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailBlankSpace",
+    "description": "email address error",
+    "defaultMessage": "Email should not be blank spaces",
+    "message": "电子邮件不应该是空白",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailInvalid",
+    "description": "email address error",
+    "defaultMessage": "*Invalid email address",
+    "message": "*无效的邮件地址",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.passwordInvalid",
+    "description": "Password minimum characters error",
+    "defaultMessage": "Password should be minimum 8 characters.",
+    "message": "密码应最少8个字符。",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exportDataIntoCSV",
+    "description": "Export Data into CSV",
+    "defaultMessage": "Export Data into CSV",
+    "message": "数据导出为CSV",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminName",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminRole",
+    "description": "Admin Role",
+    "defaultMessage": "Admin Role",
+    "message": "管理员角色",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailText",
+    "description": "Email",
+    "defaultMessage": "Email",
+    "message": "电子邮件",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdmin",
+    "description": "Manage Admins",
+    "defaultMessage": "Manage Admins",
+    "message": "管理管理员",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdminRoles",
+    "description": "Manage Admin Roles",
+    "defaultMessage": "Manage Admin Roles",
+    "message": "管理管理员角色",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdminUsers",
+    "description": "Manage Admin Users",
+    "defaultMessage": "Manage Admin Users",
+    "message": "管理管理员用户",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordText",
+    "description": "Password Content",
+    "defaultMessage": "Provide new password only. Ignore this field to use the existing password for this user.",
+    "message": "只提供新的密码。忽略这个字段中使用现有的密码，该用户。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.privileges",
+    "description": "Privileges",
+    "defaultMessage": "Privileges",
+    "message": "特权",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.role",
+    "description": "Role",
+    "defaultMessage": "Role",
+    "message": "角色",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.roleName",
+    "description": "Role Name",
+    "defaultMessage": "Role Name",
+    "message": "角色名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.selectRole",
+    "description": "Select Role",
+    "defaultMessage": "Select Role",
+    "message": "选择角色",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addNewLabel",
+    "description": "Add New",
+    "defaultMessage": "Add New",
+    "message": "添新",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminUserLabel",
+    "description": "Admin User",
+    "defaultMessage": "Admin User",
+    "message": "管理员用户",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.chooseLanguageLabel",
+    "description": "Choose a Language",
+    "defaultMessage": "Choose a Language",
+    "message": "选择语言",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Disable",
+    "description": "Ban Status",
+    "defaultMessage": "Disable",
+    "message": "禁用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Disabled",
+    "description": "Ban Status",
+    "defaultMessage": "Disabled",
+    "message": "残",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Enable",
+    "description": "Ban Status",
+    "defaultMessage": "Enable",
+    "message": "启用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Enabled",
+    "description": "Ban Status",
+    "defaultMessage": "Enabled",
+    "message": "启用",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Support",
+    "description": "Ban Status",
+    "defaultMessage": "Support",
+    "message": "支持",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.askQuestion",
+    "description": "Ban Status",
+    "defaultMessage": "Ask a question",
+    "message": "问一个问题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.lastHours",
+    "description": "Ban Status",
+    "defaultMessage": "Last 24 hours",
+    "message": "最近24小时",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.listings",
+    "description": "Ban Status",
+    "defaultMessage": "Listings",
+    "message": "房源",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notFound",
+    "description": "Ban Status",
+    "defaultMessage": "Sorry, the page you were trying to view does not exist.",
+    "message": "很抱歉，您要查看的页面不存在。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reportIssue",
+    "description": "Ban Status",
+    "defaultMessage": "Report an issue",
+    "message": "报告问题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reservations",
+    "description": "Ban Status",
+    "defaultMessage": "Reservations",
+    "message": "预订",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.setBase",
+    "description": "Ban Status",
+    "defaultMessage": "Set as base currency",
+    "message": "设为基本货币",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalList",
+    "description": "Ban Status",
+    "defaultMessage": "Total Listings",
+    "message": "总人数",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalReserv",
+    "description": "Ban Status",
+    "defaultMessage": "Total Reservations",
+    "message": "总预订",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalUser",
+    "description": "Ban Status",
+    "defaultMessage": "Total Users",
+    "message": "总用户数",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.oneOne",
+    "description": "Ban Status",
+    "defaultMessage": "One",
+    "message": "之一",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categorieslist",
+    "description": "categoryMenu",
+    "defaultMessage": "Categories",
+    "message": "分类",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currencies",
+    "description": "Ban Status",
+    "defaultMessage": "Currencies",
+    "message": "货币",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.drivPayout",
+    "description": "managePayout",
+    "defaultMessage": "Driver Payout",
+    "message": "司机赔付",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fares",
+    "description": "Fares",
+    "defaultMessage": "Fares",
+    "message": "票价",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeonly",
+    "description": "Fares",
+    "defaultMessage": "Home",
+    "message": "家",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicles",
+    "description": "Fares",
+    "defaultMessage": "Vehicles",
+    "message": "汽车",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.allonly",
+    "description": "Fares",
+    "defaultMessage": "All",
+    "message": "所有",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.appstorelink",
+    "description": "Fares",
+    "defaultMessage": "App Store Link",
+    "message": "App Store 链接",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverappcntn",
+    "description": "Fares",
+    "defaultMessage": "Driver App Content",
+    "message": "驱动程序应用内容",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverapptitle",
+    "description": "Fares",
+    "defaultMessage": "Driver App Title",
+    "message": "驱动程序应用标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.facebookUrl",
+    "description": "Fares",
+    "defaultMessage": "Facebook URL",
+    "message": "Facebook网址",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.instaUrl",
+    "description": "Fares",
+    "defaultMessage": "Instagram URL",
+    "message": "Instagram的网址",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logoheight",
+    "description": "Fares",
+    "defaultMessage": "Logo Height",
+    "message": "徽标高度",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logowidth",
+    "description": "Fares",
+    "defaultMessage": "Logo Width",
+    "message": "徽标宽度",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDesc",
+    "description": "Fares",
+    "defaultMessage": "Meta Description",
+    "message": "meta描述",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metakey",
+    "description": "Fares",
+    "defaultMessage": "Meta Keyword",
+    "message": "元关键字",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.playstorelink",
+    "description": "Fares",
+    "defaultMessage": "Play Store Link",
+    "message": "Play Store 链接",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteName",
+    "description": "Fares",
+    "defaultMessage": "Site Name",
+    "message": "网站名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteTitle",
+    "description": "Fares",
+    "defaultMessage": "Site Title",
+    "message": "网站标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.twiterUrl",
+    "description": "Fares",
+    "defaultMessage": "Twitter URL",
+    "message": "Twitter的网址",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.youtubeUrl",
+    "description": "Fares",
+    "defaultMessage": "Youtube URL",
+    "message": "YouTube网址",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addOnly",
+    "description": "Fares",
+    "defaultMessage": "Address",
+    "message": "地址",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.checkmein",
+    "description": "Fares",
+    "defaultMessage": "Check me in",
+    "message": "检查我",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.checkmeout",
+    "description": "Fares",
+    "defaultMessage": "Check me out",
+    "message": "对我进行检查",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content",
+    "description": "Content 1",
+    "defaultMessage": "Content",
+    "message": "内容",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.credentialError",
+    "description": "Fares",
+    "defaultMessage": "Sorry, a critical error occurred on this page.",
+    "message": "对不起，此页上发生了严重的错误。",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.errorOnly",
+    "description": "Fares",
+    "defaultMessage": "Error",
+    "message": "错误",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.miles",
+    "description": "Fares",
+    "defaultMessage": "Miles",
+    "message": "万里",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.state",
+    "description": "Fares",
+    "defaultMessage": "State",
+    "message": "州",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tableCell",
+    "description": "Fares",
+    "defaultMessage": "Table cell",
+    "message": "表格单元格",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tableHead",
+    "description": "Fares",
+    "defaultMessage": "Table heading",
+    "message": "表标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.buttonLabel",
+    "description": "Change Password",
+    "defaultMessage": "Button Label",
+    "message": "按钮标签",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.confirmPassword",
+    "description": "Change Password",
+    "defaultMessage": "Confirm Password",
+    "message": "确认密码",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.copyRightcontent",
+    "description": "Change Password",
+    "defaultMessage": "Copyrights content",
+    "message": "版权内容",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #1",
+    "message": "功能说明＃1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #2",
+    "message": "功能说明＃2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #3",
+    "message": "功能说明＃3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #4",
+    "message": "功能说明＃4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #5",
+    "message": "功能说明＃5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #6",
+    "message": "功能说明＃6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #1",
+    "message": "功能标题＃1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #2",
+    "message": "功能标题＃2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #3",
+    "message": "功能标题＃3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #4",
+    "message": "功能标题＃4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #5",
+    "message": "功能标题＃5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #6",
+    "message": "功能标题＃6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerContent1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Content #1",
+    "message": "页脚内容＃1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Title #1",
+    "message": "页脚标题＃1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerUrltitle",
+    "description": "Change Password",
+    "defaultMessage": "Footer URL Title",
+    "message": "页脚URL标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.msgOnly",
+    "description": "Change Password",
+    "defaultMessage": "Message",
+    "message": "信息",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.nameOnly",
+    "description": "Change Password",
+    "defaultMessage": "Name",
+    "message": "名称",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.optionOne",
+    "description": "Fares",
+    "defaultMessage": "option 1",
+    "message": "选项1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.radioButton",
+    "description": "Change Password",
+    "defaultMessage": "Radio button",
+    "message": "单选按钮",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.redioOne",
+    "description": "Fares",
+    "defaultMessage": "radio 1",
+    "message": "无线电1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderAppContent",
+    "description": "Change Password",
+    "defaultMessage": "Rider App Content",
+    "message": "骑士应用内容",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderApptitle",
+    "description": "Change Password",
+    "defaultMessage": "Rider App Title",
+    "message": "骑士应用标题",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.leaveEmail",
+    "description": "Change Password",
+    "defaultMessage": "Leave email address field blank if you don't want to change the email",
+    "message": "留下的电子邮件地址字段为空，如果你不想改变电子邮件",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.searchOnly",
+    "description": "Change Password",
+    "defaultMessage": "Search",
+    "message": "搜索",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "加",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.topFeatures",
+    "description": "Top Features Section Settings",
+    "defaultMessage": "Top Features Section Settings",
+    "message": "Toppinställningar Avsnitt inställningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingDetails",
+    "description": "Booking Details",
+    "defaultMessage": "Booking Details",
+    "message": "Bokningsdetaljer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.changeAdminPassword",
+    "description": "Change Admin Email/Password",
+    "defaultMessage": "Change Admin Email/Password",
+    "message": "Ändra administratörens e-post / lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currencyList",
+    "description": "Currency List",
+    "defaultMessage": "Currency List",
+    "message": "Valutalista",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverPayout",
+    "description": "Manage Driver Payouts",
+    "defaultMessage": "Manage Driver Payouts",
+    "message": "Hantera förarutbetalningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editLocation",
+    "description": "Edit Location",
+    "defaultMessage": "Edit Location",
+    "message": "Redigera plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverAndriodVersion",
+    "description": "Andriod",
+    "defaultMessage": "Driver Android Version",
+    "message": "驱动程序的Android版本",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driveriosVersion",
+    "description": "iOS",
+    "defaultMessage": "Driver iOS Version",
+    "message": "驱动程序IOS版本",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.forceUpdate",
+    "description": "forceUpdate",
+    "defaultMessage": "Force update",
+    "message": "强制性升级",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderAndriodVersion",
+    "description": "riderAndriodVersion",
+    "defaultMessage": "Rider Android Version",
+    "message": "骑士的Android版本",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rideriosVersion",
+    "description": "rideriosVersion",
+    "defaultMessage": "Rider iOS Version",
+    "message": "骑士IOS版本",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.to",
+    "description": "Label",
+    "defaultMessage": "To",
+    "message": "至",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validatePasswordLength",
+    "description": "Password length Validation",
+    "defaultMessage": "Password must be minimum 8 characters",
+    "message": "密码必须至少8个字符",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validateConfirmPasswordLength",
+    "description": "Confirm Password length Validation",
+    "defaultMessage": "Confirm Password must be minimum 8 characters",
+    "message": "确认密码必须至少8个字符",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validatePasswordMatch",
+    "description": "Password mismatch",
+    "defaultMessage": "Password is mismatching with Confirm password",
+    "message": "密码与确认密码不匹配",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.completedLabel",
+    "description": "Label",
+    "defaultMessage": "Completed",
+    "message": "已完成",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Driver Billing Information",
+    "message": "司机结算信息",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverEarnings",
+    "description": "Label",
+    "defaultMessage": "Driver Earnings",
+    "message": "驱动盈利",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notRequired",
+    "description": "Label",
+    "defaultMessage": "No Action Required",
+    "message": "无需采取行动",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.platformEarnings",
+    "description": "Label",
+    "defaultMessage": "Platform Earnings",
+    "message": "平台盈利",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.platformOffered",
+    "description": "Label",
+    "defaultMessage": "Platform Overdrafts",
+    "message": "平台透支",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.processedCash",
+    "description": "Label",
+    "defaultMessage": "Processed via cash",
+    "message": "通过现金处理",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rideFare",
+    "description": "Label",
+    "defaultMessage": "Ride Fare",
+    "message": "程车费",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Rider Billing Information",
+    "message": "骑士帐单信息",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsGivenToDriver",
+    "description": "Label",
+    "defaultMessage": "Tips given to the driver",
+    "message": "向驾驶员发出提示",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsReceivedFromRider",
+    "description": "Label",
+    "defaultMessage": "Tips received from the rider",
+    "message": "从骑车者接收的提示",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addAdminRole",
+    "description": "Title",
+    "defaultMessage": "Add Admin Role",
+    "message": "添加管理员角色",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAdminRole",
+    "description": "Title",
+    "defaultMessage": "Edit Admin Role",
+    "message": "编辑管理员角色",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.locations",
+    "description": "Pagination",
+    "defaultMessage": "Locations",
+    "message": "地点",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addAdminUserLabel",
+    "description": "Add Admin User",
+    "defaultMessage": "Add Admin User",
+    "message": "添加管理员用户",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAdminUserLabel",
+    "description": "Edit Admin User",
+    "defaultMessage": "Edit Admin User",
+    "message": "编辑管理用户",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.approved",
+    "description": "Approved Status",
+    "defaultMessage": "Approved",
+    "message": "批准",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledByDriver",
+    "description": "Cancelled By Driver Status",
+    "defaultMessage": "Cancelled By Driver",
+    "message": "取消了驱动程序",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledByRider",
+    "description": "Cancelled By Rider Status",
+    "defaultMessage": "Cancelled By Rider",
+    "message": "取消了骑士",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.completed",
+    "description": "Completed Status",
+    "defaultMessage": "Completed",
+    "message": "已完成",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.declined",
+    "description": "Declined Status",
+    "defaultMessage": "Declined",
+    "message": "下降",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.expired",
+    "description": "Expired Status",
+    "defaultMessage": "Expired",
+    "message": "过期",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.started",
+    "description": "Started Status",
+    "defaultMessage": "Started",
+    "message": "入门",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notRequiredMessage",
+    "description": "Not Required",
+    "defaultMessage": "Not Required",
+    "message": "不要求",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverPrivacyPolicy",
+    "description": "Title",
+    "defaultMessage": "Driver Privacy Policy",
+    "message": "驱动器隐私政策",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.precautionNotification",
+    "description": "Title",
+    "defaultMessage": "Precaution Notification",
+    "message": "注意事项通知",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.image",
+    "description": "Label",
+    "defaultMessage": "Image",
+    "message": "图片",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduleBooking",
+    "description": "Label",
+    "defaultMessage": "Schedule Bookings",
+    "message": "附表预订",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduled",
+    "description": "Trip status",
+    "defaultMessage": "Scheduled",
+    "message": "计划",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduledFrom",
+    "description": "Label",
+    "defaultMessage": "Scheduled From",
+    "message": "从计划",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduledTo",
+    "description": "Label",
+    "defaultMessage": "Scheduled To",
+    "message": "定",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.failed",
+    "description": "Trip Status of Schedule History",
+    "defaultMessage": "Failed",
+    "message": "失败",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.updated",
+    "description": "Trip Status of Schedule History",
+    "defaultMessage": "Updated",
+    "message": "更新",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVersionNumber",
+    "description": "invalidVersionNumber",
+    "defaultMessage": "Invalid Version Number",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pendingLabel",
+    "description": "Label",
+    "defaultMessage": "Pending",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.updatedAt",
+    "description": "Label",
+    "defaultMessage": "Updated At",
+    "message": "更新时间",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduleBookingHistory",
+    "description": "Heading",
+    "defaultMessage": "Schedule Booking History",
+    "message": "附表预订记录",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  }
+]

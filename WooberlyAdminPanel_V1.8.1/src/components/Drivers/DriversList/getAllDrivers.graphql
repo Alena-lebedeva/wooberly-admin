@@ -1,0 +1,20 @@
+query getAllDrivers($currentPage: Int, $searchList: String){
+  getAllDrivers(currentPage: $currentPage, searchList: $searchList){
+    count
+    userData {
+      id
+      email
+      phoneDialCode
+      phoneNumber
+      isBan
+      userStatus
+      createdAt
+      profile {
+        profileId
+        firstName
+        lastName
+        country
+      }
+    }   
+  }
+}

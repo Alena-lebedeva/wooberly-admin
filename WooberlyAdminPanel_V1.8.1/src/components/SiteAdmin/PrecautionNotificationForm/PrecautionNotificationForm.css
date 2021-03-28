@@ -1,0 +1,36 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../../../components/responsive-common.css';
+
+.rightAlignmentAndPointer {
+    text-align: right;
+    cursor: pointer;
+}
+
+.selectBox {
+    background-position: 98% 9px !important;
+}
+.profileImgSection{
+  position: relative;
+}
+.rightAlignmentAndPointer{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #ffffffc7;
+  padding: 0px 4px;
+  border-radius: 6px;
+  cursor: pointer;
+  z-index: 1;
+}
+.rightAlignmentAndPointer img{
+  width: 15px;
+}
+@media screen and (max-width: 767px) {
+    .paddingTop {
+      padding-top: 18px;
+    }
+    .paddingBottom {
+      padding-bottom: 18px;
+    }
+  }

@@ -1,0 +1,4488 @@
+[
+  {
+    "id": "login.title",
+    "description": "Log in page title",
+    "defaultMessage": "Log In",
+    "message": "Iniciar sesión"
+  },
+  {
+    "id": "radicalstart.Becomeahost",
+    "description": "Becomeahost",
+    "defaultMessage": "Become a host",
+    "message": "Convertirse en un anfitrión",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Discover",
+    "description": "Discover",
+    "defaultMessage": "Discover",
+    "message": "Descubrir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Hosting",
+    "description": "Hosting",
+    "defaultMessage": "Hosting",
+    "message": "Hosting",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Terms",
+    "description": "Terms",
+    "defaultMessage": "Terms & Privacy",
+    "message": "Términos y privacidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Travel",
+    "description": "Trust",
+    "defaultMessage": "Travel Credit",
+    "message": "crédito de viajes",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Trust",
+    "description": "Trust",
+    "defaultMessage": "Trust & Safety",
+    "message": "Confianza y Seguridad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.about",
+    "description": "About Nav link",
+    "defaultMessage": "About",
+    "message": "Acerca de",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutFooter",
+    "description": "AboutFooter",
+    "defaultMessage": "About Us",
+    "message": "Sobre nosotros",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminpanel",
+    "description": "admin panel",
+    "defaultMessage": "Admin Panel",
+    "message": "Panel de administrador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bannerDesc",
+    "description": "Description in header",
+    "defaultMessage": "Complex web apps made easy",
+    "message": "aplicaciones web complejas fáciles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bannerTitle",
+    "description": "Title in page header",
+    "defaultMessage": "React",
+    "message": "Reaccionar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.brand",
+    "description": "Brand name displayed in header",
+    "defaultMessage": "RadicalStart",
+    "message": "RadicalStart",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contact",
+    "description": "Contact Nav link",
+    "defaultMessage": "Contact",
+    "message": "Contacto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contactUs",
+    "description": "contact",
+    "defaultMessage": "Contact Us",
+    "message": "Contáctenos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dashboard",
+    "description": "dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Tablero",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dummyText",
+    "description": "dummyText",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar industrys Desde el año 1500, cuando un desconocido tomó una impresora de cocina tipo y codificados para hacer un libro de textos especimen.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailaddress",
+    "description": "emailaddress",
+    "defaultMessage": "Email Address",
+    "message": "Dirección de correo electrónico",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.firstName",
+    "description": "firstName",
+    "defaultMessage": "First Name",
+    "message": "Nombre de pila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.formssidebar",
+    "description": "formssidebar",
+    "defaultMessage": "Forms",
+    "message": "formas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.heading",
+    "description": "heading",
+    "defaultMessage": "Heading",
+    "message": "Bóveda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.lastName",
+    "description": "lastName",
+    "defaultMessage": "Last Name",
+    "message": "Apellido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.login",
+    "description": "Login Nav link",
+    "defaultMessage": "Login",
+    "message": "Iniciar sesión",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.phoneNumber",
+    "description": "phoneNumber",
+    "defaultMessage": "Phone Number",
+    "message": "Número de teléfono",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.recommand",
+    "description": "recommand",
+    "defaultMessage": "Recommand",
+    "message": "recomm",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rentallContent",
+    "description": "RentALL",
+    "defaultMessage": "RentALL",
+    "message": "Rentall",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.select",
+    "description": "select",
+    "defaultMessage": "Select",
+    "message": "Seleccione",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.settings",
+    "description": "settings",
+    "defaultMessage": "Settings",
+    "message": "ajustes",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signup",
+    "description": "Sign up Nav link",
+    "defaultMessage": "Sign up",
+    "message": "Regístrate",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderContent",
+    "description": "Luxury",
+    "defaultMessage": "Luxury",
+    "message": "Lujo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.textarea",
+    "description": "textarea",
+    "defaultMessage": "Text Area",
+    "message": "Área de texto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.users",
+    "description": "users",
+    "defaultMessage": "Users",
+    "message": "usuarios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.password",
+    "description": "password",
+    "defaultMessage": "Password",
+    "message": "Contraseña",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.required",
+    "description": "required error message",
+    "defaultMessage": "*Required",
+    "message": "*Necesario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.email",
+    "description": "Your Email Address to Login",
+    "defaultMessage": "Email Address",
+    "message": "Dirección de correo electrónico",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Dirección de correo electrónico no válida",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "no existe ninguna cuenta para este correo electrónico. Asegúrese de que está tecleada correctamente, o “inscribirse” en vez",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "correo electronico es requerido",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "¡Ya se ha autentificado!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.password",
+    "description": "Your Password to Login",
+    "defaultMessage": "Password",
+    "message": "Contraseña",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "La contraseña debe tener al menos 8 caracteres. Inténtalo de nuevo",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "se requiere contraseña",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Contraseña incorrecta. Inténtalo de nuevo",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Perdón, algo salió mal. Inténtalo de nuevo",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.userLoggedIn",
+    "description": "You are already Logged-in as user",
+    "defaultMessage": "You are already logged in as User, please logout in the main site to continue!",
+    "message": "Ya se ha conectado como usuario, por favor cierre de sesión en el sitio principal para continuar!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Dirección de correo electrónico no válida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "no existe ninguna cuenta para este correo electrónico. Asegúrese de que está tecleada correctamente, o “inscribirse” en vez",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "correo electronico es requerido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "¡Ya se ha autentificado!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "La contraseña debe tener al menos 8 caracteres. Inténtalo de nuevo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "se requiere contraseña",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Contraseña incorrecta. Inténtalo de nuevo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Perdón, algo salió mal. Inténtalo de nuevo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Amount",
+    "description": "Amount",
+    "defaultMessage": "Amount",
+    "message": "Cantidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.BaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Base Currency",
+    "message": "Moneda base",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.HomeSiteSettings",
+    "description": "HomeSiteSettings",
+    "defaultMessage": "Homepage Settings",
+    "message": "Configuración de Página de inicio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Safety",
+    "description": "Safety",
+    "defaultMessage": "Safety",
+    "message": "La seguridad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Wooberly",
+    "description": "Wooberly",
+    "defaultMessage": "Wooberly",
+    "message": "Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutFooterDesc",
+    "description": "aboutFooterDesc",
+    "defaultMessage": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "message": "Un cum maiorum repudiandae, cu EAM dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad Ullum audire admodum EOS. Ne EAM quod Habeo aeque, ad decoreos.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutImage1",
+    "description": "Feature Banner 1",
+    "defaultMessage": "Feature Banner #1",
+    "message": "Característica la bandera # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutImage2",
+    "description": "Feature Banner 2",
+    "defaultMessage": "Feature Banner #2",
+    "message": "Característica la bandera # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutSectionSettings",
+    "description": "Top Features Settings",
+    "defaultMessage": "Top Features",
+    "message": "Características principales",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.action",
+    "description": "Action",
+    "defaultMessage": "Action",
+    "message": "Acción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.active",
+    "description": "Active Status",
+    "defaultMessage": "Active",
+    "message": "Activo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addCancelReason",
+    "description": "Add Cancel Reason",
+    "defaultMessage": "Add Cancel Reason",
+    "message": "Añadir Cancelar Razón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addCategory",
+    "description": "Add category form header",
+    "defaultMessage": "Add Category",
+    "message": "añadir categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addFare",
+    "description": "Button",
+    "defaultMessage": "Add Fare",
+    "message": "Agregar Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addLocation",
+    "description": "addLocation",
+    "defaultMessage": "Add Location",
+    "message": "Añade una ubicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addPage",
+    "description": "Add Page",
+    "defaultMessage": "Add Page",
+    "message": "Añadir página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addPromoCode",
+    "description": "Add PromoCode",
+    "defaultMessage": "Add Promo Code",
+    "message": "Añadir código de promoción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adeditFaredFare",
+    "description": "Button",
+    "defaultMessage": "Edit Fare",
+    "message": "Editar Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.allowedPaymentCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Allowed Payment Currency",
+    "message": "Moneda de Pago permitido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.approve",
+    "description": "Approve",
+    "defaultMessage": "Approve",
+    "message": "Aprobar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.availableSeats",
+    "description": "Available Seats",
+    "defaultMessage": "Available Seats",
+    "message": "Asientos disponibles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ban",
+    "description": "Ban Status",
+    "defaultMessage": "Ban",
+    "message": "Prohibición",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.banStatus",
+    "description": "Ban Status Permit/Ban",
+    "defaultMessage": "Ban Status",
+    "message": "Ban Estado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingId",
+    "description": "Booking ID",
+    "defaultMessage": "Booking ID",
+    "message": "Identificación de reserva",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookings",
+    "description": "bookings",
+    "defaultMessage": "Bookings",
+    "message": "Reservaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingsMenu",
+    "description": "bookingsMenu",
+    "defaultMessage": "Manage Bookings",
+    "message": "gestionar reservas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.button",
+    "description": "Button",
+    "defaultMessage": "Button",
+    "message": "Botón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelButton",
+    "description": "Cancel",
+    "defaultMessage": "Cancel",
+    "message": "Cancelar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Cancelar Razón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancellationReasons",
+    "description": "Cancellation Reasons",
+    "defaultMessage": "Cancellation Reasons",
+    "message": "Razones de cancelación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledBy",
+    "description": "Cancelled By",
+    "defaultMessage": "Cancelled By",
+    "message": "Por cancelado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.capacity",
+    "description": "Capacity",
+    "defaultMessage": "Capacity",
+    "message": "Capacidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.card",
+    "description": "Card",
+    "defaultMessage": "Card",
+    "message": "Tarjeta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cash",
+    "description": "Cash",
+    "defaultMessage": "Cash",
+    "message": "Efectivo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryMapMarker",
+    "description": "",
+    "defaultMessage": "Category Map Marker",
+    "message": "Categoría marcador de ruta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.category",
+    "description": "Category",
+    "defaultMessage": "Category",
+    "message": "Categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryContent",
+    "description": "Category Content",
+    "defaultMessage": "Category Content",
+    "message": "Categoría contenido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryIcon",
+    "description": "",
+    "defaultMessage": "Category Icon",
+    "message": "Icono Categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryId",
+    "description": "Category ID",
+    "defaultMessage": "Category ID",
+    "message": "categoria ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryMenu",
+    "description": "categoryMenu",
+    "defaultMessage": "Manage Categories",
+    "message": "Gestionar categorías",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryName",
+    "description": "Category Name",
+    "defaultMessage": "Category Name",
+    "message": "nombre de la categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryTitle",
+    "description": "Category Title",
+    "defaultMessage": "Category Title",
+    "message": "Título de la categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.changePassword",
+    "description": "Change Password",
+    "defaultMessage": "Change Password",
+    "message": "Cambia la contraseña",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.chooseFile",
+    "description": "",
+    "defaultMessage": "Choose File",
+    "message": "Elija el archivo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.city",
+    "description": "city",
+    "defaultMessage": "Lorem Ipsum is simply dummy text",
+    "message": "Lorem Ipsum es simplemente el texto de relleno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.citySectionSettings",
+    "description": "Category Settings",
+    "defaultMessage": "Category",
+    "message": "Categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.code",
+    "description": "text",
+    "defaultMessage": "Code",
+    "message": "Código",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.comments",
+    "description": "Comments",
+    "defaultMessage": "Comments",
+    "message": "comentarios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content1",
+    "description": "Content 1",
+    "defaultMessage": "Content 1",
+    "message": "contenido 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content2",
+    "description": "Content 2",
+    "defaultMessage": "Content 2",
+    "message": "contenido 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content3",
+    "description": "Content 3",
+    "defaultMessage": "Content 3",
+    "message": "contenido 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content4",
+    "description": "Content 4",
+    "defaultMessage": "Content 4",
+    "message": "contenido 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content5",
+    "description": "Content 5",
+    "defaultMessage": "Content 5",
+    "message": "contenido 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content6",
+    "description": "Content 6",
+    "defaultMessage": "Content 6",
+    "message": "contenido 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contentpageManagement",
+    "description": "Content Management",
+    "defaultMessage": "Content Management",
+    "message": "Gestión de contenido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.copyRights",
+    "description": "Copy Rights",
+    "defaultMessage": "Wooberly 2020. All Rights Reserved",
+    "message": "Wooberly 2020. Todos los derechos reservados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.country",
+    "description": "Country Name",
+    "defaultMessage": "Country",
+    "message": "País",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.countryCodeError",
+    "description": "Invalid Country Code",
+    "defaultMessage": "Invalid Country Code",
+    "message": "Código de país no válido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.createdAt",
+    "description": "Created date",
+    "defaultMessage": "Account Created on",
+    "message": "Cuenta creada en",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currency",
+    "description": "Currency Type",
+    "defaultMessage": "Currency",
+    "message": "Moneda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.decline",
+    "description": "Decline",
+    "defaultMessage": "Decline",
+    "message": "Disminución",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.deleteAction",
+    "description": "Delete action name",
+    "defaultMessage": "Delete",
+    "message": "Eliminar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.description",
+    "description": "text",
+    "defaultMessage": "Description",
+    "message": "Descripción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.details",
+    "description": "Details",
+    "defaultMessage": "Details",
+    "message": "detalles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.discount",
+    "description": "text",
+    "defaultMessage": "Discount",
+    "message": "Descuento",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus scaevola elaboraret vel anuncio, sin vis noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppDriverDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus scaevola elaboraret vel anuncio, sin vis noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppText",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Rider App",
+    "message": "El jinete descarga de aplicaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppTextDriver",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Driver App",
+    "message": "Descargar el controlador de aplicaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driver",
+    "description": "driver",
+    "defaultMessage": "Driver",
+    "message": "Conductor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverCommission",
+    "description": "Driver Commission Percentage",
+    "defaultMessage": "Driver Commission(%)",
+    "message": "Conductor Comisión (%)",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverEmail",
+    "description": "Driver Email",
+    "defaultMessage": "Driver Email",
+    "message": "controlador electrónico",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverFeeType",
+    "description": "Driver Fee Type",
+    "defaultMessage": "Driver Fee Type",
+    "message": "Conductor Fee Tipo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverFeeValue",
+    "description": "Driver Fee Value",
+    "defaultMessage": "Driver Commission",
+    "message": "Comisión controlador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverMenu",
+    "description": "driverMenu",
+    "defaultMessage": "Manage Drivers",
+    "message": "administrar controladores",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverName",
+    "description": "Driver Name",
+    "defaultMessage": "Driver Name",
+    "message": "Nombre del conductor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverRatings",
+    "description": "Driver Ratings",
+    "defaultMessage": "Driver Ratings",
+    "message": "Calificaciones de controladores",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverServiceFee",
+    "description": "Driver Service Fee",
+    "defaultMessage": "Driver Service Fee",
+    "message": "Cargo por servicio de controlador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverTotalFare",
+    "description": "Driver Total Fare",
+    "defaultMessage": "Driver Total Fare",
+    "message": "Conductor tarifa total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.drivers",
+    "description": "drivers",
+    "defaultMessage": "Drivers",
+    "message": "Conductores",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dropLocation",
+    "description": "Drop Location",
+    "defaultMessage": "Drop Location",
+    "message": "gota Localización",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.earnings",
+    "description": "Earnings",
+    "defaultMessage": "Your Earnings",
+    "message": "sus ganancias",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.edit",
+    "description": "edit",
+    "defaultMessage": "Edit",
+    "message": "Editar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAction",
+    "description": "Edit action name",
+    "defaultMessage": "Edit",
+    "message": "Editar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editCancelReason",
+    "description": "Edit Cancel Reason",
+    "defaultMessage": "Edit Cancel Reason",
+    "message": "Editar Cancelar Razón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editCategory",
+    "description": "Edit category form header",
+    "defaultMessage": "Edit Category",
+    "message": "Editar categoria",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editDriver",
+    "description": "Edit driver form header",
+    "defaultMessage": "Edit Driver",
+    "message": "Editar controlador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editPageDetails",
+    "description": "Edit Page Details",
+    "defaultMessage": "Edit Page Details",
+    "message": "Editar detalles Página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editPromoCode",
+    "description": "Edit PromoCode",
+    "defaultMessage": "Edit Promo Code",
+    "message": "Editar código de promoción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editRider",
+    "description": "Edit rider form header",
+    "defaultMessage": "Edit Rider",
+    "message": "Editar jinete",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editVehicle",
+    "description": "Edit vehicle form header",
+    "defaultMessage": "Edit Vehicle",
+    "message": "Editar Vehículo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.eligibleForATrip",
+    "description": "text",
+    "defaultMessage": "Eligible for a Trip",
+    "message": "Elegible para un viaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.enableDisable",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Enable / Disable",
+    "message": "Conjunto Activar / Desactivar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exceedLimit",
+    "description": "Exceeding character limit",
+    "defaultMessage": "Exceeding character limit",
+    "message": "Superior al límite de caracteres",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exceedLimit100",
+    "description": "Please dont exceed 100 words",
+    "defaultMessage": "Please dont exceed 100 words",
+    "message": "Por favor, no superior a 100 palabras",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.expireDate",
+    "description": "text",
+    "defaultMessage": "Expiry Date",
+    "message": "Fecha de caducidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fixed",
+    "description": "Fixed Fee Type",
+    "defaultMessage": "Fixed",
+    "message": "Fijo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fixedAmount",
+    "description": "text",
+    "defaultMessage": "Fixed Amount",
+    "message": "Cantidad fija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.floatError",
+    "description": "Numeric Error Response",
+    "defaultMessage": "It should be a number value",
+    "message": "Debe ser un valor numérico",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.followUs",
+    "description": "Follow Us",
+    "defaultMessage": "Follow  Us",
+    "message": "Síguenos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerCategory",
+    "description": "Footer Category",
+    "defaultMessage": "Footer Category",
+    "message": "Categoría de pie de página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo1",
+    "description": "Footer Logo 1",
+    "defaultMessage": "Footer Logo #1",
+    "message": "Pie de página Logo # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo2",
+    "description": "Footer Logo 2",
+    "defaultMessage": "Footer Logo #2",
+    "message": "Pie de página Logo # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo3",
+    "description": "Footer Logo 3",
+    "defaultMessage": "Footer Logo #3",
+    "message": "Pie de página Logo # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo4",
+    "description": "Footer Logo 4",
+    "defaultMessage": "Footer Logo #4",
+    "message": "Pie de página Logo # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerSectionSettings",
+    "description": "Footer Settings",
+    "defaultMessage": "Footer",
+    "message": "Pie de página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.form",
+    "description": "form",
+    "defaultMessage": "Form",
+    "message": "Formar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.goBack",
+    "description": "Go Back Button Text",
+    "defaultMessage": "Go Back",
+    "message": "Regresa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.goToMainSite",
+    "description": "goToMainSite option",
+    "defaultMessage": "Go to main site",
+    "message": "Ir al sitio principal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescFive",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id por tincidunt gloriatur. Vim odio unum atomorum al. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescFour",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id por tincidunt gloriatur. Vim odio unum atomorum al. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescOne",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id por tincidunt gloriatur. Vim odio unum atomorum al. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescSix",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id por tincidunt gloriatur. Vim odio unum atomorum al. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescThree",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id por tincidunt gloriatur. Vim odio unum atomorum al. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescTwo",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id por tincidunt gloriatur. Vim odio unum atomorum al. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitle",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleFive",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleFour",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleSix",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleThree",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleTwo",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.holdPayout",
+    "description": "Hold Payout",
+    "defaultMessage": "Hold Payout",
+    "message": "Pago bodega",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeContent",
+    "description": "Start Riding With Wooberly",
+    "defaultMessage": "Start Riding With Wooberly",
+    "message": "Comenzar a caballo con Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeContent1",
+    "description": "Banner Content",
+    "defaultMessage": "Banner Content",
+    "message": "Banner contenido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage1",
+    "description": "Banner Image 1",
+    "defaultMessage": "Banner Image #1",
+    "message": "Banner Imagen # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage2",
+    "description": "Banner Image 2",
+    "defaultMessage": "Banner Image #2",
+    "message": "Banner Imagen # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage3",
+    "description": "Banner Image 3",
+    "defaultMessage": "Banner Image #3",
+    "message": "Banner Imagen # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage4",
+    "description": "Banner Image 4",
+    "defaultMessage": "Banner Image #4",
+    "message": "Banner Imagen # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage5",
+    "description": "Banner Image 5",
+    "defaultMessage": "Banner Image #5",
+    "message": "Banner Imagen # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage6",
+    "description": "Banner Image 6",
+    "defaultMessage": "Banner Image #6",
+    "message": "Banner Imagen # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage7",
+    "description": "Banner Image Tablet",
+    "defaultMessage": "Banner Image Tablet",
+    "message": "Imagen del Anuncio de la tableta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage8",
+    "description": "Banner Image Mobile",
+    "defaultMessage": "Banner Image Mobile",
+    "message": "Imagen del Anuncio de móvil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeSectionSettings",
+    "description": "Banner Settings",
+    "defaultMessage": "Banner",
+    "message": "Bandera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeTitle",
+    "description": "Banner Title",
+    "defaultMessage": "Banner Title",
+    "message": "Banner Título",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homepageBanner",
+    "description": "Homepage Banner Settings",
+    "defaultMessage": "Homepage Banner",
+    "message": "Página de inicio Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.id",
+    "description": "ID text",
+    "defaultMessage": "ID",
+    "message": "CARNÉ DE IDENTIDAD",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.inactive",
+    "description": "Inactive Status",
+    "defaultMessage": "Inactive",
+    "message": "Inactivo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.insuranceImage",
+    "description": "insuranceImage",
+    "defaultMessage": "Insurance Image",
+    "message": "imagen de seguro",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.intError",
+    "description": "Integer Error Response",
+    "defaultMessage": "It should be a decimal value",
+    "message": "Debe ser un valor decimal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidUrl",
+    "description": "Invalid Page URL",
+    "defaultMessage": "Invalid Page URL",
+    "message": "URL de página no válida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVehicleName",
+    "description": "Invalid Vehicle Name",
+    "defaultMessage": "Invalid Vehicle Name",
+    "message": "Nombre del vehículo no válido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVehicleNumber",
+    "description": "Invalid Vehicle Number",
+    "defaultMessage": "Invalid Vehicle Number",
+    "message": "Número de vehículos no válido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.isSpecialTrip",
+    "description": "Special Trip",
+    "defaultMessage": "Special Trip",
+    "message": "viaje especial",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.licenceBackImage",
+    "description": "licenceBackImage",
+    "defaultMessage": "Licence Back Image",
+    "message": "Licencia Vuelta Imagen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.licenceFrontImage",
+    "description": "licenceFrontImage",
+    "defaultMessage": "Licence Front Image",
+    "message": "Imagen de matrícula delantera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.location",
+    "description": "location",
+    "defaultMessage": "Manage Location",
+    "message": "Manejo de Localización",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.locationName",
+    "description": "Table header",
+    "defaultMessage": "Location",
+    "message": "Ubicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logo",
+    "description": "Logo",
+    "defaultMessage": "Logo",
+    "message": "Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logout",
+    "description": "logout option",
+    "defaultMessage": "Logout",
+    "message": "Cerrar sesión",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Cancelar Razón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCancelledTrips",
+    "description": "manageCancelledTrips sidemenu",
+    "defaultMessage": "Cancelled Bookings",
+    "message": "Las reservas canceladas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCompletedTrips",
+    "description": "CompletedTrips sidemenu",
+    "defaultMessage": "Completed Bookings",
+    "message": "Reservas completas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCurrency",
+    "description": "manageCurrency sidemenu",
+    "defaultMessage": "Manage Currency",
+    "message": "Manejo de divisas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageDashboard",
+    "description": "Manage Dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Tablero",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageFailedPayout",
+    "description": "Failed Payout",
+    "defaultMessage": "Failed Payout",
+    "message": "Pago fallado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageFare",
+    "description": "Admin sidemenu",
+    "defaultMessage": "Manage Fare",
+    "message": "Manejo de Tarifas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageNotifications",
+    "description": "Manage Notifications",
+    "defaultMessage": "Manage Notifications",
+    "message": "administrar notificaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.managePayout",
+    "description": "managePayout",
+    "defaultMessage": "Manage Payout",
+    "message": "Manejo de Pago",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.managePromoCode",
+    "description": "managePromoCode sidemenu",
+    "defaultMessage": "Manage Promo Code",
+    "message": "Manejo de Código de promoción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.maximumUploadSizeLabel",
+    "description": "",
+    "defaultMessage": "Maximum upload size",
+    "message": "Tamaño máximo de carga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuFour",
+    "description": "menuFour",
+    "defaultMessage": "MenuFour",
+    "message": "MenuFour",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuOne",
+    "description": "form",
+    "defaultMessage": "MenuOne",
+    "message": "MenuOne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuTwo",
+    "description": "MenuTwo",
+    "defaultMessage": "MenuTwo",
+    "message": "MenuTwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.messageLength",
+    "description": "Message must be 200 characters or less",
+    "defaultMessage": "Message must be 200 characters or less",
+    "message": "Mensaje debe ser 200 caracteres o menos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.messageRequired",
+    "description": "Message is required",
+    "defaultMessage": "Message is required",
+    "message": "Se requiere mensaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDescription",
+    "description": "Description must be 255 characters or less",
+    "defaultMessage": "Description must be 255 characters or less",
+    "message": "La descripción debe tener 255 caracteres o menos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDescriptionText",
+    "description": "Meta Description",
+    "defaultMessage": "Meta Description",
+    "message": "Metadescripción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaKeyword",
+    "description": "Keyword must be 255 characters or less",
+    "defaultMessage": "Keyword must be 255 characters or less",
+    "message": "Palabra clave debe ser de 255 caracteres o menos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaTitle",
+    "description": "Meta Title",
+    "defaultMessage": "Meta Title",
+    "message": "meta Título",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minBasePrice",
+    "description": "Minimum base price amount",
+    "defaultMessage": "Minimum Base Price",
+    "message": "Mínimo Precio Base",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minutePrice",
+    "description": "Minute Price",
+    "defaultMessage": "Minute Price",
+    "message": "Precio minutos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minutes",
+    "description": "minutes",
+    "defaultMessage": "minutes",
+    "message": "minutos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.montly",
+    "description": "montly",
+    "defaultMessage": "This Month",
+    "message": "Este mes",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.no",
+    "description": "no",
+    "defaultMessage": "No",
+    "message": "No",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.noResult",
+    "description": "noResult",
+    "defaultMessage": "No results found",
+    "message": "No se han encontrado resultados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notEligibleForATrip",
+    "description": "text",
+    "defaultMessage": "Not eligible for a Trip",
+    "message": "No elegible para un viaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.numberError",
+    "description": "Invalid Phone Number",
+    "defaultMessage": "Invalid Phone Number",
+    "message": "Numero de telefono invalido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.numericValue",
+    "description": "Numeric value required",
+    "defaultMessage": "Numeric value required",
+    "message": "Valor numérico requerido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.offline",
+    "description": "offline",
+    "defaultMessage": "Offline",
+    "message": "Desconectado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.online",
+    "description": "online",
+    "defaultMessage": "Online",
+    "message": "En línea",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.overAll",
+    "description": "Overall",
+    "defaultMessage": "Overall",
+    "message": "En general",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageBanner",
+    "description": "Page Banner",
+    "defaultMessage": "Page Banner",
+    "message": "Titular de página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageImageBanner",
+    "description": "Page Image Banner",
+    "defaultMessage": "Page Image Banner",
+    "message": "Imagen de la página Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageName",
+    "description": "Page Name",
+    "defaultMessage": "Page Name",
+    "message": "Nombre de la página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageTitle",
+    "description": "Page Title",
+    "defaultMessage": "Page Title",
+    "message": "Título de la página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageUrl",
+    "description": "Page URL",
+    "defaultMessage": "Page URL",
+    "message": "URL de la página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paid",
+    "description": "Paid",
+    "defaultMessage": "Paid",
+    "message": "Pagado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paymentMethod",
+    "description": "Payment Method",
+    "defaultMessage": "Payment Method",
+    "message": "Método de pago",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paymentType",
+    "description": "Payment Type",
+    "defaultMessage": "Payment Type",
+    "message": "Tipo de pago",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.payoutAmount",
+    "description": "Payout Amount",
+    "defaultMessage": "Payout Amount",
+    "message": "Cantidad a pagar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.payoutStatus",
+    "description": "Payout Status",
+    "defaultMessage": "Payout Status",
+    "message": "Estado de pago",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pending",
+    "description": "Pending Status",
+    "defaultMessage": "Pending",
+    "message": "Pendiente",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentError",
+    "description": "Choose percentage value between 1 to 99",
+    "defaultMessage": "Choose percentage value between 1 to 99",
+    "message": "Selección de un valor porcentual entre 1 y 99",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentage",
+    "description": "text",
+    "defaultMessage": "Percentage",
+    "message": "Porcentaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentageFeeType",
+    "description": "Percentage Fee Type",
+    "defaultMessage": "Percentage",
+    "message": "Porcentaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.permit",
+    "description": "Permit Status",
+    "defaultMessage": "Permit",
+    "message": "Permiso",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.phoneDialCode",
+    "description": "Phone Dial Code",
+    "defaultMessage": "Country Code",
+    "message": "Código de país",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pickupLocation",
+    "description": "PickUp Location",
+    "defaultMessage": "PickUp Location",
+    "message": "Lugar de recogida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.preview",
+    "description": "Preview",
+    "defaultMessage": "Preview",
+    "message": "Avance",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.privacyPolicies",
+    "description": "Privacy Policy",
+    "defaultMessage": "Privacy Policy",
+    "message": "Política de privacidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.profileId",
+    "description": "Profile Id for user",
+    "defaultMessage": "Profile ID",
+    "message": "Perfil Id",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.profilePicture",
+    "description": "profilePicture",
+    "defaultMessage": "Profile Picture",
+    "message": "Foto de perfil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.promoCodeId",
+    "description": "Promo Code",
+    "defaultMessage": "Promo Code",
+    "message": "Código promocional",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.promoType",
+    "description": "text",
+    "defaultMessage": "Type",
+    "message": "Tipo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ratings",
+    "description": "Ratings",
+    "defaultMessage": "Ratings",
+    "message": "calificaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rcImage",
+    "description": "rcImage",
+    "defaultMessage": "RC Book Image",
+    "message": "Sin imagen de RC",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reason",
+    "description": "Reason",
+    "defaultMessage": "Reason",
+    "message": "Razón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reasonRequired",
+    "description": "Reason is required",
+    "defaultMessage": "Reason is required",
+    "message": "Se requiere razón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.removeLocation",
+    "description": "Polygon remove",
+    "defaultMessage": "Remove Location",
+    "message": "Eliminar la ubicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reviewsBy",
+    "description": "reviewsBy",
+    "defaultMessage": "Reviews By",
+    "message": "las críticas de",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rider",
+    "description": "Rider",
+    "defaultMessage": "Rider",
+    "message": "Jinete",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderCommission",
+    "description": "Rider Commission Percentage",
+    "defaultMessage": "Rider Commission(%)",
+    "message": "Comisión Rider (%)",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderEmail",
+    "description": "Rider Email",
+    "defaultMessage": "Rider Email",
+    "message": "piloto de correo electrónico",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderFeeType",
+    "description": "Rider Fee Type",
+    "defaultMessage": "Rider Fee Type",
+    "message": "Piloto Tarifa Tipo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderFeeValue",
+    "description": "Rider Fee Value",
+    "defaultMessage": "Rider Commission",
+    "message": "Comisión jinete",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderName",
+    "description": "Rider Name",
+    "defaultMessage": "Rider Name",
+    "message": "Nombre del jinete",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderPayableAmount",
+    "description": "Special Trip Total Fare",
+    "defaultMessage": "Rider Payable Amount",
+    "message": "Piloto Cantidad a Pagar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderServiceFee",
+    "description": "Rider Service Fee",
+    "defaultMessage": "Rider Service Fee",
+    "message": "Tarifa del servicio piloto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderTotalFare",
+    "description": "Rider Total Fare",
+    "defaultMessage": "Rider Total Fare",
+    "message": "Fare piloto total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riders",
+    "description": "Riders",
+    "defaultMessage": "Riders",
+    "message": "jinetes",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ridersMenu",
+    "description": "ridersMenu",
+    "defaultMessage": "Manage Riders",
+    "message": "Manejo de los jinetes",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyButton",
+    "description": "safetyButton",
+    "defaultMessage": "View all safety features",
+    "message": "Ver todas las características de seguridad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyContent",
+    "description": "Safety",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de la industria desde que el año 1500, cuando un desconocido tomó una impresora de cocina tipo y codificados para hacer un libro de textos especimen.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Playstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Appstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage3",
+    "description": "Rider Banner",
+    "defaultMessage": "Rider Banner",
+    "message": "piloto Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetySectionSettings",
+    "description": "Rider Apps Settings",
+    "defaultMessage": "Rider App",
+    "message": "Aplicación piloto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.searchLocation",
+    "description": "Auto-Complete input",
+    "defaultMessage": "Search Location",
+    "message": "Buscar Localización",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.setBaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Base Currency",
+    "message": "Base Set de divisas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupDrive",
+    "description": "Sign up to drive",
+    "defaultMessage": "Sign up to drive",
+    "message": "Regístrese para conducir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "playstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "appstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage3",
+    "description": "Driver Banner",
+    "defaultMessage": "Driver Banner",
+    "message": "conductor Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupRide",
+    "description": "Sign up to ride",
+    "defaultMessage": "Sign up to ride",
+    "message": "Regístrese para montar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupSectionSettings",
+    "description": "Driver Apps Settings",
+    "defaultMessage": "Driver App",
+    "message": "controlador de la Aplicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteAdmin",
+    "description": "siteAdmin",
+    "defaultMessage": "Site Admin",
+    "message": "administración del sitio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteSettings",
+    "description": "Site Settings",
+    "defaultMessage": "Site Settings",
+    "message": "Configuración del sitio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderTitle",
+    "description": "sliderTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderTitleDesc",
+    "description": "sliderTitleDesc",
+    "defaultMessage": "Percipit repudiandae an eum, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "message": "Percipit repudiandae un eum, foe caso enim no. Percipit tractatos pertinacia cum Identificación, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.specialTripPrice",
+    "description": "discount text",
+    "defaultMessage": "Rider Discount Amount",
+    "message": "Piloto Cantidad de Descuento",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.startDriving",
+    "description": "Start Driving",
+    "defaultMessage": "Start Driving",
+    "message": "Comenzar a conducir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.startRideing",
+    "description": "Start Riding",
+    "defaultMessage": "Start Riding",
+    "message": "empezar a montar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.staticpageManagement",
+    "description": "Manage Static Content",
+    "defaultMessage": "Manage Static Content",
+    "message": "Administrar contenido estático",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.status",
+    "description": "Status Active/Inactive",
+    "defaultMessage": "Status",
+    "message": "Estado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuOne",
+    "description": "subMenuOne",
+    "defaultMessage": "subMenuOne",
+    "message": "subMenuOne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuThree",
+    "description": "subMenuThree",
+    "defaultMessage": "subMenuThree",
+    "message": "subMenuThree",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuTwo",
+    "description": "subMenuTwo",
+    "defaultMessage": "subMenuTwo",
+    "message": "subMenuTwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.submitButton",
+    "description": "Submit",
+    "defaultMessage": "Submit",
+    "message": "Enviar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.symbol",
+    "description": "currencyManagement value",
+    "defaultMessage": "Symbol",
+    "message": "Símbolo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.table",
+    "description": "Table",
+    "defaultMessage": "Table",
+    "message": "Mesa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsAmount",
+    "description": "Tips Amount",
+    "defaultMessage": "Tips Amount",
+    "message": "consejos Cantidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title",
+    "description": "text",
+    "defaultMessage": "Title",
+    "message": "Título",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title1",
+    "description": "Title 1",
+    "defaultMessage": "Title 1",
+    "message": "título 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title2",
+    "description": "Title 2",
+    "defaultMessage": "Title 2",
+    "message": "título 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title3",
+    "description": "Title 3",
+    "defaultMessage": "Title 3",
+    "message": "título 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title4",
+    "description": "Title 4",
+    "defaultMessage": "Title 4",
+    "message": "título 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title5",
+    "description": "Title 5",
+    "defaultMessage": "Title 5",
+    "message": "título 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title6",
+    "description": "Title 6",
+    "defaultMessage": "Title 6",
+    "message": "título 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.today",
+    "description": "today",
+    "defaultMessage": "Today",
+    "message": "Hoy",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tollFee",
+    "description": "tollFee",
+    "defaultMessage": "Toll Fee",
+    "message": "Peaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalDuration",
+    "description": "Total Duration",
+    "defaultMessage": "Total Duration",
+    "message": "Duración total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalFare",
+    "description": "Total Fare",
+    "defaultMessage": "Total Fare",
+    "message": "Tarifa total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalRideDistance",
+    "description": "Total Rider Distance",
+    "defaultMessage": "Total Rider Distance",
+    "message": "Distancia total del jinete",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripDate",
+    "description": "Trip Date",
+    "defaultMessage": "Trip Date",
+    "message": "Fecha de viaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripEnd",
+    "description": "Trip End",
+    "defaultMessage": "Trip End",
+    "message": "Fin de viaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripStart",
+    "description": "Trip Start",
+    "defaultMessage": "Trip Start",
+    "message": "Inicio de viaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripStatus",
+    "description": "Trip Status",
+    "defaultMessage": "Trip Status",
+    "message": "Estado de viaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.unitPrice",
+    "description": "Unit Price",
+    "defaultMessage": "Unit Price",
+    "message": "Precio unitario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.unpaid",
+    "description": "Unpaid",
+    "defaultMessage": "Unpaid",
+    "message": "No pagado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.update",
+    "description": "Update",
+    "defaultMessage": "Update",
+    "message": "Actualizar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.useFullLink",
+    "description": "Usefull Links",
+    "defaultMessage": "Usefull Links",
+    "message": "Enlaces útiles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.usedPromoCode",
+    "description": "text",
+    "defaultMessage": "Used Promo Code",
+    "message": "Código de promoción usados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.userStatus",
+    "description": "User Status Active/Inactive",
+    "defaultMessage": "User Status",
+    "message": "Estatus de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validUrl",
+    "description": "Valid URL required",
+    "defaultMessage": "Valid URL required",
+    "message": "URL válida requerida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vechicleName",
+    "description": "Vehicle",
+    "defaultMessage": "Vehicle",
+    "message": "Vehículo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleId",
+    "description": "Vehicle ID",
+    "defaultMessage": "Vehicle ID",
+    "message": "ID del vehículo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleName",
+    "description": "Vehicle Name",
+    "defaultMessage": "Vehicle Name",
+    "message": "Nombre de vehículos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNameError3",
+    "description": "New Password must be minimum 8 characters",
+    "defaultMessage": "Vehicle Name must be minimum 3 characters and maximum 15 characters",
+    "message": "Nombre vehículo debe ser como mínimo de 3 caracteres y un máximo de 15 caracteres",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNumber",
+    "description": "Vehicle Number",
+    "defaultMessage": "Vehicle Number",
+    "message": "Número de vehículo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNumberError",
+    "description": "Invalid Vehicle Number",
+    "defaultMessage": "Invalid Vehicle Number",
+    "message": "Número de vehículos no válido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleOwnerEmail",
+    "description": "Vehicle Owner Email",
+    "defaultMessage": "Vehicle Owner Email",
+    "message": "Propietario del vehículo por correo electrónico",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleOwnerName",
+    "description": "Vehicle Owner Name",
+    "defaultMessage": "Vehicle Owner Name",
+    "message": "Nombre del propietario del vehículo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleType",
+    "description": "Vehicle Type",
+    "defaultMessage": "Vehicle Type",
+    "message": "tipo de vehiculo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehiclesMenu",
+    "description": "vehiclesMenu",
+    "defaultMessage": "Manage Vehicles",
+    "message": "Manejo de Vehículos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.view",
+    "description": "View Details Link",
+    "defaultMessage": "View",
+    "message": "Ver",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.viewCity",
+    "description": "view City",
+    "defaultMessage": "View city",
+    "message": "vista ciudad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.wallet",
+    "description": "Wallet",
+    "defaultMessage": "Wallet",
+    "message": "Billetera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.walletBalance",
+    "description": "Wallet Balance",
+    "defaultMessage": "Wallet Balance",
+    "message": "balance de la cartera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.weekly",
+    "description": "weekly",
+    "defaultMessage": "This Week",
+    "message": "Esta semana",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.yes",
+    "description": "Yes",
+    "defaultMessage": "Yes",
+    "message": "si",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "rentall.dropzoneUpload",
+    "description": "Dropzone upload info",
+    "defaultMessage": "Upload a file from your computer",
+    "message": "Cargar un archivo desde su ordenador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "rentall.dropzoneUploadError",
+    "description": "Dropzone upload error message",
+    "defaultMessage": "Remove the existing image and try upload again",
+    "message": "Retire la imagen existente y tratar de descarga una vez",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "AddListSettingsForm.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Añadir",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNew",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Nombre",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNewDescription",
+    "description": "description",
+    "defaultMessage": "Description",
+    "message": "Descripción",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.delete",
+    "description": "Delete Button",
+    "defaultMessage": "Delete",
+    "message": "Eliminar",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.required",
+    "description": "Required",
+    "defaultMessage": "*Required",
+    "message": "*Necesario",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.update",
+    "description": "Update Button",
+    "defaultMessage": "Update",
+    "message": "Actualizar",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "exceedLimit",
+    "description": "exceedLimit",
+    "defaultMessage": "Maximum allowed character is 255.",
+    "message": "De caracteres máximo permitido es 255.",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.blankSpace",
+    "description": "Password error",
+    "defaultMessage": "Password should not be blank space.",
+    "message": "La contraseña no debe ser el espacio en blanco.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailBlankSpace",
+    "description": "email address error",
+    "defaultMessage": "Email should not be blank spaces",
+    "message": "El correo electrónico no debe ser espacios en blanco",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailInvalid",
+    "description": "email address error",
+    "defaultMessage": "*Invalid email address",
+    "message": "* Dirección de correo electrónico válida",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.passwordInvalid",
+    "description": "Password minimum characters error",
+    "defaultMessage": "Password should be minimum 8 characters.",
+    "message": "La contraseña debe tener un mínimo de 8 caracteres.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exportDataIntoCSV",
+    "description": "Export Data into CSV",
+    "defaultMessage": "Export Data into CSV",
+    "message": "Los datos de exportación en CSV",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminName",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Nombre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminRole",
+    "description": "Admin Role",
+    "defaultMessage": "Admin Role",
+    "message": "El papel de administrador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailText",
+    "description": "Email",
+    "defaultMessage": "Email",
+    "message": "Email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdmin",
+    "description": "Manage Admins",
+    "defaultMessage": "Manage Admins",
+    "message": "Manejo de Administradores",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdminRoles",
+    "description": "Manage Admin Roles",
+    "defaultMessage": "Manage Admin Roles",
+    "message": "Administrar funciones de administración",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdminUsers",
+    "description": "Manage Admin Users",
+    "defaultMessage": "Manage Admin Users",
+    "message": "Administrar usuarios administrativos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordText",
+    "description": "Password Content",
+    "defaultMessage": "Provide new password only. Ignore this field to use the existing password for this user.",
+    "message": "Proporcionar solamente una nueva contraseña. No haga caso de este campo para utilizar la contraseña existente para este usuario.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.privileges",
+    "description": "Privileges",
+    "defaultMessage": "Privileges",
+    "message": "privilegios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.role",
+    "description": "Role",
+    "defaultMessage": "Role",
+    "message": "Papel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.roleName",
+    "description": "Role Name",
+    "defaultMessage": "Role Name",
+    "message": "Nombre de rol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.selectRole",
+    "description": "Select Role",
+    "defaultMessage": "Select Role",
+    "message": "Seleccione Papel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addNewLabel",
+    "description": "Add New",
+    "defaultMessage": "Add New",
+    "message": "Añadir nuevo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminUserLabel",
+    "description": "Admin User",
+    "defaultMessage": "Admin User",
+    "message": "admin User",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.chooseLanguageLabel",
+    "description": "Choose a Language",
+    "defaultMessage": "Choose a Language",
+    "message": "Elija un idioma",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Disable",
+    "description": "Ban Status",
+    "defaultMessage": "Disable",
+    "message": "Inhabilitar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Disabled",
+    "description": "Ban Status",
+    "defaultMessage": "Disabled",
+    "message": "Discapacitado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Enable",
+    "description": "Ban Status",
+    "defaultMessage": "Enable",
+    "message": "Habilitar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Enabled",
+    "description": "Ban Status",
+    "defaultMessage": "Enabled",
+    "message": "Activado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Support",
+    "description": "Ban Status",
+    "defaultMessage": "Support",
+    "message": "Apoyo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.askQuestion",
+    "description": "Ban Status",
+    "defaultMessage": "Ask a question",
+    "message": "Hacer una pregunta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.lastHours",
+    "description": "Ban Status",
+    "defaultMessage": "Last 24 hours",
+    "message": "Últimas 24 horas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.listings",
+    "description": "Ban Status",
+    "defaultMessage": "Listings",
+    "message": "listados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notFound",
+    "description": "Ban Status",
+    "defaultMessage": "Sorry, the page you were trying to view does not exist.",
+    "message": "Lo sentimos, la página que estaba tratando de ver no existe.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reportIssue",
+    "description": "Ban Status",
+    "defaultMessage": "Report an issue",
+    "message": "Reportar un problema",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reservations",
+    "description": "Ban Status",
+    "defaultMessage": "Reservations",
+    "message": "reservas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.setBase",
+    "description": "Ban Status",
+    "defaultMessage": "Set as base currency",
+    "message": "Fijar moneda base",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalList",
+    "description": "Ban Status",
+    "defaultMessage": "Total Listings",
+    "message": "total de Listados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalReserv",
+    "description": "Ban Status",
+    "defaultMessage": "Total Reservations",
+    "message": "Las reservas totales",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalUser",
+    "description": "Ban Status",
+    "defaultMessage": "Total Users",
+    "message": "Total de usuarios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.oneOne",
+    "description": "Ban Status",
+    "defaultMessage": "One",
+    "message": "Uno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categorieslist",
+    "description": "categoryMenu",
+    "defaultMessage": "Categories",
+    "message": "categorías",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currencies",
+    "description": "Ban Status",
+    "defaultMessage": "Currencies",
+    "message": "Monedas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.drivPayout",
+    "description": "managePayout",
+    "defaultMessage": "Driver Payout",
+    "message": "Pago controlador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fares",
+    "description": "Fares",
+    "defaultMessage": "Fares",
+    "message": "tarifas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeonly",
+    "description": "Fares",
+    "defaultMessage": "Home",
+    "message": "Hogar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicles",
+    "description": "Fares",
+    "defaultMessage": "Vehicles",
+    "message": "vehículos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.allonly",
+    "description": "Fares",
+    "defaultMessage": "All",
+    "message": "Todas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.appstorelink",
+    "description": "Fares",
+    "defaultMessage": "App Store Link",
+    "message": "App Store Enlace",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverappcntn",
+    "description": "Fares",
+    "defaultMessage": "Driver App Content",
+    "message": "Controlador de la Aplicación contenido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverapptitle",
+    "description": "Fares",
+    "defaultMessage": "Driver App Title",
+    "message": "Título controlador de la Aplicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.facebookUrl",
+    "description": "Fares",
+    "defaultMessage": "Facebook URL",
+    "message": "Facebook URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.instaUrl",
+    "description": "Fares",
+    "defaultMessage": "Instagram URL",
+    "message": "Instagram URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logoheight",
+    "description": "Fares",
+    "defaultMessage": "Logo Height",
+    "message": "La altura del logotipo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logowidth",
+    "description": "Fares",
+    "defaultMessage": "Logo Width",
+    "message": "El ancho del logotipo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDesc",
+    "description": "Fares",
+    "defaultMessage": "Meta Description",
+    "message": "Metadescripción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metakey",
+    "description": "Fares",
+    "defaultMessage": "Meta Keyword",
+    "message": "meta de palabras clave",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.playstorelink",
+    "description": "Fares",
+    "defaultMessage": "Play Store Link",
+    "message": "Play Store Enlace",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteName",
+    "description": "Fares",
+    "defaultMessage": "Site Name",
+    "message": "Nombre del sitio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteTitle",
+    "description": "Fares",
+    "defaultMessage": "Site Title",
+    "message": "Título del sitio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.twiterUrl",
+    "description": "Fares",
+    "defaultMessage": "Twitter URL",
+    "message": "Twitter URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.youtubeUrl",
+    "description": "Fares",
+    "defaultMessage": "Youtube URL",
+    "message": "Youtube URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addOnly",
+    "description": "Fares",
+    "defaultMessage": "Address",
+    "message": "Habla a",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.checkmein",
+    "description": "Fares",
+    "defaultMessage": "Check me in",
+    "message": "Compruebe mí en",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.checkmeout",
+    "description": "Fares",
+    "defaultMessage": "Check me out",
+    "message": "Me echa un vistazo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content",
+    "description": "Content 1",
+    "defaultMessage": "Content",
+    "message": "Contenido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.credentialError",
+    "description": "Fares",
+    "defaultMessage": "Sorry, a critical error occurred on this page.",
+    "message": "Lo sentimos, se produjo un error crítico en esta página.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.errorOnly",
+    "description": "Fares",
+    "defaultMessage": "Error",
+    "message": "Error",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.miles",
+    "description": "Fares",
+    "defaultMessage": "Miles",
+    "message": "Miles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.state",
+    "description": "Fares",
+    "defaultMessage": "State",
+    "message": "Estado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tableCell",
+    "description": "Fares",
+    "defaultMessage": "Table cell",
+    "message": "celda de la tabla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tableHead",
+    "description": "Fares",
+    "defaultMessage": "Table heading",
+    "message": "encabezamiento de la tabla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.buttonLabel",
+    "description": "Change Password",
+    "defaultMessage": "Button Label",
+    "message": "Etiqueta de botón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.confirmPassword",
+    "description": "Change Password",
+    "defaultMessage": "Confirm Password",
+    "message": "Confirmar contraseña",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.copyRightcontent",
+    "description": "Change Password",
+    "defaultMessage": "Copyrights content",
+    "message": "contenido de los derechos de autor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #1",
+    "message": "Descripción de características # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #2",
+    "message": "Descripción de características # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #3",
+    "message": "Descripción de características # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #4",
+    "message": "Descripción de características # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #5",
+    "message": "Descripción de características # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #6",
+    "message": "Descripción de características # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #1",
+    "message": "Característica Título # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #2",
+    "message": "Característica Título # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #3",
+    "message": "Característica Título # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #4",
+    "message": "Característica Título # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #5",
+    "message": "Característica Título # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #6",
+    "message": "Característica Título # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerContent1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Content #1",
+    "message": "Contenido de pie de página # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Title #1",
+    "message": "Título de pie de página # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerUrltitle",
+    "description": "Change Password",
+    "defaultMessage": "Footer URL Title",
+    "message": "Pie de página URL Título",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.msgOnly",
+    "description": "Change Password",
+    "defaultMessage": "Message",
+    "message": "Mensaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.nameOnly",
+    "description": "Change Password",
+    "defaultMessage": "Name",
+    "message": "Nombre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.optionOne",
+    "description": "Fares",
+    "defaultMessage": "option 1",
+    "message": "Opción 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.radioButton",
+    "description": "Change Password",
+    "defaultMessage": "Radio button",
+    "message": "Boton de radio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.redioOne",
+    "description": "Fares",
+    "defaultMessage": "radio 1",
+    "message": "Radio 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderAppContent",
+    "description": "Change Password",
+    "defaultMessage": "Rider App Content",
+    "message": "Aplicación piloto contenido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderApptitle",
+    "description": "Change Password",
+    "defaultMessage": "Rider App Title",
+    "message": "Aplicación piloto Título",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.searchOnly",
+    "description": "Change Password",
+    "defaultMessage": "Search",
+    "message": "Buscar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Añadir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.topFeatures",
+    "description": "Top Features Section Settings",
+    "defaultMessage": "Top Features Section Settings",
+    "message": "Configuración de la sección de características principales",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingDetails",
+    "description": "Booking Details",
+    "defaultMessage": "Booking Details",
+    "message": "Detalles de la reserva",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.changeAdminPassword",
+    "description": "Change Admin Email/Password",
+    "defaultMessage": "Change Admin Email/Password",
+    "message": "Cambiar correo electrónico / contraseña de administrador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currencyList",
+    "description": "Currency List",
+    "defaultMessage": "Currency List",
+    "message": "Lista de divisas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverPayout",
+    "description": "Manage Driver Payouts",
+    "defaultMessage": "Manage Driver Payouts",
+    "message": "Gestionar pagos de conductores",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editLocation",
+    "description": "Edit Location",
+    "defaultMessage": "Edit Location",
+    "message": "Editar ubicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverAndriodVersion",
+    "description": "Andriod",
+    "defaultMessage": "Driver Android Version",
+    "message": "Versión de Android del controlador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driveriosVersion",
+    "description": "iOS",
+    "defaultMessage": "Driver iOS Version",
+    "message": "Conductor IOS versión",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.forceUpdate",
+    "description": "forceUpdate",
+    "defaultMessage": "Force update",
+    "message": "Forzar actualización",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderAndriodVersion",
+    "description": "riderAndriodVersion",
+    "defaultMessage": "Rider Android Version",
+    "message": "Piloto Versión Android",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rideriosVersion",
+    "description": "rideriosVersion",
+    "defaultMessage": "Rider iOS Version",
+    "message": "IOS versión piloto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.to",
+    "description": "Label",
+    "defaultMessage": "To",
+    "message": "a",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validatePasswordLength",
+    "description": "Password length Validation",
+    "defaultMessage": "Password must be minimum 8 characters",
+    "message": "La contraseña debe tener un mínimo de 8 caracteres",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validateConfirmPasswordLength",
+    "description": "Confirm Password length Validation",
+    "defaultMessage": "Confirm Password must be minimum 8 characters",
+    "message": "Confirmar contraseña debe tener un mínimo de 8 caracteres",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validatePasswordMatch",
+    "description": "Password mismatch",
+    "defaultMessage": "Password is mismatching with Confirm password",
+    "message": "La contraseña no coincide con Confirmar contraseña",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.completedLabel",
+    "description": "Label",
+    "defaultMessage": "Completed",
+    "message": "Terminado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Driver Billing Information",
+    "message": "Información de facturación controlador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverEarnings",
+    "description": "Label",
+    "defaultMessage": "Driver Earnings",
+    "message": "Las ganancias del controlador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notRequired",
+    "description": "Label",
+    "defaultMessage": "No Action Required",
+    "message": "No se requiere accion",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.platformEarnings",
+    "description": "Label",
+    "defaultMessage": "Platform Earnings",
+    "message": "Las ganancias de la plataforma",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.platformOffered",
+    "description": "Label",
+    "defaultMessage": "Platform Overdrafts",
+    "message": "Plataforma Descubiertos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.processedCash",
+    "description": "Label",
+    "defaultMessage": "Processed via cash",
+    "message": "Procesada a través de dinero en efectivo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rideFare",
+    "description": "Label",
+    "defaultMessage": "Ride Fare",
+    "message": "Fare paseo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Rider Billing Information",
+    "message": "Piloto de información de facturación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsGivenToDriver",
+    "description": "Label",
+    "defaultMessage": "Tips given to the driver",
+    "message": "Consejos que se dan al conductor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsReceivedFromRider",
+    "description": "Label",
+    "defaultMessage": "Tips received from the rider",
+    "message": "Consejos recibidos del jinete",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addAdminRole",
+    "description": "Title",
+    "defaultMessage": "Add Admin Role",
+    "message": "Añadir administración Rol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAdminRole",
+    "description": "Title",
+    "defaultMessage": "Edit Admin Role",
+    "message": "Función de edición de administración",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.locations",
+    "description": "Pagination",
+    "defaultMessage": "Locations",
+    "message": "Ubicaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addAdminUserLabel",
+    "description": "Add Admin User",
+    "defaultMessage": "Add Admin User",
+    "message": "Agregar usuario administrador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAdminUserLabel",
+    "description": "Edit Admin User",
+    "defaultMessage": "Edit Admin User",
+    "message": "Editar usuario de administración",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.approved",
+    "description": "Approved Status",
+    "defaultMessage": "Approved",
+    "message": "Aprobado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledByDriver",
+    "description": "Cancelled By Driver Status",
+    "defaultMessage": "Cancelled By Driver",
+    "message": "Cancelado por el conductor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledByRider",
+    "description": "Cancelled By Rider Status",
+    "defaultMessage": "Cancelled By Rider",
+    "message": "Cancelado por el piloto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.completed",
+    "description": "Completed Status",
+    "defaultMessage": "Completed",
+    "message": "Terminado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.declined",
+    "description": "Declined Status",
+    "defaultMessage": "Declined",
+    "message": "disminuido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.expired",
+    "description": "Expired Status",
+    "defaultMessage": "Expired",
+    "message": "Caducado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.started",
+    "description": "Started Status",
+    "defaultMessage": "Started",
+    "message": "Empezado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notRequiredMessage",
+    "description": "Not Required",
+    "defaultMessage": "Not Required",
+    "message": "No requerido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverPrivacyPolicy",
+    "description": "Title",
+    "defaultMessage": "Driver Privacy Policy",
+    "message": "Conductor política de privacidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.precautionNotification",
+    "description": "Title",
+    "defaultMessage": "Precaution Notification",
+    "message": "Notificación precaución",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.image",
+    "description": "Label",
+    "defaultMessage": "Image",
+    "message": "Imagen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduleBooking",
+    "description": "Label",
+    "defaultMessage": "Schedule Bookings",
+    "message": "horario Reservas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduled",
+    "description": "Trip status",
+    "defaultMessage": "Scheduled",
+    "message": "programado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduledFrom",
+    "description": "Label",
+    "defaultMessage": "Scheduled From",
+    "message": "De programado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduledTo",
+    "description": "Label",
+    "defaultMessage": "Scheduled To",
+    "message": "Programado para",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.failed",
+    "description": "Trip Status of Schedule History",
+    "defaultMessage": "Failed",
+    "message": "Ha fallado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.updated",
+    "description": "Trip Status of Schedule History",
+    "defaultMessage": "Updated",
+    "message": "Actualizado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVersionNumber",
+    "description": "invalidVersionNumber",
+    "defaultMessage": "Invalid Version Number",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.leaveEmail",
+    "description": "Change Password",
+    "defaultMessage": "Leave email address field blank if you don't want to change the email",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pendingLabel",
+    "description": "Label",
+    "defaultMessage": "Pending",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.updatedAt",
+    "description": "Label",
+    "defaultMessage": "Updated At",
+    "message": "actualizada a las",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduleBookingHistory",
+    "description": "Heading",
+    "defaultMessage": "Schedule Booking History",
+    "message": "Horario historial de reservas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  }
+]

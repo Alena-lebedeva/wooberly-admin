@@ -1,0 +1,6 @@
+{
+    "name": "PricingList",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./PricingList.js"
+  }

@@ -1,0 +1,15 @@
+query getAllCategory($currentPage: Int, $searchList: String){
+  getAllCategory(currentPage: $currentPage, searchList: $searchList){
+   count
+    categoryData{
+        id
+        categoryName
+        categoryImage
+        categoryMarkerImage
+        isActive
+        capacity
+        createdAt
+        updatedAt
+    }
+  }
+}

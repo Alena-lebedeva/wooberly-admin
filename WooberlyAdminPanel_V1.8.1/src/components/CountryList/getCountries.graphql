@@ -1,0 +1,9 @@
+query getCountries {
+        getCountries{
+            id
+            countryCode
+            countryName
+            isEnable
+            dialCode
+        }
+    }

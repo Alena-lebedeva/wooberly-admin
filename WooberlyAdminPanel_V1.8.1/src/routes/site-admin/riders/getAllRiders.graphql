@@ -1,0 +1,19 @@
+query getAllRiders($currentPage: Int){
+  getAllRiders(currentPage: $currentPage){
+   count
+    userData {
+      email
+      phoneDialCode
+      phoneNumber
+      isBan
+      userStatus
+      createdAt
+      profile {
+        profileId
+        firstName
+        lastName
+        country
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../AdminCommon.css';
+ .container {
+	margin: 0 auto;
+	max-width: 520px;
+	width: 100%;
+}
+.welcomeContent {
+	color: #fff;
+	text-align: center;
+	position: relative;
+}
+.welcomeContent h1 {
+	font-weight: bold;
+	font-size: 60px;
+}
+.welcomeContent p {
+	font-size: 50px;
+}
+.fullHeight {
+	height: 100vh;
+}
+.arrowIcon img {
+	width: 65px;
+}
+.arrowIcon {
+	position: absolute;
+	top: 56px;
+	right: 38px;
+	-webkit-animation: bounceRight 2s infinite;
+	animation: bounceRight 2s infinite;
+}
+@-webkit-keyframes bounceRight {
+	0%, 20%, 50%, 80%, 100% {
+		-webkit-transform: translateX(0);
+		transform: translateX(0);
+	}
+	40% {
+		-webkit-transform: translateX(-30px);
+		transform: translateX(-30px);
+	}
+	60% {
+		-webkit-transform: translateX(-15px);
+		transform: translateX(-15px);
+	}
+}
+@-moz-keyframes bounceRight {
+	0%, 20%, 50%, 80%, 100% {
+		transform: translateX(0);
+	}
+	40% {
+		transform: translateX(-30px);
+	}
+	60% {
+		transform: translateX(-15px);
+	}
+}
+@keyframes bounceRight {
+	0%, 20%, 50%, 80%, 100% {
+		-ms-transform: translateX(0);
+		transform: translateX(0);
+	}
+	40% {
+		-ms-transform: translateX(-30px);
+		transform: translateX(-30px);
+	}
+	60% {
+		-ms-transform: translateX(-15px);
+		transform: translateX(-15px);
+	}
+}
+.loginButton button,
+.loginButton button:hover,
+.loginButton button:active,
+.loginButton button:focus {
+	padding: 12px 70px !important;
+	font-size: 20px;
+}
+.loginButton {
+	text-align: center;
+}
+.mobileText {
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	font-size: 52px;
+}
+@media (max-width: 1023px) and (min-width: 768px) {
+	.arrowIcon {
+		display: none
+	}
+}
+@media (max-width: 767px) {
+	.arrowIcon {
+		display: none
+	}
+}

@@ -1,0 +1,33 @@
+{
+  getDashboardCount{
+    totalDriversCount
+    todayDriversCount
+    weekDriversCount
+    monthDriversCount
+    totalRidersCount
+    todayRidersCount
+    weekRidersCount
+    monthRidersCount
+    totalBookingsCount
+    todayBookingsCount
+    weekBookingsCount
+    monthBookingsCount
+    todayEarnings {
+      riderServiceFee
+      driverServiceFee
+    }
+    weeklyEarnings {
+      riderServiceFee
+      driverServiceFee
+    }
+    monthlyEarnings {
+      riderServiceFee
+      driverServiceFee
+    }
+    totalEarnings {
+      riderServiceFee
+      driverServiceFee
+    }
+    currency
+  }
+}

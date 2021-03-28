@@ -1,0 +1,19 @@
+
+  query getFailedPayoutList($currentPage: Int, $searchList: String){
+  getFailedPayoutList(currentPage: $currentPage, searchList:$searchList){
+   count
+    bookingData{
+      id
+      amount
+      currency
+      driverDetails{
+        firstName
+        userData{
+          email
+        }
+      }
+      reason
+      currency
+    }
+  }
+}

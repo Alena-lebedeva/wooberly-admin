@@ -1,0 +1,13 @@
+
+  query getLocationList($currentPage: Int, $searchList: String){
+  getLocationList(currentPage: $currentPage, searchList:$searchList){
+   count
+    LocationData{
+        id
+        locationName
+        coordinates
+        description
+        isActive
+    }
+  }
+}

@@ -1,0 +1,6 @@
+query getSiteSettings {
+  getSiteSettings{
+    name
+    value
+  }
+}

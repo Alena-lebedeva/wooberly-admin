@@ -1,0 +1,33 @@
+
+  query getAllBookings($currentPage: Int, $searchList: String, $bookingType: Int){
+  getAllBookings(currentPage: $currentPage, searchList: $searchList, bookingType: $bookingType){
+   count
+    bookingData{
+       id
+        pickUpLocation
+        dropOffLocation
+        currency
+        tripStatus
+        driverDetails{
+          firstName
+          userData{
+            email
+          }
+        }
+        riderDetails{
+          firstName
+          userData{
+            email
+          }
+        }
+        categoryDetails{
+          categoryName
+        }
+        vehicleNumber
+        totalRideDistance
+        totalDuration
+        totalFare,
+        tollFee
+    }
+  }
+}

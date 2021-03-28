@@ -1,0 +1,99 @@
+@import '../variables.css';
+@import '../Common.css';
+@import '../responsive-common.css';
+ .sideNavitem {
+	display: block;
+	padding: 14px 0px 14px 20px;
+	font-size: 16px;
+	color: #fff;
+	/* border-bottom: 1px solid #fff; */
+}
+.sideNavitem:hover,
+.sideNavitem:focus {
+	text-decoration: none;
+	color: #fff;
+	background-color: rgba(31, 31, 35, 0.8);
+}
+.sideNavitem span:nth-child(2) {
+	padding-left: 10px;
+	transition: all 0.2s ease;
+	padding-right: 28px;
+}
+.sideNavitem:hover span:nth-child(2) {
+	padding-left: 13px;
+}
+.noFilter {
+	filter: none !important;
+}
+.activeMenu {
+	text-decoration: none;
+	color: #fff;
+	background-color: rgba(31, 31, 35, 0.8);
+	border-bottom: 1px solid #fff;
+}
+.noBorderBtn,
+.noBorderBtn:hover,
+.noBorderBtn:focus,
+.noBorderBtn:active {
+	background: none !important;
+	border: none !important;
+	outline: none !important;
+	box-shadow: none !important;
+}
+.sideNavitemCollapseIcon {
+	max-width: 15px !important;
+}
+.sideNavitemCollapseText {
+	font-size: 15px !important;
+}
+.sideNavitemCollapsePadding {
+	padding: 6px 25px 6px 35px !important;
+	width:100%;
+}
+.logoutIconMobile {
+	position: fixed;
+	right: 13px;
+	top: 20px;
+	width: 20px;
+}
+.btnWidth {
+	width: 100%;
+	text-align: left;
+}
+.displayTable{
+	display: table;
+	width: 100%;
+}
+.displayTableCell{
+	display :table-cell;
+	word-break: break-word;
+}
+.iconWidth{
+	width: 20px;
+}
+.languageSelector{
+	color: #fff !important;
+	padding: '14px 0px 0px 20px' !important;
+}
+.languageIcon{
+	position: relative;
+	top: 1px;
+  }
+@-moz-document url-prefix() {
+	.displayInlineBlock {
+		display: inline !important;
+	}
+}
+
+@media screen and (min-width: 768px) {
+	.hiddenMd{
+	  display:none !important;
+	}
+  
+  }
+
+@media screen and (max-width:767px){
+	.paddingBottomextra {
+		padding-bottom: 100px;
+	}
+}

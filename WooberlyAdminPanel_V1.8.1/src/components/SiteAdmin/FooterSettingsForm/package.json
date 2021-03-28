@@ -1,0 +1,6 @@
+{
+    "name": "Footer Settings Form",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./FooterSettingsForm.js"
+}

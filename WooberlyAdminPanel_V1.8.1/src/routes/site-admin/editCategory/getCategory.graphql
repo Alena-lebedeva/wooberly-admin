@@ -1,0 +1,10 @@
+query getCategory($id: Int!){
+  getCategory(id: $id){
+    id
+   	categoryName
+    capacity
+    categoryImage
+    categoryMarkerImage
+    isActive
+  }
+}

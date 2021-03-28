@@ -1,0 +1,16 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../../../components/responsive-common.css';
+
+.root {
+  padding-left: 0;
+  padding-right: 0;
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  background: #ffffff;
+}
+
+.container {
+  margin: 0 auto;
+}

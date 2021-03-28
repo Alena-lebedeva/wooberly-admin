@@ -1,0 +1,11 @@
+query getActiveCategories {
+  getActiveCategories {
+    result {
+      id
+      categoryName
+      categoryImage
+    }
+    status
+    errorMessage
+  }
+}

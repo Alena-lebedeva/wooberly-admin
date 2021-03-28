@@ -1,0 +1,21 @@
+query($id: Int!) {
+    getPricing(id: $id) {
+        status
+        errorMessage
+        result {
+            id
+            categoryId
+            locationId
+            unitPrice
+            minutePrice
+            basePrice
+            currency
+            riderFeeType
+            riderFeeValue
+            driverFeeType
+            driverFeeValue
+            isActive
+            isSurgePrice
+        }
+    }
+}

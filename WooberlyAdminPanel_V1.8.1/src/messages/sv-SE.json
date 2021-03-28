@@ -1,0 +1,4488 @@
+[
+  {
+    "id": "login.title",
+    "description": "Log in page title",
+    "defaultMessage": "Log In",
+    "message": "Logga in"
+  },
+  {
+    "id": "radicalstart.Becomeahost",
+    "description": "Becomeahost",
+    "defaultMessage": "Become a host",
+    "message": "Bli värd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Discover",
+    "description": "Discover",
+    "defaultMessage": "Discover",
+    "message": "Upptäck",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Hosting",
+    "description": "Hosting",
+    "defaultMessage": "Hosting",
+    "message": "värd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Terms",
+    "description": "Terms",
+    "defaultMessage": "Terms & Privacy",
+    "message": "Villkor och sekretess",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Travel",
+    "description": "Trust",
+    "defaultMessage": "Travel Credit",
+    "message": "Travel Credit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Trust",
+    "description": "Trust",
+    "defaultMessage": "Trust & Safety",
+    "message": "Förtroende och säkerhet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.about",
+    "description": "About Nav link",
+    "defaultMessage": "About",
+    "message": "Handla om",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutFooter",
+    "description": "AboutFooter",
+    "defaultMessage": "About Us",
+    "message": "Om oss",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminpanel",
+    "description": "admin panel",
+    "defaultMessage": "Admin Panel",
+    "message": "Admin Panel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bannerDesc",
+    "description": "Description in header",
+    "defaultMessage": "Complex web apps made easy",
+    "message": "Komplexa webbprogram på ett enkelt sätt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bannerTitle",
+    "description": "Title in page header",
+    "defaultMessage": "React",
+    "message": "Reagera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.brand",
+    "description": "Brand name displayed in header",
+    "defaultMessage": "RadicalStart",
+    "message": "RadicalStart",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contact",
+    "description": "Contact Nav link",
+    "defaultMessage": "Contact",
+    "message": "Kontakt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contactUs",
+    "description": "contact",
+    "defaultMessage": "Contact Us",
+    "message": "Kontakta oss",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dashboard",
+    "description": "dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "instrumentbräda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dummyText",
+    "description": "dummyText",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum är helt enkelt dummy text för tryckning och sättning industrin. Lorem ipsum har branschens standard dummy text ända sedan 1500-talet, när en okänd skrivare tog ett kök av typ och kodade det att göra en bok typ av prov.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailaddress",
+    "description": "emailaddress",
+    "defaultMessage": "Email Address",
+    "message": "E-postadress",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.firstName",
+    "description": "firstName",
+    "defaultMessage": "First Name",
+    "message": "Förnamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.formssidebar",
+    "description": "formssidebar",
+    "defaultMessage": "Forms",
+    "message": "formulär",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.heading",
+    "description": "heading",
+    "defaultMessage": "Heading",
+    "message": "Rubrik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.lastName",
+    "description": "lastName",
+    "defaultMessage": "Last Name",
+    "message": "Efternamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.login",
+    "description": "Login Nav link",
+    "defaultMessage": "Login",
+    "message": "Logga in",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.phoneNumber",
+    "description": "phoneNumber",
+    "defaultMessage": "Phone Number",
+    "message": "Telefonnummer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.recommand",
+    "description": "recommand",
+    "defaultMessage": "Recommand",
+    "message": "rekommendera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rentallContent",
+    "description": "RentALL",
+    "defaultMessage": "RentALL",
+    "message": "RentALL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.select",
+    "description": "select",
+    "defaultMessage": "Select",
+    "message": "Välj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.settings",
+    "description": "settings",
+    "defaultMessage": "Settings",
+    "message": "inställningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signup",
+    "description": "Sign up Nav link",
+    "defaultMessage": "Sign up",
+    "message": "Bli Medlem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderContent",
+    "description": "Luxury",
+    "defaultMessage": "Luxury",
+    "message": "Lyx",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.textarea",
+    "description": "textarea",
+    "defaultMessage": "Text Area",
+    "message": "text Area",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.users",
+    "description": "users",
+    "defaultMessage": "Users",
+    "message": "användare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.password",
+    "description": "password",
+    "defaultMessage": "Password",
+    "message": "Lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.required",
+    "description": "required error message",
+    "defaultMessage": "*Required",
+    "message": "*Nödvändig",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.email",
+    "description": "Your Email Address to Login",
+    "defaultMessage": "Email Address",
+    "message": "E-postadress",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Ogiltig e-postadress",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Inget konto existerar för denna e-post. Se till att det skrivits in rätt, eller ”registrera dig” i stället",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "E-post behövs",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Du är redan inloggad!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.password",
+    "description": "Your Password to Login",
+    "defaultMessage": "Password",
+    "message": "Lösenord",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Lösenordet måste vara minst 8 tecken. Var god försök igen",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "lösenord krävs",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Fel lösenord. Var god försök igen",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Förlåt, något gick fel. Var god försök igen",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.userLoggedIn",
+    "description": "You are already Logged-in as user",
+    "defaultMessage": "You are already logged in as User, please logout in the main site to continue!",
+    "message": "Du är redan inloggad som användare, vänligen utloggning i den viktigaste platsen för att fortsätta!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Ogiltig e-postadress",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Inget konto existerar för denna e-post. Se till att det skrivits in rätt, eller ”registrera dig” i stället",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "E-post behövs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Du är redan inloggad!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Lösenordet måste vara minst 8 tecken. Var god försök igen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "lösenord krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Fel lösenord. Var god försök igen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Förlåt, något gick fel. Var god försök igen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Amount",
+    "description": "Amount",
+    "defaultMessage": "Amount",
+    "message": "Belopp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.BaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Base Currency",
+    "message": "Basvaluta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.HomeSiteSettings",
+    "description": "HomeSiteSettings",
+    "defaultMessage": "Homepage Settings",
+    "message": "Hemsida Inställningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Safety",
+    "description": "Safety",
+    "defaultMessage": "Safety",
+    "message": "Säkerhet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Wooberly",
+    "description": "Wooberly",
+    "defaultMessage": "Wooberly",
+    "message": "Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutFooterDesc",
+    "description": "aboutFooterDesc",
+    "defaultMessage": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "message": "En cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere Sanctus cum, quot nostrud postulant ex mei. Ad Ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutImage1",
+    "description": "Feature Banner 1",
+    "defaultMessage": "Feature Banner #1",
+    "message": "Feature Banner # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutImage2",
+    "description": "Feature Banner 2",
+    "defaultMessage": "Feature Banner #2",
+    "message": "Feature Banner # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutSectionSettings",
+    "description": "Top Features Settings",
+    "defaultMessage": "Top Features",
+    "message": "Viktiga funktioner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.action",
+    "description": "Action",
+    "defaultMessage": "Action",
+    "message": "Handling",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.active",
+    "description": "Active Status",
+    "defaultMessage": "Active",
+    "message": "Aktiva",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addCancelReason",
+    "description": "Add Cancel Reason",
+    "defaultMessage": "Add Cancel Reason",
+    "message": "Lägg Cancel Orsak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addCategory",
+    "description": "Add category form header",
+    "defaultMessage": "Add Category",
+    "message": "Lägg till Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addFare",
+    "description": "Button",
+    "defaultMessage": "Add Fare",
+    "message": "Lägg Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addLocation",
+    "description": "addLocation",
+    "defaultMessage": "Add Location",
+    "message": "Lägg till plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addPage",
+    "description": "Add Page",
+    "defaultMessage": "Add Page",
+    "message": "Lägg till sida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addPromoCode",
+    "description": "Add PromoCode",
+    "defaultMessage": "Add Promo Code",
+    "message": "Lägg Promo Code",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adeditFaredFare",
+    "description": "Button",
+    "defaultMessage": "Edit Fare",
+    "message": "Redigera Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.allowedPaymentCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Allowed Payment Currency",
+    "message": "Tillåts Betalning Valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.approve",
+    "description": "Approve",
+    "defaultMessage": "Approve",
+    "message": "Godkänna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.availableSeats",
+    "description": "Available Seats",
+    "defaultMessage": "Available Seats",
+    "message": "Lediga platser",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ban",
+    "description": "Ban Status",
+    "defaultMessage": "Ban",
+    "message": "Förbjuda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.banStatus",
+    "description": "Ban Status Permit/Ban",
+    "defaultMessage": "Ban Status",
+    "message": "Förbjud status",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingId",
+    "description": "Booking ID",
+    "defaultMessage": "Booking ID",
+    "message": "boknings ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookings",
+    "description": "bookings",
+    "defaultMessage": "Bookings",
+    "message": "bokningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingsMenu",
+    "description": "bookingsMenu",
+    "defaultMessage": "Manage Bookings",
+    "message": "hantera bokningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.button",
+    "description": "Button",
+    "defaultMessage": "Button",
+    "message": "Knapp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelButton",
+    "description": "Cancel",
+    "defaultMessage": "Cancel",
+    "message": "Annullera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "avbryta Reason",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancellationReasons",
+    "description": "Cancellation Reasons",
+    "defaultMessage": "Cancellation Reasons",
+    "message": "avbokning Anledningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledBy",
+    "description": "Cancelled By",
+    "defaultMessage": "Cancelled By",
+    "message": "återkallas av",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.capacity",
+    "description": "Capacity",
+    "defaultMessage": "Capacity",
+    "message": "Kapacitet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.card",
+    "description": "Card",
+    "defaultMessage": "Card",
+    "message": "Kort",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cash",
+    "description": "Cash",
+    "defaultMessage": "Cash",
+    "message": "Kontanter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryMapMarker",
+    "description": "",
+    "defaultMessage": "Category Map Marker",
+    "message": "Kategori Map Marker",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.category",
+    "description": "Category",
+    "defaultMessage": "Category",
+    "message": "Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryContent",
+    "description": "Category Content",
+    "defaultMessage": "Category Content",
+    "message": "innehållskategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryIcon",
+    "description": "",
+    "defaultMessage": "Category Icon",
+    "message": "kategori Ikon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryId",
+    "description": "Category ID",
+    "defaultMessage": "Category ID",
+    "message": "kategori ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryMenu",
+    "description": "categoryMenu",
+    "defaultMessage": "Manage Categories",
+    "message": "Hantera kategorier",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryName",
+    "description": "Category Name",
+    "defaultMessage": "Category Name",
+    "message": "kategori namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryTitle",
+    "description": "Category Title",
+    "defaultMessage": "Category Title",
+    "message": "kategori Titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.changePassword",
+    "description": "Change Password",
+    "defaultMessage": "Change Password",
+    "message": "Ändra lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.chooseFile",
+    "description": "",
+    "defaultMessage": "Choose File",
+    "message": "Välj FIL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.city",
+    "description": "city",
+    "defaultMessage": "Lorem Ipsum is simply dummy text",
+    "message": "Lorem Ipsum är helt enkelt dummy text",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.citySectionSettings",
+    "description": "Category Settings",
+    "defaultMessage": "Category",
+    "message": "Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.code",
+    "description": "text",
+    "defaultMessage": "Code",
+    "message": "Koda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.comments",
+    "description": "Comments",
+    "defaultMessage": "Comments",
+    "message": "kommentarer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content1",
+    "description": "Content 1",
+    "defaultMessage": "Content 1",
+    "message": "innehåll 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content2",
+    "description": "Content 2",
+    "defaultMessage": "Content 2",
+    "message": "innehåll 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content3",
+    "description": "Content 3",
+    "defaultMessage": "Content 3",
+    "message": "innehåll 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content4",
+    "description": "Content 4",
+    "defaultMessage": "Content 4",
+    "message": "innehåll 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content5",
+    "description": "Content 5",
+    "defaultMessage": "Content 5",
+    "message": "innehåll 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content6",
+    "description": "Content 6",
+    "defaultMessage": "Content 6",
+    "message": "innehåll 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contentpageManagement",
+    "description": "Content Management",
+    "defaultMessage": "Content Management",
+    "message": "Innehållshantering",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.copyRights",
+    "description": "Copy Rights",
+    "defaultMessage": "Wooberly 2020. All Rights Reserved",
+    "message": "Wooberly 2020. All Rights Reserved",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.country",
+    "description": "Country Name",
+    "defaultMessage": "Country",
+    "message": "Land",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.countryCodeError",
+    "description": "Invalid Country Code",
+    "defaultMessage": "Invalid Country Code",
+    "message": "Ogiltig landskod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.createdAt",
+    "description": "Created date",
+    "defaultMessage": "Account Created on",
+    "message": "Konto skapat på",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currency",
+    "description": "Currency Type",
+    "defaultMessage": "Currency",
+    "message": "Valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.decline",
+    "description": "Decline",
+    "defaultMessage": "Decline",
+    "message": "Nedgång",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.deleteAction",
+    "description": "Delete action name",
+    "defaultMessage": "Delete",
+    "message": "Radera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.description",
+    "description": "text",
+    "defaultMessage": "Description",
+    "message": "Beskrivning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.details",
+    "description": "Details",
+    "defaultMessage": "Details",
+    "message": "detaljer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.discount",
+    "description": "text",
+    "defaultMessage": "Discount",
+    "message": "Rabatt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus Scaevola elaboraret vel annons vis ingen Noster vocent prodesset, NEC ei omittantur dissentiet. Nobis postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppDriverDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus Scaevola elaboraret vel annons vis ingen Noster vocent prodesset, NEC ei omittantur dissentiet. Nobis postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppText",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Rider App",
+    "message": "Hämta Rider App",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppTextDriver",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Driver App",
+    "message": "Ladda ner Driver App",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driver",
+    "description": "driver",
+    "defaultMessage": "Driver",
+    "message": "Förare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverCommission",
+    "description": "Driver Commission Percentage",
+    "defaultMessage": "Driver Commission(%)",
+    "message": "Driver kommissionen (%)",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverEmail",
+    "description": "Driver Email",
+    "defaultMessage": "Driver Email",
+    "message": "Driver E",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverFeeType",
+    "description": "Driver Fee Type",
+    "defaultMessage": "Driver Fee Type",
+    "message": "Föraren Avgift Typ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverFeeValue",
+    "description": "Driver Fee Value",
+    "defaultMessage": "Driver Commission",
+    "message": "Driver kommissionen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverMenu",
+    "description": "driverMenu",
+    "defaultMessage": "Manage Drivers",
+    "message": "Hantera drivrutiner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverName",
+    "description": "Driver Name",
+    "defaultMessage": "Driver Name",
+    "message": "Driver Namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverRatings",
+    "description": "Driver Ratings",
+    "defaultMessage": "Driver Ratings",
+    "message": "Driver betyg",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverServiceFee",
+    "description": "Driver Service Fee",
+    "defaultMessage": "Driver Service Fee",
+    "message": "Driver serviceavgift",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverTotalFare",
+    "description": "Driver Total Fare",
+    "defaultMessage": "Driver Total Fare",
+    "message": "Driver totala priset",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.drivers",
+    "description": "drivers",
+    "defaultMessage": "Drivers",
+    "message": "förare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dropLocation",
+    "description": "Drop Location",
+    "defaultMessage": "Drop Location",
+    "message": "Drop Plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.earnings",
+    "description": "Earnings",
+    "defaultMessage": "Your Earnings",
+    "message": "dina resultat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.edit",
+    "description": "edit",
+    "defaultMessage": "Edit",
+    "message": "Redigera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAction",
+    "description": "Edit action name",
+    "defaultMessage": "Edit",
+    "message": "Redigera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editCancelReason",
+    "description": "Edit Cancel Reason",
+    "defaultMessage": "Edit Cancel Reason",
+    "message": "Redigera Cancel Orsak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editCategory",
+    "description": "Edit category form header",
+    "defaultMessage": "Edit Category",
+    "message": "Redigera kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editDriver",
+    "description": "Edit driver form header",
+    "defaultMessage": "Edit Driver",
+    "message": "Redigera Driver",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editPageDetails",
+    "description": "Edit Page Details",
+    "defaultMessage": "Edit Page Details",
+    "message": "Redigera sida Detaljer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editPromoCode",
+    "description": "Edit PromoCode",
+    "defaultMessage": "Edit Promo Code",
+    "message": "Edit Promo Code",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editRider",
+    "description": "Edit rider form header",
+    "defaultMessage": "Edit Rider",
+    "message": "Edit Rider",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editVehicle",
+    "description": "Edit vehicle form header",
+    "defaultMessage": "Edit Vehicle",
+    "message": "Edit Vehicle",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.eligibleForATrip",
+    "description": "text",
+    "defaultMessage": "Eligible for a Trip",
+    "message": "Berättigade till en resa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.enableDisable",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Enable / Disable",
+    "message": "Set Aktivera / inaktivera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exceedLimit",
+    "description": "Exceeding character limit",
+    "defaultMessage": "Exceeding character limit",
+    "message": "Överskrider tecken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exceedLimit100",
+    "description": "Please dont exceed 100 words",
+    "defaultMessage": "Please dont exceed 100 words",
+    "message": "Vänligen överstiga dont 100 ord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.expireDate",
+    "description": "text",
+    "defaultMessage": "Expiry Date",
+    "message": "Utgångsdatum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fixed",
+    "description": "Fixed Fee Type",
+    "defaultMessage": "Fixed",
+    "message": "Fast",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fixedAmount",
+    "description": "text",
+    "defaultMessage": "Fixed Amount",
+    "message": "Bestämd mängd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.floatError",
+    "description": "Numeric Error Response",
+    "defaultMessage": "It should be a number value",
+    "message": "Det bör vara ett numeriskt värde",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.followUs",
+    "description": "Follow Us",
+    "defaultMessage": "Follow  Us",
+    "message": "Följ oss",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerCategory",
+    "description": "Footer Category",
+    "defaultMessage": "Footer Category",
+    "message": "sidfot Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo1",
+    "description": "Footer Logo 1",
+    "defaultMessage": "Footer Logo #1",
+    "message": "Sidfot Logo # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo2",
+    "description": "Footer Logo 2",
+    "defaultMessage": "Footer Logo #2",
+    "message": "Sidfot Logo # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo3",
+    "description": "Footer Logo 3",
+    "defaultMessage": "Footer Logo #3",
+    "message": "Sidfot Logo # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo4",
+    "description": "Footer Logo 4",
+    "defaultMessage": "Footer Logo #4",
+    "message": "Sidfot Logo # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerSectionSettings",
+    "description": "Footer Settings",
+    "defaultMessage": "Footer",
+    "message": "sidfot",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.form",
+    "description": "form",
+    "defaultMessage": "Form",
+    "message": "Form",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.goBack",
+    "description": "Go Back Button Text",
+    "defaultMessage": "Go Back",
+    "message": "Gå tillbaka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.goToMainSite",
+    "description": "goToMainSite option",
+    "defaultMessage": "Go to main site",
+    "message": "Gå till huvudsida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescFive",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim odio unum atomorum på. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescFour",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim odio unum atomorum på. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescOne",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim odio unum atomorum på. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescSix",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim odio unum atomorum på. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescThree",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim odio unum atomorum på. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescTwo",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim odio unum atomorum på. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitle",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleFive",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleFour",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleSix",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleThree",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleTwo",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.holdPayout",
+    "description": "Hold Payout",
+    "defaultMessage": "Hold Payout",
+    "message": "Hold Utbetalning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeContent",
+    "description": "Start Riding With Wooberly",
+    "defaultMessage": "Start Riding With Wooberly",
+    "message": "Start ridning med Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeContent1",
+    "description": "Banner Content",
+    "defaultMessage": "Banner Content",
+    "message": "banner innehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage1",
+    "description": "Banner Image 1",
+    "defaultMessage": "Banner Image #1",
+    "message": "Banner Bild # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage2",
+    "description": "Banner Image 2",
+    "defaultMessage": "Banner Image #2",
+    "message": "Banner Bild # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage3",
+    "description": "Banner Image 3",
+    "defaultMessage": "Banner Image #3",
+    "message": "Banner Bild # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage4",
+    "description": "Banner Image 4",
+    "defaultMessage": "Banner Image #4",
+    "message": "Banner Bild # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage5",
+    "description": "Banner Image 5",
+    "defaultMessage": "Banner Image #5",
+    "message": "Banner Bild # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage6",
+    "description": "Banner Image 6",
+    "defaultMessage": "Banner Image #6",
+    "message": "Banner Bild # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage7",
+    "description": "Banner Image Tablet",
+    "defaultMessage": "Banner Image Tablet",
+    "message": "Banner Bild Tablet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage8",
+    "description": "Banner Image Mobile",
+    "defaultMessage": "Banner Image Mobile",
+    "message": "Banner Bild Mobile",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeSectionSettings",
+    "description": "Banner Settings",
+    "defaultMessage": "Banner",
+    "message": "Baner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeTitle",
+    "description": "Banner Title",
+    "defaultMessage": "Banner Title",
+    "message": "banner Titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homepageBanner",
+    "description": "Homepage Banner Settings",
+    "defaultMessage": "Homepage Banner",
+    "message": "Hemsida Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.id",
+    "description": "ID text",
+    "defaultMessage": "ID",
+    "message": "ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.inactive",
+    "description": "Inactive Status",
+    "defaultMessage": "Inactive",
+    "message": "Inaktiv",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.insuranceImage",
+    "description": "insuranceImage",
+    "defaultMessage": "Insurance Image",
+    "message": "försäkring Bild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.intError",
+    "description": "Integer Error Response",
+    "defaultMessage": "It should be a decimal value",
+    "message": "Det bör vara ett decimalvärde",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidUrl",
+    "description": "Invalid Page URL",
+    "defaultMessage": "Invalid Page URL",
+    "message": "Ogiltig Sidans URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVehicleName",
+    "description": "Invalid Vehicle Name",
+    "defaultMessage": "Invalid Vehicle Name",
+    "message": "Ogiltig Vehicle Namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVehicleNumber",
+    "description": "Invalid Vehicle Number",
+    "defaultMessage": "Invalid Vehicle Number",
+    "message": "Ogiltig fordonsnummer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.isSpecialTrip",
+    "description": "Special Trip",
+    "defaultMessage": "Special Trip",
+    "message": "EXTRATUR",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.licenceBackImage",
+    "description": "licenceBackImage",
+    "defaultMessage": "Licence Back Image",
+    "message": "License Tillbaka Bild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.licenceFrontImage",
+    "description": "licenceFrontImage",
+    "defaultMessage": "Licence Front Image",
+    "message": "Licens Front Image",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.location",
+    "description": "location",
+    "defaultMessage": "Manage Location",
+    "message": "Hantera Plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.locationName",
+    "description": "Table header",
+    "defaultMessage": "Location",
+    "message": "Plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logo",
+    "description": "Logo",
+    "defaultMessage": "Logo",
+    "message": "Logotyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logout",
+    "description": "logout option",
+    "defaultMessage": "Logout",
+    "message": "Logga ut",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "avbryta Reason",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCancelledTrips",
+    "description": "manageCancelledTrips sidemenu",
+    "defaultMessage": "Cancelled Bookings",
+    "message": "inställda Bokningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCompletedTrips",
+    "description": "CompletedTrips sidemenu",
+    "defaultMessage": "Completed Bookings",
+    "message": "Genomförda Bokningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCurrency",
+    "description": "manageCurrency sidemenu",
+    "defaultMessage": "Manage Currency",
+    "message": "hantera valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageDashboard",
+    "description": "Manage Dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "instrumentbräda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageFailedPayout",
+    "description": "Failed Payout",
+    "defaultMessage": "Failed Payout",
+    "message": "misslyckades Utbetalning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageFare",
+    "description": "Admin sidemenu",
+    "defaultMessage": "Manage Fare",
+    "message": "Hantera priset",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageNotifications",
+    "description": "Manage Notifications",
+    "defaultMessage": "Manage Notifications",
+    "message": "Hantera Notifications",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.managePayout",
+    "description": "managePayout",
+    "defaultMessage": "Manage Payout",
+    "message": "Hantera Utbetalning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.managePromoCode",
+    "description": "managePromoCode sidemenu",
+    "defaultMessage": "Manage Promo Code",
+    "message": "Hantera Promo Code",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.maximumUploadSizeLabel",
+    "description": "",
+    "defaultMessage": "Maximum upload size",
+    "message": "Maximal uppladdning storlek",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuFour",
+    "description": "menuFour",
+    "defaultMessage": "MenuFour",
+    "message": "MenuFour",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuOne",
+    "description": "form",
+    "defaultMessage": "MenuOne",
+    "message": "MenuOne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuTwo",
+    "description": "MenuTwo",
+    "defaultMessage": "MenuTwo",
+    "message": "MenuTwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.messageLength",
+    "description": "Message must be 200 characters or less",
+    "defaultMessage": "Message must be 200 characters or less",
+    "message": "Meddelande måste vara 200 tecken eller mindre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.messageRequired",
+    "description": "Message is required",
+    "defaultMessage": "Message is required",
+    "message": "Meddelande krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDescription",
+    "description": "Description must be 255 characters or less",
+    "defaultMessage": "Description must be 255 characters or less",
+    "message": "Beskrivning måste vara 255 tecken eller mindre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDescriptionText",
+    "description": "Meta Description",
+    "defaultMessage": "Meta Description",
+    "message": "Meta Beskrivning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaKeyword",
+    "description": "Keyword must be 255 characters or less",
+    "defaultMessage": "Keyword must be 255 characters or less",
+    "message": "Nyckelord måste vara 255 tecken eller mindre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaTitle",
+    "description": "Meta Title",
+    "defaultMessage": "Meta Title",
+    "message": "meta Titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minBasePrice",
+    "description": "Minimum base price amount",
+    "defaultMessage": "Minimum Base Price",
+    "message": "Minimum Base Pris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minutePrice",
+    "description": "Minute Price",
+    "defaultMessage": "Minute Price",
+    "message": "minutpriset",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minutes",
+    "description": "minutes",
+    "defaultMessage": "minutes",
+    "message": "minuter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.montly",
+    "description": "montly",
+    "defaultMessage": "This Month",
+    "message": "Den här månaden",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.no",
+    "description": "no",
+    "defaultMessage": "No",
+    "message": "Nej",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.noResult",
+    "description": "noResult",
+    "defaultMessage": "No results found",
+    "message": "Inga resultat funna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notEligibleForATrip",
+    "description": "text",
+    "defaultMessage": "Not eligible for a Trip",
+    "message": "Inte är berättigade till en resa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.numberError",
+    "description": "Invalid Phone Number",
+    "defaultMessage": "Invalid Phone Number",
+    "message": "Ogiltigt telefonnummer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.numericValue",
+    "description": "Numeric value required",
+    "defaultMessage": "Numeric value required",
+    "message": "Numeriskt värde krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.offline",
+    "description": "offline",
+    "defaultMessage": "Offline",
+    "message": "Off-line",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.online",
+    "description": "online",
+    "defaultMessage": "Online",
+    "message": "Uppkopplad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.overAll",
+    "description": "Overall",
+    "defaultMessage": "Overall",
+    "message": "Övergripande",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageBanner",
+    "description": "Page Banner",
+    "defaultMessage": "Page Banner",
+    "message": "Page Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageImageBanner",
+    "description": "Page Image Banner",
+    "defaultMessage": "Page Image Banner",
+    "message": "Sidbild Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageName",
+    "description": "Page Name",
+    "defaultMessage": "Page Name",
+    "message": "Sidnamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageTitle",
+    "description": "Page Title",
+    "defaultMessage": "Page Title",
+    "message": "Namn på sidan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageUrl",
+    "description": "Page URL",
+    "defaultMessage": "Page URL",
+    "message": "Page URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paid",
+    "description": "Paid",
+    "defaultMessage": "Paid",
+    "message": "betald",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paymentMethod",
+    "description": "Payment Method",
+    "defaultMessage": "Payment Method",
+    "message": "Betalningsmetod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paymentType",
+    "description": "Payment Type",
+    "defaultMessage": "Payment Type",
+    "message": "Betalnings typ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.payoutAmount",
+    "description": "Payout Amount",
+    "defaultMessage": "Payout Amount",
+    "message": "Utbetalnings mängd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.payoutStatus",
+    "description": "Payout Status",
+    "defaultMessage": "Payout Status",
+    "message": "utbetalning Status",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pending",
+    "description": "Pending Status",
+    "defaultMessage": "Pending",
+    "message": "I väntan på",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentError",
+    "description": "Choose percentage value between 1 to 99",
+    "defaultMessage": "Choose percentage value between 1 to 99",
+    "message": "Välja procentuellt värde mellan 1 och 99",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentage",
+    "description": "text",
+    "defaultMessage": "Percentage",
+    "message": "Procentsats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentageFeeType",
+    "description": "Percentage Fee Type",
+    "defaultMessage": "Percentage",
+    "message": "Procentsats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.permit",
+    "description": "Permit Status",
+    "defaultMessage": "Permit",
+    "message": "Tillåta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.phoneDialCode",
+    "description": "Phone Dial Code",
+    "defaultMessage": "Country Code",
+    "message": "Landskod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pickupLocation",
+    "description": "PickUp Location",
+    "defaultMessage": "PickUp Location",
+    "message": "upphämtningsplats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.preview",
+    "description": "Preview",
+    "defaultMessage": "Preview",
+    "message": "Förhandsvisning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.privacyPolicies",
+    "description": "Privacy Policy",
+    "defaultMessage": "Privacy Policy",
+    "message": "Integritetspolicy",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.profileId",
+    "description": "Profile Id for user",
+    "defaultMessage": "Profile ID",
+    "message": "profil-ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.profilePicture",
+    "description": "profilePicture",
+    "defaultMessage": "Profile Picture",
+    "message": "Profilbild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.promoCodeId",
+    "description": "Promo Code",
+    "defaultMessage": "Promo Code",
+    "message": "Rabattkod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.promoType",
+    "description": "text",
+    "defaultMessage": "Type",
+    "message": "Typ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ratings",
+    "description": "Ratings",
+    "defaultMessage": "Ratings",
+    "message": "betyg",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rcImage",
+    "description": "rcImage",
+    "defaultMessage": "RC Book Image",
+    "message": "RC Bok bilder",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reason",
+    "description": "Reason",
+    "defaultMessage": "Reason",
+    "message": "Anledning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reasonRequired",
+    "description": "Reason is required",
+    "defaultMessage": "Reason is required",
+    "message": "Reason krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.removeLocation",
+    "description": "Polygon remove",
+    "defaultMessage": "Remove Location",
+    "message": "Ta bort plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reviewsBy",
+    "description": "reviewsBy",
+    "defaultMessage": "Reviews By",
+    "message": "recensioner av",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rider",
+    "description": "Rider",
+    "defaultMessage": "Rider",
+    "message": "Ryttare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderCommission",
+    "description": "Rider Commission Percentage",
+    "defaultMessage": "Rider Commission(%)",
+    "message": "Rider Commission (%)",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderEmail",
+    "description": "Rider Email",
+    "defaultMessage": "Rider Email",
+    "message": "Åkarens e-post",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderFeeType",
+    "description": "Rider Fee Type",
+    "defaultMessage": "Rider Fee Type",
+    "message": "Rider Avgift Typ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderFeeValue",
+    "description": "Rider Fee Value",
+    "defaultMessage": "Rider Commission",
+    "message": "Rider kommissionen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderName",
+    "description": "Rider Name",
+    "defaultMessage": "Rider Name",
+    "message": "Rider Namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderPayableAmount",
+    "description": "Special Trip Total Fare",
+    "defaultMessage": "Rider Payable Amount",
+    "message": "Rider Betalbelopp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderServiceFee",
+    "description": "Rider Service Fee",
+    "defaultMessage": "Rider Service Fee",
+    "message": "Rider serviceavgift",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderTotalFare",
+    "description": "Rider Total Fare",
+    "defaultMessage": "Rider Total Fare",
+    "message": "Rider totala priset",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riders",
+    "description": "Riders",
+    "defaultMessage": "Riders",
+    "message": "Ryttare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ridersMenu",
+    "description": "ridersMenu",
+    "defaultMessage": "Manage Riders",
+    "message": "Hantera ryttare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyButton",
+    "description": "safetyButton",
+    "defaultMessage": "View all safety features",
+    "message": "Visa alla säkerhetsfunktioner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyContent",
+    "description": "Safety",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum är helt enkelt dummy text för tryckning och sättning industrin. Lorem ipsum har branschens standard dummy text ända sedan 1500-talet, när en okänd skrivare tog ett kök av typ och kodade det att göra en bok typ av prov.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Playstore Logotyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Appstore Logotyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage3",
+    "description": "Rider Banner",
+    "defaultMessage": "Rider Banner",
+    "message": "Rider Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetySectionSettings",
+    "description": "Rider Apps Settings",
+    "defaultMessage": "Rider App",
+    "message": "Ryttare App",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.searchLocation",
+    "description": "Auto-Complete input",
+    "defaultMessage": "Search Location",
+    "message": "Sök plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.setBaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Base Currency",
+    "message": "Ange basvaluta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupDrive",
+    "description": "Sign up to drive",
+    "defaultMessage": "Sign up to drive",
+    "message": "Registrera dig för att köra",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Playstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "appstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage3",
+    "description": "Driver Banner",
+    "defaultMessage": "Driver Banner",
+    "message": "Driver Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupRide",
+    "description": "Sign up to ride",
+    "defaultMessage": "Sign up to ride",
+    "message": "Registrera dig för att rida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupSectionSettings",
+    "description": "Driver Apps Settings",
+    "defaultMessage": "Driver App",
+    "message": "Förare App",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteAdmin",
+    "description": "siteAdmin",
+    "defaultMessage": "Site Admin",
+    "message": "Webbplatsadministratör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteSettings",
+    "description": "Site Settings",
+    "defaultMessage": "Site Settings",
+    "message": "Webbplatsinställningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderTitle",
+    "description": "sliderTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderTitleDesc",
+    "description": "sliderTitleDesc",
+    "defaultMessage": "Percipit repudiandae an eum, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "message": "Percipit repudiandae en EUM, enim fall eos nr. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens Perpetua definitionem ex.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.specialTripPrice",
+    "description": "discount text",
+    "defaultMessage": "Rider Discount Amount",
+    "message": "Rider rabatt Mängd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.startDriving",
+    "description": "Start Driving",
+    "defaultMessage": "Start Driving",
+    "message": "Start Driving",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.startRideing",
+    "description": "Start Riding",
+    "defaultMessage": "Start Riding",
+    "message": "Start Riding",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.staticpageManagement",
+    "description": "Manage Static Content",
+    "defaultMessage": "Manage Static Content",
+    "message": "Hantera Statiskt innehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.status",
+    "description": "Status Active/Inactive",
+    "defaultMessage": "Status",
+    "message": "Status",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuOne",
+    "description": "subMenuOne",
+    "defaultMessage": "subMenuOne",
+    "message": "subMenuOne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuThree",
+    "description": "subMenuThree",
+    "defaultMessage": "subMenuThree",
+    "message": "subMenuThree",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuTwo",
+    "description": "subMenuTwo",
+    "defaultMessage": "subMenuTwo",
+    "message": "subMenuTwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.submitButton",
+    "description": "Submit",
+    "defaultMessage": "Submit",
+    "message": "Skicka in",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.symbol",
+    "description": "currencyManagement value",
+    "defaultMessage": "Symbol",
+    "message": "Symbol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.table",
+    "description": "Table",
+    "defaultMessage": "Table",
+    "message": "Tabell",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsAmount",
+    "description": "Tips Amount",
+    "defaultMessage": "Tips Amount",
+    "message": "tips Mängd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title",
+    "description": "text",
+    "defaultMessage": "Title",
+    "message": "Titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title1",
+    "description": "Title 1",
+    "defaultMessage": "Title 1",
+    "message": "avdelning 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title2",
+    "description": "Title 2",
+    "defaultMessage": "Title 2",
+    "message": "avdelning 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title3",
+    "description": "Title 3",
+    "defaultMessage": "Title 3",
+    "message": "avdelning 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title4",
+    "description": "Title 4",
+    "defaultMessage": "Title 4",
+    "message": "avdelning 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title5",
+    "description": "Title 5",
+    "defaultMessage": "Title 5",
+    "message": "avdelning 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title6",
+    "description": "Title 6",
+    "defaultMessage": "Title 6",
+    "message": "avdelning 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.today",
+    "description": "today",
+    "defaultMessage": "Today",
+    "message": "I dag",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tollFee",
+    "description": "tollFee",
+    "defaultMessage": "Toll Fee",
+    "message": "Tullavgift",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalDuration",
+    "description": "Total Duration",
+    "defaultMessage": "Total Duration",
+    "message": "Total varaktighet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalFare",
+    "description": "Total Fare",
+    "defaultMessage": "Total Fare",
+    "message": "total Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalRideDistance",
+    "description": "Total Rider Distance",
+    "defaultMessage": "Total Rider Distance",
+    "message": "Total Rider Avstånd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripDate",
+    "description": "Trip Date",
+    "defaultMessage": "Trip Date",
+    "message": "Trip Datum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripEnd",
+    "description": "Trip End",
+    "defaultMessage": "Trip End",
+    "message": "Trip End",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripStart",
+    "description": "Trip Start",
+    "defaultMessage": "Trip Start",
+    "message": "Resstart",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripStatus",
+    "description": "Trip Status",
+    "defaultMessage": "Trip Status",
+    "message": "Resestatus",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.unitPrice",
+    "description": "Unit Price",
+    "defaultMessage": "Unit Price",
+    "message": "Enhetspris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.unpaid",
+    "description": "Unpaid",
+    "defaultMessage": "Unpaid",
+    "message": "Obetald",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.update",
+    "description": "Update",
+    "defaultMessage": "Update",
+    "message": "Uppdatering",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.useFullLink",
+    "description": "Usefull Links",
+    "defaultMessage": "Usefull Links",
+    "message": "Användbara Länkar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.usedPromoCode",
+    "description": "text",
+    "defaultMessage": "Used Promo Code",
+    "message": "Begagnade Promo Code",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.userStatus",
+    "description": "User Status Active/Inactive",
+    "defaultMessage": "User Status",
+    "message": "Användarstatus",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validUrl",
+    "description": "Valid URL required",
+    "defaultMessage": "Valid URL required",
+    "message": "Giltig webbadress krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vechicleName",
+    "description": "Vehicle",
+    "defaultMessage": "Vehicle",
+    "message": "Fordon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleId",
+    "description": "Vehicle ID",
+    "defaultMessage": "Vehicle ID",
+    "message": "fordons ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleName",
+    "description": "Vehicle Name",
+    "defaultMessage": "Vehicle Name",
+    "message": "Fordons Namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNameError3",
+    "description": "New Password must be minimum 8 characters",
+    "defaultMessage": "Vehicle Name must be minimum 3 characters and maximum 15 characters",
+    "message": "Fordons namn måste vara minst 3 tecken och högst 15 tecken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNumber",
+    "description": "Vehicle Number",
+    "defaultMessage": "Vehicle Number",
+    "message": "Fordonsnummer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNumberError",
+    "description": "Invalid Vehicle Number",
+    "defaultMessage": "Invalid Vehicle Number",
+    "message": "Ogiltig fordonsnummer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleOwnerEmail",
+    "description": "Vehicle Owner Email",
+    "defaultMessage": "Vehicle Owner Email",
+    "message": "Fordonets ägare Email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleOwnerName",
+    "description": "Vehicle Owner Name",
+    "defaultMessage": "Vehicle Owner Name",
+    "message": "Fordonets ägare Namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleType",
+    "description": "Vehicle Type",
+    "defaultMessage": "Vehicle Type",
+    "message": "fordonstyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehiclesMenu",
+    "description": "vehiclesMenu",
+    "defaultMessage": "Manage Vehicles",
+    "message": "Hantera Fordon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.view",
+    "description": "View Details Link",
+    "defaultMessage": "View",
+    "message": "Se",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.viewCity",
+    "description": "view City",
+    "defaultMessage": "View city",
+    "message": "Visa stad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.wallet",
+    "description": "Wallet",
+    "defaultMessage": "Wallet",
+    "message": "Plånbok",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.walletBalance",
+    "description": "Wallet Balance",
+    "defaultMessage": "Wallet Balance",
+    "message": "Wallet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.weekly",
+    "description": "weekly",
+    "defaultMessage": "This Week",
+    "message": "Denna vecka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.yes",
+    "description": "Yes",
+    "defaultMessage": "Yes",
+    "message": "Ja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "rentall.dropzoneUpload",
+    "description": "Dropzone upload info",
+    "defaultMessage": "Upload a file from your computer",
+    "message": "Ladda upp en fil från datorn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "rentall.dropzoneUploadError",
+    "description": "Dropzone upload error message",
+    "defaultMessage": "Remove the existing image and try upload again",
+    "message": "Ta bort den befintliga bilden och försök ladda upp igen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "AddListSettingsForm.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Lägg till",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNew",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "namn",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNewDescription",
+    "description": "description",
+    "defaultMessage": "Description",
+    "message": "Beskrivning",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.delete",
+    "description": "Delete Button",
+    "defaultMessage": "Delete",
+    "message": "Radera",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.required",
+    "description": "Required",
+    "defaultMessage": "*Required",
+    "message": "*Nödvändig",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.update",
+    "description": "Update Button",
+    "defaultMessage": "Update",
+    "message": "Uppdatering",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "exceedLimit",
+    "description": "exceedLimit",
+    "defaultMessage": "Maximum allowed character is 255.",
+    "message": "Högsta tillåtna tecken är 255.",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.blankSpace",
+    "description": "Password error",
+    "defaultMessage": "Password should not be blank space.",
+    "message": "Lösenord bör inte vara tomt utrymme.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailBlankSpace",
+    "description": "email address error",
+    "defaultMessage": "Email should not be blank spaces",
+    "message": "E-post bör inte vara blanksteg",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailInvalid",
+    "description": "email address error",
+    "defaultMessage": "*Invalid email address",
+    "message": "*Ogiltig e-postadress",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.passwordInvalid",
+    "description": "Password minimum characters error",
+    "defaultMessage": "Password should be minimum 8 characters.",
+    "message": "Lösenord bör vara minst 8 tecken.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exportDataIntoCSV",
+    "description": "Export Data into CSV",
+    "defaultMessage": "Export Data into CSV",
+    "message": "Export data till CSV",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminName",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminRole",
+    "description": "Admin Role",
+    "defaultMessage": "Admin Role",
+    "message": "Admin Role",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailText",
+    "description": "Email",
+    "defaultMessage": "Email",
+    "message": "E-post",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdmin",
+    "description": "Manage Admins",
+    "defaultMessage": "Manage Admins",
+    "message": "Hantera administratörer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdminRoles",
+    "description": "Manage Admin Roles",
+    "defaultMessage": "Manage Admin Roles",
+    "message": "Hantera administratörsroller",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdminUsers",
+    "description": "Manage Admin Users",
+    "defaultMessage": "Manage Admin Users",
+    "message": "Hantera administratörer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordText",
+    "description": "Password Content",
+    "defaultMessage": "Provide new password only. Ignore this field to use the existing password for this user.",
+    "message": "Ge bara nytt lösenord. Ignorera detta fält för att använda den befintliga lösenord för användaren.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.privileges",
+    "description": "Privileges",
+    "defaultMessage": "Privileges",
+    "message": "privilegier",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.role",
+    "description": "Role",
+    "defaultMessage": "Role",
+    "message": "Roll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.roleName",
+    "description": "Role Name",
+    "defaultMessage": "Role Name",
+    "message": "Rollnamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.selectRole",
+    "description": "Select Role",
+    "defaultMessage": "Select Role",
+    "message": "Välj Roll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addNewLabel",
+    "description": "Add New",
+    "defaultMessage": "Add New",
+    "message": "Lägg till ny",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminUserLabel",
+    "description": "Admin User",
+    "defaultMessage": "Admin User",
+    "message": "Admin Användare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.chooseLanguageLabel",
+    "description": "Choose a Language",
+    "defaultMessage": "Choose a Language",
+    "message": "Välj ett språk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Disable",
+    "description": "Ban Status",
+    "defaultMessage": "Disable",
+    "message": "Inaktivera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Disabled",
+    "description": "Ban Status",
+    "defaultMessage": "Disabled",
+    "message": "Inaktiverad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Enable",
+    "description": "Ban Status",
+    "defaultMessage": "Enable",
+    "message": "Gör det möjligt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Enabled",
+    "description": "Ban Status",
+    "defaultMessage": "Enabled",
+    "message": "Aktiverad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Support",
+    "description": "Ban Status",
+    "defaultMessage": "Support",
+    "message": "Stöd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.askQuestion",
+    "description": "Ban Status",
+    "defaultMessage": "Ask a question",
+    "message": "Ställa en fråga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.lastHours",
+    "description": "Ban Status",
+    "defaultMessage": "Last 24 hours",
+    "message": "Senast 24 timmar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.listings",
+    "description": "Ban Status",
+    "defaultMessage": "Listings",
+    "message": "Annonser",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notFound",
+    "description": "Ban Status",
+    "defaultMessage": "Sorry, the page you were trying to view does not exist.",
+    "message": "Tyvärr har den sida du försökte uppfattning inte existera.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reportIssue",
+    "description": "Ban Status",
+    "defaultMessage": "Report an issue",
+    "message": "Rapportera ett problem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reservations",
+    "description": "Ban Status",
+    "defaultMessage": "Reservations",
+    "message": "Bokningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.setBase",
+    "description": "Ban Status",
+    "defaultMessage": "Set as base currency",
+    "message": "Ange som basvaluta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalList",
+    "description": "Ban Status",
+    "defaultMessage": "Total Listings",
+    "message": "total List",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalReserv",
+    "description": "Ban Status",
+    "defaultMessage": "Total Reservations",
+    "message": "Antal reservationer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalUser",
+    "description": "Ban Status",
+    "defaultMessage": "Total Users",
+    "message": "Totalt antal användare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.oneOne",
+    "description": "Ban Status",
+    "defaultMessage": "One",
+    "message": "Ett",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categorieslist",
+    "description": "categoryMenu",
+    "defaultMessage": "Categories",
+    "message": "kategorier",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currencies",
+    "description": "Ban Status",
+    "defaultMessage": "Currencies",
+    "message": "Valutor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.drivPayout",
+    "description": "managePayout",
+    "defaultMessage": "Driver Payout",
+    "message": "Utbetalning av förare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fares",
+    "description": "Fares",
+    "defaultMessage": "Fares",
+    "message": "Fares",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeonly",
+    "description": "Fares",
+    "defaultMessage": "Home",
+    "message": "Hem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicles",
+    "description": "Fares",
+    "defaultMessage": "Vehicles",
+    "message": "fordon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.allonly",
+    "description": "Fares",
+    "defaultMessage": "All",
+    "message": "Allt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.appstorelink",
+    "description": "Fares",
+    "defaultMessage": "App Store Link",
+    "message": "App Store Länk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverappcntn",
+    "description": "Fares",
+    "defaultMessage": "Driver App Content",
+    "message": "Driver App innehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverapptitle",
+    "description": "Fares",
+    "defaultMessage": "Driver App Title",
+    "message": "Driver App titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.facebookUrl",
+    "description": "Fares",
+    "defaultMessage": "Facebook URL",
+    "message": "Facebook URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.instaUrl",
+    "description": "Fares",
+    "defaultMessage": "Instagram URL",
+    "message": "Instagram URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logoheight",
+    "description": "Fares",
+    "defaultMessage": "Logo Height",
+    "message": "logo Höjd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logowidth",
+    "description": "Fares",
+    "defaultMessage": "Logo Width",
+    "message": "logo Bredd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDesc",
+    "description": "Fares",
+    "defaultMessage": "Meta Description",
+    "message": "Meta Beskrivning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metakey",
+    "description": "Fares",
+    "defaultMessage": "Meta Keyword",
+    "message": "meta sökord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.playstorelink",
+    "description": "Fares",
+    "defaultMessage": "Play Store Link",
+    "message": "Play Store Länk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteName",
+    "description": "Fares",
+    "defaultMessage": "Site Name",
+    "message": "Sidnamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteTitle",
+    "description": "Fares",
+    "defaultMessage": "Site Title",
+    "message": "Sidans Titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.twiterUrl",
+    "description": "Fares",
+    "defaultMessage": "Twitter URL",
+    "message": "Twitter URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.youtubeUrl",
+    "description": "Fares",
+    "defaultMessage": "Youtube URL",
+    "message": "Youtube URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addOnly",
+    "description": "Fares",
+    "defaultMessage": "Address",
+    "message": "Adress",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.checkmein",
+    "description": "Fares",
+    "defaultMessage": "Check me in",
+    "message": "Kontrollera mig",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.checkmeout",
+    "description": "Fares",
+    "defaultMessage": "Check me out",
+    "message": "Kolla in mig",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content",
+    "description": "Content 1",
+    "defaultMessage": "Content",
+    "message": "Innehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.credentialError",
+    "description": "Fares",
+    "defaultMessage": "Sorry, a critical error occurred on this page.",
+    "message": "Tyvärr uppstod ett allvarligt fel på denna sida.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.errorOnly",
+    "description": "Fares",
+    "defaultMessage": "Error",
+    "message": "Fel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.miles",
+    "description": "Fares",
+    "defaultMessage": "Miles",
+    "message": "miles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.state",
+    "description": "Fares",
+    "defaultMessage": "State",
+    "message": "stat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tableCell",
+    "description": "Fares",
+    "defaultMessage": "Table cell",
+    "message": "tabellcell",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tableHead",
+    "description": "Fares",
+    "defaultMessage": "Table heading",
+    "message": "tabell rubriken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.buttonLabel",
+    "description": "Change Password",
+    "defaultMessage": "Button Label",
+    "message": "Button Label",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.confirmPassword",
+    "description": "Change Password",
+    "defaultMessage": "Confirm Password",
+    "message": "Bekräfta lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.copyRightcontent",
+    "description": "Change Password",
+    "defaultMessage": "Copyrights content",
+    "message": "Upphovsrätt innehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #1",
+    "message": "Funktion Beskrivning # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #2",
+    "message": "Funktion Beskrivning # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #3",
+    "message": "Funktion Beskrivning # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #4",
+    "message": "Funktion Beskrivning # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #5",
+    "message": "Funktion Beskrivning # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #6",
+    "message": "Funktion Beskrivning # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #1",
+    "message": "Feature Title # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #2",
+    "message": "Feature Titel # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #3",
+    "message": "Feature Titel # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #4",
+    "message": "Feature Titel # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #5",
+    "message": "Feature Titel # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #6",
+    "message": "Feature Titel # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerContent1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Content #1",
+    "message": "Sidfot innehåll # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Title #1",
+    "message": "Sidfot Title # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerUrltitle",
+    "description": "Change Password",
+    "defaultMessage": "Footer URL Title",
+    "message": "Sidfot URL Titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.msgOnly",
+    "description": "Change Password",
+    "defaultMessage": "Message",
+    "message": "Meddelande",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.nameOnly",
+    "description": "Change Password",
+    "defaultMessage": "Name",
+    "message": "namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.optionOne",
+    "description": "Fares",
+    "defaultMessage": "option 1",
+    "message": "Alternativ 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.radioButton",
+    "description": "Change Password",
+    "defaultMessage": "Radio button",
+    "message": "Radio knapp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.redioOne",
+    "description": "Fares",
+    "defaultMessage": "radio 1",
+    "message": "radio 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderAppContent",
+    "description": "Change Password",
+    "defaultMessage": "Rider App Content",
+    "message": "Rider App innehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderApptitle",
+    "description": "Change Password",
+    "defaultMessage": "Rider App Title",
+    "message": "Rider App titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.leaveEmail",
+    "description": "Change Password",
+    "defaultMessage": "Leave email address field blank if you don't want to change the email",
+    "message": "Lämna e-postadress fältet tomt om du inte vill ändra e-",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.searchOnly",
+    "description": "Change Password",
+    "defaultMessage": "Search",
+    "message": "Sök",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Lägg till",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.topFeatures",
+    "description": "Top Features Section Settings",
+    "defaultMessage": "Top Features Section Settings",
+    "message": "Toppinställningar Avsnitt inställningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingDetails",
+    "description": "Booking Details",
+    "defaultMessage": "Booking Details",
+    "message": "Bokningsdetaljer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.changeAdminPassword",
+    "description": "Change Admin Email/Password",
+    "defaultMessage": "Change Admin Email/Password",
+    "message": "Ändra administratörens e-post / lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currencyList",
+    "description": "Currency List",
+    "defaultMessage": "Currency List",
+    "message": "Valutalista",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverPayout",
+    "description": "Manage Driver Payouts",
+    "defaultMessage": "Manage Driver Payouts",
+    "message": "Hantera förarutbetalningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editLocation",
+    "description": "Edit Location",
+    "defaultMessage": "Edit Location",
+    "message": "Redigera plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverAndriodVersion",
+    "description": "Andriod",
+    "defaultMessage": "Driver Android Version",
+    "message": "Driver Android Version",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driveriosVersion",
+    "description": "iOS",
+    "defaultMessage": "Driver iOS Version",
+    "message": "Driver iOS-version",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.forceUpdate",
+    "description": "forceUpdate",
+    "defaultMessage": "Force update",
+    "message": "Tvinga en uppdatering",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderAndriodVersion",
+    "description": "riderAndriodVersion",
+    "defaultMessage": "Rider Android Version",
+    "message": "Rider Android-version",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rideriosVersion",
+    "description": "rideriosVersion",
+    "defaultMessage": "Rider iOS Version",
+    "message": "Rider iOS-version",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.to",
+    "description": "Label",
+    "defaultMessage": "To",
+    "message": "till",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validatePasswordLength",
+    "description": "Password length Validation",
+    "defaultMessage": "Password must be minimum 8 characters",
+    "message": "Lösenordet måste innehålla minst 8 tecken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validateConfirmPasswordLength",
+    "description": "Confirm Password length Validation",
+    "defaultMessage": "Confirm Password must be minimum 8 characters",
+    "message": "Bekräfta lösenordet måste innehålla minst 8 tecken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validatePasswordMatch",
+    "description": "Password mismatch",
+    "defaultMessage": "Password is mismatching with Confirm password",
+    "message": "Lösenordet stämmer inte överens med Bekräfta lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.completedLabel",
+    "description": "Label",
+    "defaultMessage": "Completed",
+    "message": "Avslutad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Driver Billing Information",
+    "message": "Driver faktureringsinformation",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverEarnings",
+    "description": "Label",
+    "defaultMessage": "Driver Earnings",
+    "message": "Driver Resultat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notRequired",
+    "description": "Label",
+    "defaultMessage": "No Action Required",
+    "message": "Ingen åtgärd krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.platformEarnings",
+    "description": "Label",
+    "defaultMessage": "Platform Earnings",
+    "message": "Platform Resultat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.platformOffered",
+    "description": "Label",
+    "defaultMessage": "Platform Overdrafts",
+    "message": "Plattforms Övertrassering",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.processedCash",
+    "description": "Label",
+    "defaultMessage": "Processed via cash",
+    "message": "Bearbetat via kontanter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rideFare",
+    "description": "Label",
+    "defaultMessage": "Ride Fare",
+    "message": "Ridpris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Rider Billing Information",
+    "message": "Rider faktureringsinformation",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsGivenToDriver",
+    "description": "Label",
+    "defaultMessage": "Tips given to the driver",
+    "message": "Tips ges till föraren",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsReceivedFromRider",
+    "description": "Label",
+    "defaultMessage": "Tips received from the rider",
+    "message": "Tips tas emot från ryttaren",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addAdminRole",
+    "description": "Title",
+    "defaultMessage": "Add Admin Role",
+    "message": "Lägg till Admin Role",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAdminRole",
+    "description": "Title",
+    "defaultMessage": "Edit Admin Role",
+    "message": "Redigera Admin Role",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.locations",
+    "description": "Pagination",
+    "defaultMessage": "Locations",
+    "message": "platser",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addAdminUserLabel",
+    "description": "Add Admin User",
+    "defaultMessage": "Add Admin User",
+    "message": "Lägg till administratörsanvändare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAdminUserLabel",
+    "description": "Edit Admin User",
+    "defaultMessage": "Edit Admin User",
+    "message": "Redigera administratörsanvändare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.approved",
+    "description": "Approved Status",
+    "defaultMessage": "Approved",
+    "message": "Godkänd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledByDriver",
+    "description": "Cancelled By Driver Status",
+    "defaultMessage": "Cancelled By Driver",
+    "message": "Avbröts av Driver",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledByRider",
+    "description": "Cancelled By Rider Status",
+    "defaultMessage": "Cancelled By Rider",
+    "message": "Upphävts av Rider",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.completed",
+    "description": "Completed Status",
+    "defaultMessage": "Completed",
+    "message": "Avslutad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.declined",
+    "description": "Declined Status",
+    "defaultMessage": "Declined",
+    "message": "Tackat nej",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.expired",
+    "description": "Expired Status",
+    "defaultMessage": "Expired",
+    "message": "Utgånget",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.started",
+    "description": "Started Status",
+    "defaultMessage": "Started",
+    "message": "Satte igång",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notRequiredMessage",
+    "description": "Not Required",
+    "defaultMessage": "Not Required",
+    "message": "Krävs inte",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverPrivacyPolicy",
+    "description": "Title",
+    "defaultMessage": "Driver Privacy Policy",
+    "message": "Driver Privacy Policy",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.precautionNotification",
+    "description": "Title",
+    "defaultMessage": "Precaution Notification",
+    "message": "Försiktighet Anmälan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.image",
+    "description": "Label",
+    "defaultMessage": "Image",
+    "message": "Bild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduleBooking",
+    "description": "Label",
+    "defaultMessage": "Schedule Bookings",
+    "message": "Planera bokningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduled",
+    "description": "Trip status",
+    "defaultMessage": "Scheduled",
+    "message": "Planerad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduledFrom",
+    "description": "Label",
+    "defaultMessage": "Scheduled From",
+    "message": "Planerad Från",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduledTo",
+    "description": "Label",
+    "defaultMessage": "Scheduled To",
+    "message": "Planerad till",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.failed",
+    "description": "Trip Status of Schedule History",
+    "defaultMessage": "Failed",
+    "message": "misslyckades",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.updated",
+    "description": "Trip Status of Schedule History",
+    "defaultMessage": "Updated",
+    "message": "Uppdaterad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVersionNumber",
+    "description": "invalidVersionNumber",
+    "defaultMessage": "Invalid Version Number",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pendingLabel",
+    "description": "Label",
+    "defaultMessage": "Pending",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.updatedAt",
+    "description": "Label",
+    "defaultMessage": "Updated At",
+    "message": "Uppdaterad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduleBookingHistory",
+    "description": "Heading",
+    "defaultMessage": "Schedule Booking History",
+    "message": "Schema bokningshistorik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+    "name": "Manage Notifications Form",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ManageNotificationsForm.js"
+}

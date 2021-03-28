@@ -1,0 +1,28 @@
+@import '../../variables.css';
+
+
+.geosuggest {
+  width: 100%;
+  margin-top: 0px;
+}
+
+.geosuggestInput {
+  height: 44px;
+  resize: none;
+  border: 1px solid #ced4da;
+  box-shadow: none;
+  padding: .375rem .75rem;
+}
+
+.geosuggestInput:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+.geosuggest__suggests {
+  border-width: 1px;
+  border-color: #ced4da;
+}
+
+.geosuggest__suggests_hidden {
+  border-width: 0px;
+}

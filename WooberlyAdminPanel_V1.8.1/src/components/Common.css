@@ -1,0 +1,386 @@
+@import './variables.css';
+.cotainerWith {
+    width: 100%;
+    max-width: 1260px;
+    margin: 0 auto;
+}
+.container {
+    max-width: 100%;
+}
+/* Buttons - Start */
+ .btnLight{
+     font-weight: 600;
+     background: transparent !important;
+     border: 1px solid transparent !important;
+     color: #000 !important;
+     padding: 10px 18px;
+     border-radius: 4px;
+     box-shadow: 0px 15px 10px -15px #ccc !important;
+}
+
+/* Buttons - End */
+/* Text - Start */
+ .subText {
+     color: #767676;
+     font-size: 12px;
+}
+/* Text - End */
+/* Header */
+ .navBg {
+     background: #ffffff;
+     padding: .5rem 7.2rem;
+     position: relative;
+     top: 0;
+     width: 100%;
+     z-index: 5;
+     box-shadow: 1px 1px 10px 1px #eeebeb;
+}
+ .justifyFlexEnd {
+     justify-content: flex-end !important;
+}
+ .dropdowncolor a{
+     color: #727272 !important;
+}
+ .borderNone {
+     border: none !important;
+}
+ .outlineNone {
+     outline: none !important;
+}
+ .navigationLink a {
+     padding-right: 20px !important;
+     padding-left: 20px !important;
+     color: #000000 !important;
+     font-size: 16px;
+     border-bottom: 2px solid transparent;
+}
+.navigationLink a:hover, .navigationLink a:focus, .navigationLink a:active{
+    border-bottom: 2px solid #000;
+}
+ .logOut{
+     float: right;
+}
+/* Header */
+/* leftMenu */
+ .sideMenuBg{
+     width:100%;
+     height:100vh;
+    /* background: #000;
+     */
+     background: #242424;
+     position: fixed;
+     left: 0;
+     right: 0;
+     width: 280px;
+}
+ .sideMenuIcon {
+     width: 100%;
+     max-width: 20px;
+     filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(231deg) brightness(103%) contrast(101%);
+     margin-bottom: 3px;
+}
+/* leftMenu */
+/* commonCss */
+ .noPadding{
+     padding: 0;
+}
+ .siteAdminHeader{
+     font-weight: 600;
+     font-size: 20px;
+     text-align: center;
+     background-color: #fff;
+     color: #000;
+     padding: 15px 0 0;
+     height: 60px;
+     position: fixed;
+     width: 100%;
+     left: 0;
+     right: 0;
+     max-width: 280px;
+}
+ .headerBg{
+     width:100%;
+     height:60px;
+     background: var(--common-color);
+     padding: 11px 10px;
+     border-bottom: 3px solid var(--common-color);
+     position: fixed;
+     left: 0;
+     right: 0;
+     z-index: 2;
+}
+ .heading{
+     background-color: #fff;
+     box-shadow: 0 5px 15px -5px #ccc;
+     padding: 10px 20px;
+     font-weight: 700;
+     color: #333;
+     font-size: 20px;
+     text-align: center;
+}
+
+
+
+ .widthInner{
+     /* width: 1150px; */
+     margin: 35px auto 0 auto;
+     background: #fff;
+     border-radius: 10px;
+     padding: 25px 20px;
+     box-shadow: 0 1px 15px 3px #2d3d5126;
+     margin: 30px 15px;
+}
+ .formControlInputAddress{
+     height: 50px;
+}
+ .noMargin{
+     margin: 0;
+}
+ .formControlInputTable{
+     border: none;
+     width:100px;
+     height: auto;
+}
+ .sideNav{
+     width: 280px;
+     position: absolute;
+     height: 100vh;
+     z-index: 3;
+}
+ .mainContent {
+     margin-left: 280px;
+     height: 100%;
+     overflow: auto;
+     margin-bottom: 60px;
+}
+ .closeColor{
+    color: #fff;
+    font-weight: 600;
+    font-size: 32px;
+    position: absolute;
+    display: block;
+    top: 0;
+    padding: 0;
+    right: 0;
+    z-index: 5;
+    cursor: pointer;
+    width: 100%;
+    text-align: right;
+    background: #000;
+    padding: 2px 12px 2px 0px;
+}
+ .safetyContainer{
+     padding: 70px 0 0px;
+}
+ .gridBottom{
+     padding-bottom: 30px;
+     padding-top: 30px;
+}
+ .aboutBg{
+     background: #f5f5f5;
+     padding: 100px 0;
+}
+ .displayFlex{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+ .leftGrid h1{
+     color: #fff;
+     font-weight: bold;
+     font-size: 36px;
+     margin:0;
+}
+ .noPaddingLeft{
+     padding-left: 0px;
+}
+ .backBtn {
+     margin-left: 15px;
+}
+ .backBtn:active, .backBtn:hover, .backBtn:focus {
+     color: #000;
+     text-decoration: none !important;
+}
+ .textAlignRight {
+     text-align: right;
+}
+ .displayInlineBlock {
+     display: inline-block;
+}
+ .floatRight {
+     float: right;
+}
+ .displayBlock {
+     display: block;
+}
+ .paddingRoutesSection {
+     padding: 15px 15px;
+}
+
+.formControlInputCountryCode {
+    background: #000 !important;
+    color: #fff !important;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border: 0 !important;
+    text-align: center;
+    font-weight: 700;
+}
+.formControlInputCountry {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    border-left: 0 !important;
+}
+.countryCode {
+    width: 27%;
+    vertical-align: top;
+}
+.countryPhoneNumber {
+    width: 73%;
+    vertical-align: top;
+}
+ .vtrMiddle {
+     vertical-align: middle;
+}
+ .vtrTop {
+     vertical-align: top;
+}
+ .vrtSub {
+     vertical-align: sub;
+}
+/* commonCss */
+
+.editIcon {
+    width: 100%;
+    width: 15px;
+    vertical-align: middle;
+    margin-right: 3px;
+}
+.iconBtn, .iconBtn:hover, .iconBtn:focus {
+    padding: 0;
+    background: transparent;
+    color: #0074c2;
+    border: 0;
+    white-space: nowrap;
+}
+.iconBtn:hover {
+    text-decoration: underline;
+}
+.trashPadding {
+    padding: 3px !important;
+    padding-top: 12px !important;
+}
+.alignCenter {
+    text-align: center;
+}
+ 
+.profileImg {
+ width: 100%;
+ height: auto;
+ margin-bottom: 18px;
+}
+.profileImgSection {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid #ced4da;
+    padding: 30px;
+    border-radius: 4px;
+    box-shadow: 0 1px 15px 3px #2d3d5126;
+}
+.profileImgWidth {
+    margin: 0;
+    max-width: 100% !important;
+}
+.searchInput {
+    width: 100%;
+    max-width: 320px;
+    display: inline-block;
+    padding: 10px 10px 6px 3px;
+}
+.rightSide {
+    float: right;
+    margin-top: 6px;
+}
+.noRecords{
+    text-align: center;
+    padding-top: 30px !important;
+    font-size: 22px;
+
+}
+.backgroundImg{
+    padding-top: 66%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 18px;
+    border-radius: 4px;
+    background-color: #cccccc52;
+    background-position: center;
+}
+
+.logOutSection {
+    display: none !important;
+}
+.staticContainer{
+    padding: 50px 0 30px;
+}
+.headingPadding{
+    padding-left: 15px;
+}
+
+/*******************Export CSV section start ******************/
+.exportDisplay {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.exportTextSection {
+    text-align: right;
+}
+.exportText {
+    margin-right: 6px;
+    color: #484848 !important;
+    text-decoration: none !important;
+}
+.vtrTextBottom {
+    vertical-align: text-bottom;
+}
+.exportImg {
+    width: 100%;
+    max-width: 14px;
+}
+/*******************Export CSV section End ******************/
+.noLink, .noLink:hover {
+	color: #0074c2 !important;
+	cursor: pointer;
+}
+.displayFlex{
+    display: flex;
+   justify-content: center;
+}
+
+@media screen and (max-width:1330px){
+    .cotainerWith{
+      padding-left : 15px;
+      padding-right: 15px;
+    }
+  }
+
+  @media screen and (max-width:1199px){
+    .iconBtn{
+        font-size: 13px !important;
+    }
+  }
+  
+  @media screen and (min-width:480px) and (max-width:1199px) {
+    .displayFlex {
+        justify-content: flex-end;
+    }
+  }
+
+  @media screen and (max-width:480px){
+    .displayFlex {
+        justify-content: flex-start;
+    }
+  }

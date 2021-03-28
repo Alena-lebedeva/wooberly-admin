@@ -1,0 +1,10 @@
+{
+  getAllHomePageSettings{
+    homePageData{
+      id
+      name
+      value
+    }
+    
+  }
+}

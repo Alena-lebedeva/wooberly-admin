@@ -1,0 +1,67 @@
+query viewBookingDetails($id: Int!){
+  viewBookingDetails(id: $id){
+    id
+    bookingType
+    pickUpLocation
+    dropOffLocation
+    tripStatus
+    driverDetails{
+      firstName
+      userData{
+        email
+      }
+    }
+    riderDetails{
+      firstName
+      userData{
+        email
+      }
+    }
+    categoryDetails{
+      categoryName
+    }
+    vehicleNumber
+    totalRideDistance
+    totalDuration
+    totalFare
+    riderTotalFare
+    driverTotalFare
+    riderServiceFee
+    driverServiceFee
+    currency
+    startDate
+    startTime
+    endDate
+    endTime
+    tripStart
+    tripEnd
+    paymentType
+    estimatedTotalFare
+    promoCodeId
+    isSpecialTrip
+    specialTripPrice
+    specialTripTotalFare
+    tollFee
+    tipsAmount
+    promoCode {
+      code
+    }
+    scheduleBooking {
+      id
+      riderId
+      bookingId
+      tripStatus
+      scheduleFrom
+      scheduleTo
+    }
+    scheduleBookingHistory {
+      id
+      scheduleId
+      bookingId
+      tripStatus
+      scheduleFrom
+      scheduleTo
+      updatedAt
+    }
+  }
+}

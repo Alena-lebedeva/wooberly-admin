@@ -1,0 +1,20 @@
+query($currentPage: Int, $searchList: String) {
+    getPromoCodes(currentPage: $currentPage, searchList: $searchList) {
+        status
+        errorMessage
+        count
+        data {
+          id
+          title
+          description
+          code
+          type
+          promoValue
+          currency
+          expiryDate
+          isEnable
+          createdAt
+          updatedAt
+        }
+    }
+}

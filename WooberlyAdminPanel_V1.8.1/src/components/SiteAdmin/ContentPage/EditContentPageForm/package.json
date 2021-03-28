@@ -1,0 +1,6 @@
+{
+    "name": "EditContentPageForm",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./EditContentPageForm.js"
+}

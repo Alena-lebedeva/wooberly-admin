@@ -1,0 +1,6 @@
+{
+  "name": "AboutGrid",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AboutGrid.js"
+}

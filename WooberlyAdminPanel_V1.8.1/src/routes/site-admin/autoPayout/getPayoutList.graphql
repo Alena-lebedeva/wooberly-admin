@@ -1,0 +1,22 @@
+
+  query getPayoutList($currentPage: Int, $searchList: String){
+  getPayoutList(currentPage: $currentPage, searchList:$searchList){
+   count
+    bookingData{
+      id
+      tripStatus
+      currency
+      driverDetails{
+        firstName
+        userData{
+          email
+        }
+      }
+      totalFare
+      isPayoutPaid
+      isBanStatus
+      paymentType
+      driverTotalFare
+    }
+  }
+}

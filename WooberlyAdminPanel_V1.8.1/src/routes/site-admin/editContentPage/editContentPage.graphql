@@ -1,0 +1,13 @@
+query editContentPage ($id: Int!) {
+    editContentPage (id: $id) {
+         id
+        metaTitle
+        metaDescription
+        pageUrl
+        pageTitle
+        content
+        isEnable
+        pageBanner
+        createdAt
+    }
+}

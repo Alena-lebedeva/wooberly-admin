@@ -1,0 +1,6 @@
+{
+  "name": "RiderSection",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./RiderSection.js"
+}

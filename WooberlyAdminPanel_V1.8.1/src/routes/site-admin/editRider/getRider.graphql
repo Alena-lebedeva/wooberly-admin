@@ -1,0 +1,19 @@
+query getRider($id: Int!){
+  getRider( id: $id){
+    id
+    email
+    phoneDialCode
+    phoneNumber
+    phoneCountryCode
+    password
+    userStatus
+    isBan
+    profile{
+      userId
+      picture
+      firstName
+      lastName
+      country
+    }
+  }
+}

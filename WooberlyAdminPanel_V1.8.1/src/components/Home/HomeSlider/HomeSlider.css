@@ -1,0 +1,21 @@
+@import '../../Common.css';
+@import '../../responsive-common.css';
+
+
+.paddingTopBottom {
+  padding: 50px 0;
+}
+.sliderMain {
+  padding: 30px 0 0;
+  position: relative;
+}
+.sliderMain::after {
+  content: '';
+  width: 50px;
+  height: 1.5px;
+  background: #000;
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+}
+

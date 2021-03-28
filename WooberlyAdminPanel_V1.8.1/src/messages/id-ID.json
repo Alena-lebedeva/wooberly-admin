@@ -1,0 +1,4488 @@
+[
+  {
+    "id": "login.title",
+    "description": "Log in page title",
+    "defaultMessage": "Log In",
+    "message": "Gabung"
+  },
+  {
+    "id": "radicalstart.Becomeahost",
+    "description": "Becomeahost",
+    "defaultMessage": "Become a host",
+    "message": "Menjadi host",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Discover",
+    "description": "Discover",
+    "defaultMessage": "Discover",
+    "message": "Menemukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Hosting",
+    "description": "Hosting",
+    "defaultMessage": "Hosting",
+    "message": "Hosting",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Terms",
+    "description": "Terms",
+    "defaultMessage": "Terms & Privacy",
+    "message": "Persyaratan & Privasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Travel",
+    "description": "Trust",
+    "defaultMessage": "Travel Credit",
+    "message": "Kredit Travel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Trust",
+    "description": "Trust",
+    "defaultMessage": "Trust & Safety",
+    "message": "Trust & Keselamatan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.about",
+    "description": "About Nav link",
+    "defaultMessage": "About",
+    "message": "Tentang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutFooter",
+    "description": "AboutFooter",
+    "defaultMessage": "About Us",
+    "message": "Tentang kami",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminpanel",
+    "description": "admin panel",
+    "defaultMessage": "Admin Panel",
+    "message": "panel admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bannerDesc",
+    "description": "Description in header",
+    "defaultMessage": "Complex web apps made easy",
+    "message": "aplikasi web yang kompleks menjadi mudah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bannerTitle",
+    "description": "Title in page header",
+    "defaultMessage": "React",
+    "message": "Reaksi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.brand",
+    "description": "Brand name displayed in header",
+    "defaultMessage": "RadicalStart",
+    "message": "RadicalStart",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contact",
+    "description": "Contact Nav link",
+    "defaultMessage": "Contact",
+    "message": "Kontak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contactUs",
+    "description": "contact",
+    "defaultMessage": "Contact Us",
+    "message": "Hubungi kami",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dashboard",
+    "description": "dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Dasbor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dummyText",
+    "description": "dummyText",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum hanya teks dummy dalam industri percetakan dan typesetting. Lorem Ipsum telah menjadi industrys standar boneka teks sejak tahun 1500-an, ketika sebuah printer yang tidak dikenal mengambil dapur jenis dan acak untuk membuat sebuah buku jenis spesimen.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailaddress",
+    "description": "emailaddress",
+    "defaultMessage": "Email Address",
+    "message": "Alamat email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.firstName",
+    "description": "firstName",
+    "defaultMessage": "First Name",
+    "message": "Nama depan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.formssidebar",
+    "description": "formssidebar",
+    "defaultMessage": "Forms",
+    "message": "Formulir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.heading",
+    "description": "heading",
+    "defaultMessage": "Heading",
+    "message": "heading",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.lastName",
+    "description": "lastName",
+    "defaultMessage": "Last Name",
+    "message": "Nama keluarga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.login",
+    "description": "Login Nav link",
+    "defaultMessage": "Login",
+    "message": "Gabung",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.phoneNumber",
+    "description": "phoneNumber",
+    "defaultMessage": "Phone Number",
+    "message": "Nomor telepon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.recommand",
+    "description": "recommand",
+    "defaultMessage": "Recommand",
+    "message": "Roadmap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rentallContent",
+    "description": "RentALL",
+    "defaultMessage": "RentALL",
+    "message": "RentALL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.select",
+    "description": "select",
+    "defaultMessage": "Select",
+    "message": "Pilih",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.settings",
+    "description": "settings",
+    "defaultMessage": "Settings",
+    "message": "pengaturan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signup",
+    "description": "Sign up Nav link",
+    "defaultMessage": "Sign up",
+    "message": "Daftar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderContent",
+    "description": "Luxury",
+    "defaultMessage": "Luxury",
+    "message": "Kemewahan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.textarea",
+    "description": "textarea",
+    "defaultMessage": "Text Area",
+    "message": "text area",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.users",
+    "description": "users",
+    "defaultMessage": "Users",
+    "message": "pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.password",
+    "description": "password",
+    "defaultMessage": "Password",
+    "message": "Kata sandi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.required",
+    "description": "required error message",
+    "defaultMessage": "*Required",
+    "message": "*Yg dibutuhkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.email",
+    "description": "Your Email Address to Login",
+    "defaultMessage": "Email Address",
+    "message": "Alamat email",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Alamat email salah",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Tidak ada akun ada untuk email ini. Pastikan itu diketik dengan benar, atau “sign up” bukan",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "Email diperlukan",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Kamu sudah masuk!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.password",
+    "description": "Your Password to Login",
+    "defaultMessage": "Password",
+    "message": "Kata sandi",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "password Anda harus minimal 8 karakter. Silakan coba lagi",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "katakunci dibutuhkan",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Kata sandi salah. Silakan coba lagi",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Maaf, ada yang tidak beres. Silakan coba lagi",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.userLoggedIn",
+    "description": "You are already Logged-in as user",
+    "defaultMessage": "You are already logged in as User, please logout in the main site to continue!",
+    "message": "Anda sudah login sebagai Pengguna, mohon logout di situs utama untuk melanjutkan!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Alamat email salah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Tidak ada akun ada untuk email ini. Pastikan itu diketik dengan benar, atau “sign up” bukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "Email diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Kamu sudah masuk!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "password Anda harus minimal 8 karakter. Silakan coba lagi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "katakunci dibutuhkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Kata sandi salah. Silakan coba lagi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Maaf, ada yang tidak beres. Silakan coba lagi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Amount",
+    "description": "Amount",
+    "defaultMessage": "Amount",
+    "message": "Jumlah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.BaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Base Currency",
+    "message": "Base Currency",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.HomeSiteSettings",
+    "description": "HomeSiteSettings",
+    "defaultMessage": "Homepage Settings",
+    "message": "homepage Pengaturan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Safety",
+    "description": "Safety",
+    "defaultMessage": "Safety",
+    "message": "Keamanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Wooberly",
+    "description": "Wooberly",
+    "defaultMessage": "Wooberly",
+    "message": "Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutFooterDesc",
+    "description": "aboutFooterDesc",
+    "defaultMessage": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "message": "Cum maiorum repudiandae, cu im dolore bonorum probatus. Et Legere sanctus cum, quot nostrud postulan ex mei. Iklan Ullum audire admodum eos. Ne eam quod habeo aeque, iklan decoreos.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutImage1",
+    "description": "Feature Banner 1",
+    "defaultMessage": "Feature Banner #1",
+    "message": "Fitur Banner # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutImage2",
+    "description": "Feature Banner 2",
+    "defaultMessage": "Feature Banner #2",
+    "message": "Fitur Banner # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.aboutSectionSettings",
+    "description": "Top Features Settings",
+    "defaultMessage": "Top Features",
+    "message": "Fitur Top",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.action",
+    "description": "Action",
+    "defaultMessage": "Action",
+    "message": "Tindakan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.active",
+    "description": "Active Status",
+    "defaultMessage": "Active",
+    "message": "Aktif",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addCancelReason",
+    "description": "Add Cancel Reason",
+    "defaultMessage": "Add Cancel Reason",
+    "message": "Tambah Batal Alasan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addCategory",
+    "description": "Add category form header",
+    "defaultMessage": "Add Category",
+    "message": "Tambahkan kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addFare",
+    "description": "Button",
+    "defaultMessage": "Add Fare",
+    "message": "Fare add",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addLocation",
+    "description": "addLocation",
+    "defaultMessage": "Add Location",
+    "message": "Menambahkan lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addPage",
+    "description": "Add Page",
+    "defaultMessage": "Add Page",
+    "message": "Tambah halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addPromoCode",
+    "description": "Add PromoCode",
+    "defaultMessage": "Add Promo Code",
+    "message": "Tambahkan Kode Promo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adeditFaredFare",
+    "description": "Button",
+    "defaultMessage": "Edit Fare",
+    "message": "mengedit Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.allowedPaymentCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Allowed Payment Currency",
+    "message": "Diizinkan Mata Uang Pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.approve",
+    "description": "Approve",
+    "defaultMessage": "Approve",
+    "message": "Menyetujui",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.availableSeats",
+    "description": "Available Seats",
+    "defaultMessage": "Available Seats",
+    "message": "tersedia Kursi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ban",
+    "description": "Ban Status",
+    "defaultMessage": "Ban",
+    "message": "Melarang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.banStatus",
+    "description": "Ban Status Permit/Ban",
+    "defaultMessage": "Ban Status",
+    "message": "Status Larangan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingId",
+    "description": "Booking ID",
+    "defaultMessage": "Booking ID",
+    "message": "pemesanan ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookings",
+    "description": "bookings",
+    "defaultMessage": "Bookings",
+    "message": "pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingsMenu",
+    "description": "bookingsMenu",
+    "defaultMessage": "Manage Bookings",
+    "message": "mengelola Pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.button",
+    "description": "Button",
+    "defaultMessage": "Button",
+    "message": "Tombol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelButton",
+    "description": "Cancel",
+    "defaultMessage": "Cancel",
+    "message": "Membatalkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Batal Alasan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancellationReasons",
+    "description": "Cancellation Reasons",
+    "defaultMessage": "Cancellation Reasons",
+    "message": "Alasan pembatalan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledBy",
+    "description": "Cancelled By",
+    "defaultMessage": "Cancelled By",
+    "message": "dibatalkan Dengan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.capacity",
+    "description": "Capacity",
+    "defaultMessage": "Capacity",
+    "message": "Kapasitas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.card",
+    "description": "Card",
+    "defaultMessage": "Card",
+    "message": "Kartu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cash",
+    "description": "Cash",
+    "defaultMessage": "Cash",
+    "message": "Tunai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryMapMarker",
+    "description": "",
+    "defaultMessage": "Category Map Marker",
+    "message": "Kategori Peta Marker",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.category",
+    "description": "Category",
+    "defaultMessage": "Category",
+    "message": "Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryContent",
+    "description": "Category Content",
+    "defaultMessage": "Category Content",
+    "message": "Kategori Konten",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryIcon",
+    "description": "",
+    "defaultMessage": "Category Icon",
+    "message": "Kategori Icon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryId",
+    "description": "Category ID",
+    "defaultMessage": "Category ID",
+    "message": "Kategori ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryMenu",
+    "description": "categoryMenu",
+    "defaultMessage": "Manage Categories",
+    "message": "kelola Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryName",
+    "description": "Category Name",
+    "defaultMessage": "Category Name",
+    "message": "Nama Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categoryTitle",
+    "description": "Category Title",
+    "defaultMessage": "Category Title",
+    "message": "Kategori Judul",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.changePassword",
+    "description": "Change Password",
+    "defaultMessage": "Change Password",
+    "message": "Ganti kata sandi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.chooseFile",
+    "description": "",
+    "defaultMessage": "Choose File",
+    "message": "Pilih File",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.city",
+    "description": "city",
+    "defaultMessage": "Lorem Ipsum is simply dummy text",
+    "message": "Lorem Ipsum hanya boneka teks",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.citySectionSettings",
+    "description": "Category Settings",
+    "defaultMessage": "Category",
+    "message": "Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.code",
+    "description": "text",
+    "defaultMessage": "Code",
+    "message": "Kode",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.comments",
+    "description": "Comments",
+    "defaultMessage": "Comments",
+    "message": "komentar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content1",
+    "description": "Content 1",
+    "defaultMessage": "Content 1",
+    "message": "konten 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content2",
+    "description": "Content 2",
+    "defaultMessage": "Content 2",
+    "message": "konten 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content3",
+    "description": "Content 3",
+    "defaultMessage": "Content 3",
+    "message": "konten 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content4",
+    "description": "Content 4",
+    "defaultMessage": "Content 4",
+    "message": "konten 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content5",
+    "description": "Content 5",
+    "defaultMessage": "Content 5",
+    "message": "konten 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content6",
+    "description": "Content 6",
+    "defaultMessage": "Content 6",
+    "message": "konten 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.contentpageManagement",
+    "description": "Content Management",
+    "defaultMessage": "Content Management",
+    "message": "Manajemen konten",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.copyRights",
+    "description": "Copy Rights",
+    "defaultMessage": "Wooberly 2020. All Rights Reserved",
+    "message": "Wooberly 2020. Semua Hak Dilindungi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.country",
+    "description": "Country Name",
+    "defaultMessage": "Country",
+    "message": "Negara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.countryCodeError",
+    "description": "Invalid Country Code",
+    "defaultMessage": "Invalid Country Code",
+    "message": "Kode Negara tidak valid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.createdAt",
+    "description": "Created date",
+    "defaultMessage": "Account Created on",
+    "message": "Akun Dibuat pada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currency",
+    "description": "Currency Type",
+    "defaultMessage": "Currency",
+    "message": "Mata uang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.decline",
+    "description": "Decline",
+    "defaultMessage": "Decline",
+    "message": "Menurun",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.deleteAction",
+    "description": "Delete action name",
+    "defaultMessage": "Delete",
+    "message": "Menghapus",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.description",
+    "description": "text",
+    "defaultMessage": "Description",
+    "message": "Deskripsi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.details",
+    "description": "Details",
+    "defaultMessage": "Details",
+    "message": "rincian",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.discount",
+    "description": "text",
+    "defaultMessage": "Discount",
+    "message": "Diskon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus Scaevola elaboraret vel iklan, vis ada noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppDriverDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus Scaevola elaboraret vel iklan, vis ada noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppText",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Rider App",
+    "message": "Download Rider App",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.downloadAppTextDriver",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Driver App",
+    "message": "Unduh Aplikasi Driver",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driver",
+    "description": "driver",
+    "defaultMessage": "Driver",
+    "message": "Sopir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverCommission",
+    "description": "Driver Commission Percentage",
+    "defaultMessage": "Driver Commission(%)",
+    "message": "Sopir Komisi (%)",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverEmail",
+    "description": "Driver Email",
+    "defaultMessage": "Driver Email",
+    "message": "sopir Email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverFeeType",
+    "description": "Driver Fee Type",
+    "defaultMessage": "Driver Fee Type",
+    "message": "Sopir Tarif Jenis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverFeeValue",
+    "description": "Driver Fee Value",
+    "defaultMessage": "Driver Commission",
+    "message": "Komisi sopir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverMenu",
+    "description": "driverMenu",
+    "defaultMessage": "Manage Drivers",
+    "message": "kelola pengemudi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverName",
+    "description": "Driver Name",
+    "defaultMessage": "Driver Name",
+    "message": "Nama pengemudi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverRatings",
+    "description": "Driver Ratings",
+    "defaultMessage": "Driver Ratings",
+    "message": "Penilaian sopir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverServiceFee",
+    "description": "Driver Service Fee",
+    "defaultMessage": "Driver Service Fee",
+    "message": "Layanan Pengemudi Biaya",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverTotalFare",
+    "description": "Driver Total Fare",
+    "defaultMessage": "Driver Total Fare",
+    "message": "Sopir Jumlah Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.drivers",
+    "description": "drivers",
+    "defaultMessage": "Drivers",
+    "message": "pengemudi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.dropLocation",
+    "description": "Drop Location",
+    "defaultMessage": "Drop Location",
+    "message": "penurunan Lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.earnings",
+    "description": "Earnings",
+    "defaultMessage": "Your Earnings",
+    "message": "Penghasilan Anda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.edit",
+    "description": "edit",
+    "defaultMessage": "Edit",
+    "message": "mengedit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAction",
+    "description": "Edit action name",
+    "defaultMessage": "Edit",
+    "message": "mengedit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editCancelReason",
+    "description": "Edit Cancel Reason",
+    "defaultMessage": "Edit Cancel Reason",
+    "message": "Mengedit Batal Alasan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editCategory",
+    "description": "Edit category form header",
+    "defaultMessage": "Edit Category",
+    "message": "mengedit Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editDriver",
+    "description": "Edit driver form header",
+    "defaultMessage": "Edit Driver",
+    "message": "mengedit driver",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editPageDetails",
+    "description": "Edit Page Details",
+    "defaultMessage": "Edit Page Details",
+    "message": "Mengedit Detail Halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editPromoCode",
+    "description": "Edit PromoCode",
+    "defaultMessage": "Edit Promo Code",
+    "message": "Mengedit Kode Promo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editRider",
+    "description": "Edit rider form header",
+    "defaultMessage": "Edit Rider",
+    "message": "Edit Pengendara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editVehicle",
+    "description": "Edit vehicle form header",
+    "defaultMessage": "Edit Vehicle",
+    "message": "mengedit Kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.eligibleForATrip",
+    "description": "text",
+    "defaultMessage": "Eligible for a Trip",
+    "message": "Memenuhi syarat untuk Perjalanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.enableDisable",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Enable / Disable",
+    "message": "Set Aktifkan / Nonaktifkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exceedLimit",
+    "description": "Exceeding character limit",
+    "defaultMessage": "Exceeding character limit",
+    "message": "Melebihi batas karakter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exceedLimit100",
+    "description": "Please dont exceed 100 words",
+    "defaultMessage": "Please dont exceed 100 words",
+    "message": "Please dont melebihi 100 kata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.expireDate",
+    "description": "text",
+    "defaultMessage": "Expiry Date",
+    "message": "Tanggal kadaluarsa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fixed",
+    "description": "Fixed Fee Type",
+    "defaultMessage": "Fixed",
+    "message": "Tetap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fixedAmount",
+    "description": "text",
+    "defaultMessage": "Fixed Amount",
+    "message": "Jumlah tetap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.floatError",
+    "description": "Numeric Error Response",
+    "defaultMessage": "It should be a number value",
+    "message": "Ini harus menjadi nilai angka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.followUs",
+    "description": "Follow Us",
+    "defaultMessage": "Follow  Us",
+    "message": "Ikuti kami",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerCategory",
+    "description": "Footer Category",
+    "defaultMessage": "Footer Category",
+    "message": "Footer Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo1",
+    "description": "Footer Logo 1",
+    "defaultMessage": "Footer Logo #1",
+    "message": "Footer Logo # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo2",
+    "description": "Footer Logo 2",
+    "defaultMessage": "Footer Logo #2",
+    "message": "Footer Logo # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo3",
+    "description": "Footer Logo 3",
+    "defaultMessage": "Footer Logo #3",
+    "message": "Footer Logo # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerLogo4",
+    "description": "Footer Logo 4",
+    "defaultMessage": "Footer Logo #4",
+    "message": "Footer Logo # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerSectionSettings",
+    "description": "Footer Settings",
+    "defaultMessage": "Footer",
+    "message": "Footer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.form",
+    "description": "form",
+    "defaultMessage": "Form",
+    "message": "Bentuk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.goBack",
+    "description": "Go Back Button Text",
+    "defaultMessage": "Go Back",
+    "message": "Kembali",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.goToMainSite",
+    "description": "goToMainSite option",
+    "defaultMessage": "Go to main site",
+    "message": "Pergi ke situs utama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescFive",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim Odio unum atomorum di. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescFour",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim Odio unum atomorum di. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescOne",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim Odio unum atomorum di. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescSix",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim Odio unum atomorum di. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescThree",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim Odio unum atomorum di. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridDescTwo",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per gloriatur tincidunt. Vim Odio unum atomorum di. Ut Essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitle",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleFive",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleFour",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleSix",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleThree",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.gridTitleTwo",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.holdPayout",
+    "description": "Hold Payout",
+    "defaultMessage": "Hold Payout",
+    "message": "Tahan Payout",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeContent",
+    "description": "Start Riding With Wooberly",
+    "defaultMessage": "Start Riding With Wooberly",
+    "message": "Mulai Kuda Dengan Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeContent1",
+    "description": "Banner Content",
+    "defaultMessage": "Banner Content",
+    "message": "Banner Konten",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage1",
+    "description": "Banner Image 1",
+    "defaultMessage": "Banner Image #1",
+    "message": "Gambar Spanduk # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage2",
+    "description": "Banner Image 2",
+    "defaultMessage": "Banner Image #2",
+    "message": "Gambar Spanduk # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage3",
+    "description": "Banner Image 3",
+    "defaultMessage": "Banner Image #3",
+    "message": "Gambar Spanduk # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage4",
+    "description": "Banner Image 4",
+    "defaultMessage": "Banner Image #4",
+    "message": "Gambar Spanduk # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage5",
+    "description": "Banner Image 5",
+    "defaultMessage": "Banner Image #5",
+    "message": "Gambar Spanduk # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage6",
+    "description": "Banner Image 6",
+    "defaultMessage": "Banner Image #6",
+    "message": "Gambar Spanduk # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage7",
+    "description": "Banner Image Tablet",
+    "defaultMessage": "Banner Image Tablet",
+    "message": "Gambar Spanduk Tablet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeImage8",
+    "description": "Banner Image Mobile",
+    "defaultMessage": "Banner Image Mobile",
+    "message": "Gambar Spanduk Ponsel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeSectionSettings",
+    "description": "Banner Settings",
+    "defaultMessage": "Banner",
+    "message": "Spanduk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeTitle",
+    "description": "Banner Title",
+    "defaultMessage": "Banner Title",
+    "message": "Judul Spanduk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homepageBanner",
+    "description": "Homepage Banner Settings",
+    "defaultMessage": "Homepage Banner",
+    "message": "homepage Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.id",
+    "description": "ID text",
+    "defaultMessage": "ID",
+    "message": "Indo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.inactive",
+    "description": "Inactive Status",
+    "defaultMessage": "Inactive",
+    "message": "non-aktif",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.insuranceImage",
+    "description": "insuranceImage",
+    "defaultMessage": "Insurance Image",
+    "message": "asuransi Gambar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.intError",
+    "description": "Integer Error Response",
+    "defaultMessage": "It should be a decimal value",
+    "message": "Ini harus menjadi nilai desimal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidUrl",
+    "description": "Invalid Page URL",
+    "defaultMessage": "Invalid Page URL",
+    "message": "Halaman URL tidak valid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVehicleName",
+    "description": "Invalid Vehicle Name",
+    "defaultMessage": "Invalid Vehicle Name",
+    "message": "Valid Nama Kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVehicleNumber",
+    "description": "Invalid Vehicle Number",
+    "defaultMessage": "Invalid Vehicle Number",
+    "message": "Valid Nomor Kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.isSpecialTrip",
+    "description": "Special Trip",
+    "defaultMessage": "Special Trip",
+    "message": "Khusus Trip",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.licenceBackImage",
+    "description": "licenceBackImage",
+    "defaultMessage": "Licence Back Image",
+    "message": "Lisensi Kembali Gambar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.licenceFrontImage",
+    "description": "licenceFrontImage",
+    "defaultMessage": "Licence Front Image",
+    "message": "Lisensi depan Gambar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.location",
+    "description": "location",
+    "defaultMessage": "Manage Location",
+    "message": "mengelola Lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.locationName",
+    "description": "Table header",
+    "defaultMessage": "Location",
+    "message": "tempat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logo",
+    "description": "Logo",
+    "defaultMessage": "Logo",
+    "message": "Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logout",
+    "description": "logout option",
+    "defaultMessage": "Logout",
+    "message": "Keluar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Batal Alasan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCancelledTrips",
+    "description": "manageCancelledTrips sidemenu",
+    "defaultMessage": "Cancelled Bookings",
+    "message": "Pemesanan dibatalkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCompletedTrips",
+    "description": "CompletedTrips sidemenu",
+    "defaultMessage": "Completed Bookings",
+    "message": "Pemesanan selesai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageCurrency",
+    "description": "manageCurrency sidemenu",
+    "defaultMessage": "Manage Currency",
+    "message": "mengelola uang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageDashboard",
+    "description": "Manage Dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Dasbor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageFailedPayout",
+    "description": "Failed Payout",
+    "defaultMessage": "Failed Payout",
+    "message": "Pembayaran Gagal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageFare",
+    "description": "Admin sidemenu",
+    "defaultMessage": "Manage Fare",
+    "message": "Kelola Tarif",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageNotifications",
+    "description": "Manage Notifications",
+    "defaultMessage": "Manage Notifications",
+    "message": "mengelola Pemberitahuan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.managePayout",
+    "description": "managePayout",
+    "defaultMessage": "Manage Payout",
+    "message": "Kelola Pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.managePromoCode",
+    "description": "managePromoCode sidemenu",
+    "defaultMessage": "Manage Promo Code",
+    "message": "Mengelola Kode Promo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.maximumUploadSizeLabel",
+    "description": "",
+    "defaultMessage": "Maximum upload size",
+    "message": "ukuran upload maksimum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuFour",
+    "description": "menuFour",
+    "defaultMessage": "MenuFour",
+    "message": "MenuFour",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuOne",
+    "description": "form",
+    "defaultMessage": "MenuOne",
+    "message": "MenuOne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.menuTwo",
+    "description": "MenuTwo",
+    "defaultMessage": "MenuTwo",
+    "message": "MenuTwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.messageLength",
+    "description": "Message must be 200 characters or less",
+    "defaultMessage": "Message must be 200 characters or less",
+    "message": "Pesan harus 200 karakter atau kurang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.messageRequired",
+    "description": "Message is required",
+    "defaultMessage": "Message is required",
+    "message": "Pesan diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDescription",
+    "description": "Description must be 255 characters or less",
+    "defaultMessage": "Description must be 255 characters or less",
+    "message": "Deskripsi harus 255 karakter atau kurang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDescriptionText",
+    "description": "Meta Description",
+    "defaultMessage": "Meta Description",
+    "message": "Deskripsi meta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaKeyword",
+    "description": "Keyword must be 255 characters or less",
+    "defaultMessage": "Keyword must be 255 characters or less",
+    "message": "Kata kunci harus 255 karakter atau kurang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaTitle",
+    "description": "Meta Title",
+    "defaultMessage": "Meta Title",
+    "message": "meta Judul",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minBasePrice",
+    "description": "Minimum base price amount",
+    "defaultMessage": "Minimum Base Price",
+    "message": "Minimum Harga Pokok",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minutePrice",
+    "description": "Minute Price",
+    "defaultMessage": "Minute Price",
+    "message": "Harga menit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.minutes",
+    "description": "minutes",
+    "defaultMessage": "minutes",
+    "message": "menit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.montly",
+    "description": "montly",
+    "defaultMessage": "This Month",
+    "message": "Bulan ini",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.no",
+    "description": "no",
+    "defaultMessage": "No",
+    "message": "Tidak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.noResult",
+    "description": "noResult",
+    "defaultMessage": "No results found",
+    "message": "Tidak ada hasil yang ditemukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notEligibleForATrip",
+    "description": "text",
+    "defaultMessage": "Not eligible for a Trip",
+    "message": "Tidak memenuhi syarat untuk Perjalanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.numberError",
+    "description": "Invalid Phone Number",
+    "defaultMessage": "Invalid Phone Number",
+    "message": "Nomor Telepon tidak valid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.numericValue",
+    "description": "Numeric value required",
+    "defaultMessage": "Numeric value required",
+    "message": "nilai numerik yang diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.offline",
+    "description": "offline",
+    "defaultMessage": "Offline",
+    "message": "Offline",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.online",
+    "description": "online",
+    "defaultMessage": "Online",
+    "message": "On line",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.overAll",
+    "description": "Overall",
+    "defaultMessage": "Overall",
+    "message": "Secara keseluruhan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageBanner",
+    "description": "Page Banner",
+    "defaultMessage": "Page Banner",
+    "message": "halaman Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageImageBanner",
+    "description": "Page Image Banner",
+    "defaultMessage": "Page Image Banner",
+    "message": "Halaman Gambar Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageName",
+    "description": "Page Name",
+    "defaultMessage": "Page Name",
+    "message": "Nama halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageTitle",
+    "description": "Page Title",
+    "defaultMessage": "Page Title",
+    "message": "Judul halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pageUrl",
+    "description": "Page URL",
+    "defaultMessage": "Page URL",
+    "message": "Halaman URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paid",
+    "description": "Paid",
+    "defaultMessage": "Paid",
+    "message": "dibayar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paymentMethod",
+    "description": "Payment Method",
+    "defaultMessage": "Payment Method",
+    "message": "Cara Pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.paymentType",
+    "description": "Payment Type",
+    "defaultMessage": "Payment Type",
+    "message": "Tipe pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.payoutAmount",
+    "description": "Payout Amount",
+    "defaultMessage": "Payout Amount",
+    "message": "Jumlah pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.payoutStatus",
+    "description": "Payout Status",
+    "defaultMessage": "Payout Status",
+    "message": "Status pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pending",
+    "description": "Pending Status",
+    "defaultMessage": "Pending",
+    "message": "Tertunda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentError",
+    "description": "Choose percentage value between 1 to 99",
+    "defaultMessage": "Choose percentage value between 1 to 99",
+    "message": "Pilih nilai persentase antara 1 sampai 99",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentage",
+    "description": "text",
+    "defaultMessage": "Percentage",
+    "message": "Persentase",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.percentageFeeType",
+    "description": "Percentage Fee Type",
+    "defaultMessage": "Percentage",
+    "message": "Persentase",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.permit",
+    "description": "Permit Status",
+    "defaultMessage": "Permit",
+    "message": "Izin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.phoneDialCode",
+    "description": "Phone Dial Code",
+    "defaultMessage": "Country Code",
+    "message": "Kode negara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pickupLocation",
+    "description": "PickUp Location",
+    "defaultMessage": "PickUp Location",
+    "message": "Lokasi penjemputan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.preview",
+    "description": "Preview",
+    "defaultMessage": "Preview",
+    "message": "Preview",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.privacyPolicies",
+    "description": "Privacy Policy",
+    "defaultMessage": "Privacy Policy",
+    "message": "Rahasia pribadi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.profileId",
+    "description": "Profile Id for user",
+    "defaultMessage": "Profile ID",
+    "message": "profil ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.profilePicture",
+    "description": "profilePicture",
+    "defaultMessage": "Profile Picture",
+    "message": "Gambar profil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.promoCodeId",
+    "description": "Promo Code",
+    "defaultMessage": "Promo Code",
+    "message": "Kode promosi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.promoType",
+    "description": "text",
+    "defaultMessage": "Type",
+    "message": "Tipe",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ratings",
+    "description": "Ratings",
+    "defaultMessage": "Ratings",
+    "message": "peringkat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rcImage",
+    "description": "rcImage",
+    "defaultMessage": "RC Book Image",
+    "message": "RC Buku Gambar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reason",
+    "description": "Reason",
+    "defaultMessage": "Reason",
+    "message": "Alasan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reasonRequired",
+    "description": "Reason is required",
+    "defaultMessage": "Reason is required",
+    "message": "Alasan diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.removeLocation",
+    "description": "Polygon remove",
+    "defaultMessage": "Remove Location",
+    "message": "Hapus Lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reviewsBy",
+    "description": "reviewsBy",
+    "defaultMessage": "Reviews By",
+    "message": "By",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rider",
+    "description": "Rider",
+    "defaultMessage": "Rider",
+    "message": "Pengendara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderCommission",
+    "description": "Rider Commission Percentage",
+    "defaultMessage": "Rider Commission(%)",
+    "message": "Rider Komisi (%)",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderEmail",
+    "description": "Rider Email",
+    "defaultMessage": "Rider Email",
+    "message": "Rider Email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderFeeType",
+    "description": "Rider Fee Type",
+    "defaultMessage": "Rider Fee Type",
+    "message": "Rider Tarif Jenis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderFeeValue",
+    "description": "Rider Fee Value",
+    "defaultMessage": "Rider Commission",
+    "message": "Komisi Rider",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderName",
+    "description": "Rider Name",
+    "defaultMessage": "Rider Name",
+    "message": "Rider Nama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderPayableAmount",
+    "description": "Special Trip Total Fare",
+    "defaultMessage": "Rider Payable Amount",
+    "message": "Rider Jumlah Hutang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderServiceFee",
+    "description": "Rider Service Fee",
+    "defaultMessage": "Rider Service Fee",
+    "message": "Rider Biaya Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderTotalFare",
+    "description": "Rider Total Fare",
+    "defaultMessage": "Rider Total Fare",
+    "message": "Rider Jumlah Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riders",
+    "description": "Riders",
+    "defaultMessage": "Riders",
+    "message": "pengendara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.ridersMenu",
+    "description": "ridersMenu",
+    "defaultMessage": "Manage Riders",
+    "message": "Kelola Penunggang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyButton",
+    "description": "safetyButton",
+    "defaultMessage": "View all safety features",
+    "message": "Lihat semua fitur keselamatan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyContent",
+    "description": "Safety",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum hanya teks dummy dalam industri percetakan dan typesetting. Lorem Ipsum telah menjadi industri standar boneka teks sejak tahun 1500-an, ketika sebuah printer yang tidak dikenal mengambil dapur jenis dan acak untuk membuat sebuah buku jenis spesimen.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Playstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Appstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetyImage3",
+    "description": "Rider Banner",
+    "defaultMessage": "Rider Banner",
+    "message": "Rider Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.safetySectionSettings",
+    "description": "Rider Apps Settings",
+    "defaultMessage": "Rider App",
+    "message": "Aplikasi Pengendara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.searchLocation",
+    "description": "Auto-Complete input",
+    "defaultMessage": "Search Location",
+    "message": "Cari Lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.setBaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Base Currency",
+    "message": "Set Base Currency",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupDrive",
+    "description": "Sign up to drive",
+    "defaultMessage": "Sign up to drive",
+    "message": "Mendaftar untuk mendorong",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "PlayStore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Appstore Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupImage3",
+    "description": "Driver Banner",
+    "defaultMessage": "Driver Banner",
+    "message": "sopir Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupRide",
+    "description": "Sign up to ride",
+    "defaultMessage": "Sign up to ride",
+    "message": "Mendaftar untuk naik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.signupSectionSettings",
+    "description": "Driver Apps Settings",
+    "defaultMessage": "Driver App",
+    "message": "Aplikasi Pengemudi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteAdmin",
+    "description": "siteAdmin",
+    "defaultMessage": "Site Admin",
+    "message": "situs Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteSettings",
+    "description": "Site Settings",
+    "defaultMessage": "Site Settings",
+    "message": "Pengaturan situs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderTitle",
+    "description": "sliderTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem Ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.sliderTitleDesc",
+    "description": "sliderTitleDesc",
+    "defaultMessage": "Percipit repudiandae an eum, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "message": "Percipit repudiandae sebuah Eum, eos kasus enim ada. Percipit tractatos pertinacia cum id, iklan eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.specialTripPrice",
+    "description": "discount text",
+    "defaultMessage": "Rider Discount Amount",
+    "message": "Diskon Jumlah Rider",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.startDriving",
+    "description": "Start Driving",
+    "defaultMessage": "Start Driving",
+    "message": "Mulai Mengemudi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.startRideing",
+    "description": "Start Riding",
+    "defaultMessage": "Start Riding",
+    "message": "Mulai Kuda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.staticpageManagement",
+    "description": "Manage Static Content",
+    "defaultMessage": "Manage Static Content",
+    "message": "Mengelola Static Content",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.status",
+    "description": "Status Active/Inactive",
+    "defaultMessage": "Status",
+    "message": "Status",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuOne",
+    "description": "subMenuOne",
+    "defaultMessage": "subMenuOne",
+    "message": "subMenuOne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuThree",
+    "description": "subMenuThree",
+    "defaultMessage": "subMenuThree",
+    "message": "subMenuThree",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.subMenuTwo",
+    "description": "subMenuTwo",
+    "defaultMessage": "subMenuTwo",
+    "message": "subMenuTwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.submitButton",
+    "description": "Submit",
+    "defaultMessage": "Submit",
+    "message": "Kirimkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.symbol",
+    "description": "currencyManagement value",
+    "defaultMessage": "Symbol",
+    "message": "Simbol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.table",
+    "description": "Table",
+    "defaultMessage": "Table",
+    "message": "Meja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsAmount",
+    "description": "Tips Amount",
+    "defaultMessage": "Tips Amount",
+    "message": "Tips Jumlah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title",
+    "description": "text",
+    "defaultMessage": "Title",
+    "message": "Judul",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title1",
+    "description": "Title 1",
+    "defaultMessage": "Title 1",
+    "message": "Judul 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title2",
+    "description": "Title 2",
+    "defaultMessage": "Title 2",
+    "message": "Judul 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title3",
+    "description": "Title 3",
+    "defaultMessage": "Title 3",
+    "message": "Judul 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title4",
+    "description": "Title 4",
+    "defaultMessage": "Title 4",
+    "message": "Judul 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title5",
+    "description": "Title 5",
+    "defaultMessage": "Title 5",
+    "message": "Judul 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.title6",
+    "description": "Title 6",
+    "defaultMessage": "Title 6",
+    "message": "Judul 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.today",
+    "description": "today",
+    "defaultMessage": "Today",
+    "message": "Hari ini",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tollFee",
+    "description": "tollFee",
+    "defaultMessage": "Toll Fee",
+    "message": "Biaya jalan tol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalDuration",
+    "description": "Total Duration",
+    "defaultMessage": "Total Duration",
+    "message": "Durasi total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalFare",
+    "description": "Total Fare",
+    "defaultMessage": "Total Fare",
+    "message": "Tarif total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalRideDistance",
+    "description": "Total Rider Distance",
+    "defaultMessage": "Total Rider Distance",
+    "message": "Jumlah Rider Jarak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripDate",
+    "description": "Trip Date",
+    "defaultMessage": "Trip Date",
+    "message": "Trip Tanggal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripEnd",
+    "description": "Trip End",
+    "defaultMessage": "Trip End",
+    "message": "perjalanan Akhir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripStart",
+    "description": "Trip Start",
+    "defaultMessage": "Trip Start",
+    "message": "perjalanan Mulai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tripStatus",
+    "description": "Trip Status",
+    "defaultMessage": "Trip Status",
+    "message": "Status perjalanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.unitPrice",
+    "description": "Unit Price",
+    "defaultMessage": "Unit Price",
+    "message": "Patokan harga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.unpaid",
+    "description": "Unpaid",
+    "defaultMessage": "Unpaid",
+    "message": "Tunggakan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.update",
+    "description": "Update",
+    "defaultMessage": "Update",
+    "message": "Memperbarui",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.useFullLink",
+    "description": "Usefull Links",
+    "defaultMessage": "Usefull Links",
+    "message": "berguna Links",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.usedPromoCode",
+    "description": "text",
+    "defaultMessage": "Used Promo Code",
+    "message": "Digunakan Kode Promo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.userStatus",
+    "description": "User Status Active/Inactive",
+    "defaultMessage": "User Status",
+    "message": "Status pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validUrl",
+    "description": "Valid URL required",
+    "defaultMessage": "Valid URL required",
+    "message": "URL yang valid diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vechicleName",
+    "description": "Vehicle",
+    "defaultMessage": "Vehicle",
+    "message": "Kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleId",
+    "description": "Vehicle ID",
+    "defaultMessage": "Vehicle ID",
+    "message": "ID kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleName",
+    "description": "Vehicle Name",
+    "defaultMessage": "Vehicle Name",
+    "message": "Nama kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNameError3",
+    "description": "New Password must be minimum 8 characters",
+    "defaultMessage": "Vehicle Name must be minimum 3 characters and maximum 15 characters",
+    "message": "Kendaraan Nama harus minimal 3 karakter dan maksimum 15 karakter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNumber",
+    "description": "Vehicle Number",
+    "defaultMessage": "Vehicle Number",
+    "message": "Nomor kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleNumberError",
+    "description": "Invalid Vehicle Number",
+    "defaultMessage": "Invalid Vehicle Number",
+    "message": "Valid Nomor Kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleOwnerEmail",
+    "description": "Vehicle Owner Email",
+    "defaultMessage": "Vehicle Owner Email",
+    "message": "Kendaraan Pemilik Email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleOwnerName",
+    "description": "Vehicle Owner Name",
+    "defaultMessage": "Vehicle Owner Name",
+    "message": "Kendaraan Nama Pemilik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicleType",
+    "description": "Vehicle Type",
+    "defaultMessage": "Vehicle Type",
+    "message": "Jenis kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehiclesMenu",
+    "description": "vehiclesMenu",
+    "defaultMessage": "Manage Vehicles",
+    "message": "mengelola Kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.view",
+    "description": "View Details Link",
+    "defaultMessage": "View",
+    "message": "Melihat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.viewCity",
+    "description": "view City",
+    "defaultMessage": "View city",
+    "message": "pemandangan kota",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.wallet",
+    "description": "Wallet",
+    "defaultMessage": "Wallet",
+    "message": "Dompet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.walletBalance",
+    "description": "Wallet Balance",
+    "defaultMessage": "Wallet Balance",
+    "message": "Saldo Wallet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.weekly",
+    "description": "weekly",
+    "defaultMessage": "This Week",
+    "message": "Minggu ini",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.yes",
+    "description": "Yes",
+    "defaultMessage": "Yes",
+    "message": "Iya",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "rentall.dropzoneUpload",
+    "description": "Dropzone upload info",
+    "defaultMessage": "Upload a file from your computer",
+    "message": "Unggah file dari komputer Anda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "rentall.dropzoneUploadError",
+    "description": "Dropzone upload error message",
+    "defaultMessage": "Remove the existing image and try upload again",
+    "message": "Hapus gambar yang ada dan mencoba meng-upload lagi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "AddListSettingsForm.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Menambahkan",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNew",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Nama",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNewDescription",
+    "description": "description",
+    "defaultMessage": "Description",
+    "message": "Deskripsi",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.delete",
+    "description": "Delete Button",
+    "defaultMessage": "Delete",
+    "message": "Menghapus",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.required",
+    "description": "Required",
+    "defaultMessage": "*Required",
+    "message": "*Yg dibutuhkan",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.update",
+    "description": "Update Button",
+    "defaultMessage": "Update",
+    "message": "Memperbarui",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "exceedLimit",
+    "description": "exceedLimit",
+    "defaultMessage": "Maximum allowed character is 255.",
+    "message": "Maksimum yang diizinkan karakter adalah 255.",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.blankSpace",
+    "description": "Password error",
+    "defaultMessage": "Password should not be blank space.",
+    "message": "Sandi tidak harus ruang kosong.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailBlankSpace",
+    "description": "email address error",
+    "defaultMessage": "Email should not be blank spaces",
+    "message": "Email tidak harus ruang kosong",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailInvalid",
+    "description": "email address error",
+    "defaultMessage": "*Invalid email address",
+    "message": "*Alamat email salah",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.passwordInvalid",
+    "description": "Password minimum characters error",
+    "defaultMessage": "Password should be minimum 8 characters.",
+    "message": "Sandi harus minimal 8 karakter.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.exportDataIntoCSV",
+    "description": "Export Data into CSV",
+    "defaultMessage": "Export Data into CSV",
+    "message": "Data ekspor ke CSV",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminName",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Nama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminRole",
+    "description": "Admin Role",
+    "defaultMessage": "Admin Role",
+    "message": "Peran Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.emailText",
+    "description": "Email",
+    "defaultMessage": "Email",
+    "message": "Surel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdmin",
+    "description": "Manage Admins",
+    "defaultMessage": "Manage Admins",
+    "message": "mengelola Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdminRoles",
+    "description": "Manage Admin Roles",
+    "defaultMessage": "Manage Admin Roles",
+    "message": "Mengelola Peran Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.manageAdminUsers",
+    "description": "Manage Admin Users",
+    "defaultMessage": "Manage Admin Users",
+    "message": "Mengelola Pengguna Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.passwordText",
+    "description": "Password Content",
+    "defaultMessage": "Provide new password only. Ignore this field to use the existing password for this user.",
+    "message": "Memberikan password baru saja. Mengabaikan bidang ini untuk menggunakan password yang ada untuk pengguna ini.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.privileges",
+    "description": "Privileges",
+    "defaultMessage": "Privileges",
+    "message": "keistimewaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.role",
+    "description": "Role",
+    "defaultMessage": "Role",
+    "message": "Wewenang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.roleName",
+    "description": "Role Name",
+    "defaultMessage": "Role Name",
+    "message": "Nama peran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.selectRole",
+    "description": "Select Role",
+    "defaultMessage": "Select Role",
+    "message": "Pilih Peran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addNewLabel",
+    "description": "Add New",
+    "defaultMessage": "Add New",
+    "message": "Tambah baru",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.adminUserLabel",
+    "description": "Admin User",
+    "defaultMessage": "Admin User",
+    "message": "Pengguna Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.chooseLanguageLabel",
+    "description": "Choose a Language",
+    "defaultMessage": "Choose a Language",
+    "message": "Pilih Bahasa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Disable",
+    "description": "Ban Status",
+    "defaultMessage": "Disable",
+    "message": "Nonaktifkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Disabled",
+    "description": "Ban Status",
+    "defaultMessage": "Disabled",
+    "message": "Dengan disabilitas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Enable",
+    "description": "Ban Status",
+    "defaultMessage": "Enable",
+    "message": "Memungkinkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Enabled",
+    "description": "Ban Status",
+    "defaultMessage": "Enabled",
+    "message": "Diaktifkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.Support",
+    "description": "Ban Status",
+    "defaultMessage": "Support",
+    "message": "Dukung",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.askQuestion",
+    "description": "Ban Status",
+    "defaultMessage": "Ask a question",
+    "message": "Tanyakan pertanyaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.lastHours",
+    "description": "Ban Status",
+    "defaultMessage": "Last 24 hours",
+    "message": "24 jam terakhir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.listings",
+    "description": "Ban Status",
+    "defaultMessage": "Listings",
+    "message": "Daftar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notFound",
+    "description": "Ban Status",
+    "defaultMessage": "Sorry, the page you were trying to view does not exist.",
+    "message": "Maaf, halaman yang Anda mencoba untuk melihat tidak ada.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reportIssue",
+    "description": "Ban Status",
+    "defaultMessage": "Report an issue",
+    "message": "Melaporkan masalah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.reservations",
+    "description": "Ban Status",
+    "defaultMessage": "Reservations",
+    "message": "Reservasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.setBase",
+    "description": "Ban Status",
+    "defaultMessage": "Set as base currency",
+    "message": "Atur mata uang inti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalList",
+    "description": "Ban Status",
+    "defaultMessage": "Total Listings",
+    "message": "Jumlah Daftar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalReserv",
+    "description": "Ban Status",
+    "defaultMessage": "Total Reservations",
+    "message": "Jumlah Reservasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.totalUser",
+    "description": "Ban Status",
+    "defaultMessage": "Total Users",
+    "message": "total Pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.oneOne",
+    "description": "Ban Status",
+    "defaultMessage": "One",
+    "message": "Satu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.categorieslist",
+    "description": "categoryMenu",
+    "defaultMessage": "Categories",
+    "message": "kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currencies",
+    "description": "Ban Status",
+    "defaultMessage": "Currencies",
+    "message": "mata uang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.drivPayout",
+    "description": "managePayout",
+    "defaultMessage": "Driver Payout",
+    "message": "sopir Payout",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.fares",
+    "description": "Fares",
+    "defaultMessage": "Fares",
+    "message": "tarif",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.homeonly",
+    "description": "Fares",
+    "defaultMessage": "Home",
+    "message": "Rumah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.vehicles",
+    "description": "Fares",
+    "defaultMessage": "Vehicles",
+    "message": "kendaraan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.allonly",
+    "description": "Fares",
+    "defaultMessage": "All",
+    "message": "Semua",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.appstorelink",
+    "description": "Fares",
+    "defaultMessage": "App Store Link",
+    "message": "App Store Tautan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverappcntn",
+    "description": "Fares",
+    "defaultMessage": "Driver App Content",
+    "message": "Sopir App Konten",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverapptitle",
+    "description": "Fares",
+    "defaultMessage": "Driver App Title",
+    "message": "Sopir App Judul",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.facebookUrl",
+    "description": "Fares",
+    "defaultMessage": "Facebook URL",
+    "message": "Facebook URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.instaUrl",
+    "description": "Fares",
+    "defaultMessage": "Instagram URL",
+    "message": "instagram URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logoheight",
+    "description": "Fares",
+    "defaultMessage": "Logo Height",
+    "message": "logo Tinggi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.logowidth",
+    "description": "Fares",
+    "defaultMessage": "Logo Width",
+    "message": "logo Lebar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metaDesc",
+    "description": "Fares",
+    "defaultMessage": "Meta Description",
+    "message": "Deskripsi meta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.metakey",
+    "description": "Fares",
+    "defaultMessage": "Meta Keyword",
+    "message": "meta Keyword",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.playstorelink",
+    "description": "Fares",
+    "defaultMessage": "Play Store Link",
+    "message": "Play Store Tautan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteName",
+    "description": "Fares",
+    "defaultMessage": "Site Name",
+    "message": "Nama situs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.siteTitle",
+    "description": "Fares",
+    "defaultMessage": "Site Title",
+    "message": "Judul situs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.twiterUrl",
+    "description": "Fares",
+    "defaultMessage": "Twitter URL",
+    "message": "Twitter URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.youtubeUrl",
+    "description": "Fares",
+    "defaultMessage": "Youtube URL",
+    "message": "Youtube URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addOnly",
+    "description": "Fares",
+    "defaultMessage": "Address",
+    "message": "Alamat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.checkmein",
+    "description": "Fares",
+    "defaultMessage": "Check me in",
+    "message": "Memeriksa saya",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.checkmeout",
+    "description": "Fares",
+    "defaultMessage": "Check me out",
+    "message": "Memeriksa saya",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.content",
+    "description": "Content 1",
+    "defaultMessage": "Content",
+    "message": "Kandungan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.credentialError",
+    "description": "Fares",
+    "defaultMessage": "Sorry, a critical error occurred on this page.",
+    "message": "Maaf, kesalahan kritis terjadi di halaman ini.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.errorOnly",
+    "description": "Fares",
+    "defaultMessage": "Error",
+    "message": "Kesalahan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.miles",
+    "description": "Fares",
+    "defaultMessage": "Miles",
+    "message": "Miles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.state",
+    "description": "Fares",
+    "defaultMessage": "State",
+    "message": "Negara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tableCell",
+    "description": "Fares",
+    "defaultMessage": "Table cell",
+    "message": "sel tabel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tableHead",
+    "description": "Fares",
+    "defaultMessage": "Table heading",
+    "message": "meja pos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.buttonLabel",
+    "description": "Change Password",
+    "defaultMessage": "Button Label",
+    "message": "tombol Label",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.confirmPassword",
+    "description": "Change Password",
+    "defaultMessage": "Confirm Password",
+    "message": "konfirmasi sandi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.copyRightcontent",
+    "description": "Change Password",
+    "defaultMessage": "Copyrights content",
+    "message": "konten hak cipta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #1",
+    "message": "Fitur Keterangan # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #2",
+    "message": "Fitur Keterangan # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #3",
+    "message": "Fitur Keterangan # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #4",
+    "message": "Fitur Keterangan # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #5",
+    "message": "Fitur Keterangan # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureDesc6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #6",
+    "message": "Fitur Keterangan # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #1",
+    "message": "Fitur Judul # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #2",
+    "message": "Fitur Judul # 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #3",
+    "message": "Fitur Judul # 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #4",
+    "message": "Fitur Judul # 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #5",
+    "message": "Fitur Judul # 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.featureTitle6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #6",
+    "message": "Fitur Judul # 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerContent1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Content #1",
+    "message": "Footer Konten # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Title #1",
+    "message": "Footer Judul # 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.footerUrltitle",
+    "description": "Change Password",
+    "defaultMessage": "Footer URL Title",
+    "message": "Footer URL Judul",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.msgOnly",
+    "description": "Change Password",
+    "defaultMessage": "Message",
+    "message": "Pesan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.nameOnly",
+    "description": "Change Password",
+    "defaultMessage": "Name",
+    "message": "Nama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.optionOne",
+    "description": "Fares",
+    "defaultMessage": "option 1",
+    "message": "Pilihan 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.radioButton",
+    "description": "Change Password",
+    "defaultMessage": "Radio button",
+    "message": "Tombol radio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.redioOne",
+    "description": "Fares",
+    "defaultMessage": "radio 1",
+    "message": "radio 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderAppContent",
+    "description": "Change Password",
+    "defaultMessage": "Rider App Content",
+    "message": "Rider App Konten",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderApptitle",
+    "description": "Change Password",
+    "defaultMessage": "Rider App Title",
+    "message": "Rider App Judul",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.leaveEmail",
+    "description": "Change Password",
+    "defaultMessage": "Leave email address field blank if you don't want to change the email",
+    "message": "Tinggalkan email address field kosong jika Anda tidak ingin mengubah email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.searchOnly",
+    "description": "Change Password",
+    "defaultMessage": "Search",
+    "message": "Cari",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Menambahkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.topFeatures",
+    "description": "Top Features Section Settings",
+    "defaultMessage": "Top Features Section Settings",
+    "message": "Fitur Top Pengaturan Bagian",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.bookingDetails",
+    "description": "Booking Details",
+    "defaultMessage": "Booking Details",
+    "message": "Detail Pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.changeAdminPassword",
+    "description": "Change Admin Email/Password",
+    "defaultMessage": "Change Admin Email/Password",
+    "message": "Ubah Email / Kata Sandi Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.currencyList",
+    "description": "Currency List",
+    "defaultMessage": "Currency List",
+    "message": "Daftar Mata Uang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverPayout",
+    "description": "Manage Driver Payouts",
+    "defaultMessage": "Manage Driver Payouts",
+    "message": "Kelola Pembayaran Pengemudi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editLocation",
+    "description": "Edit Location",
+    "defaultMessage": "Edit Location",
+    "message": "Edit Lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverAndriodVersion",
+    "description": "Andriod",
+    "defaultMessage": "Driver Android Version",
+    "message": "Sopir Android Versi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driveriosVersion",
+    "description": "iOS",
+    "defaultMessage": "Driver iOS Version",
+    "message": "Sopir iOS Versi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.forceUpdate",
+    "description": "forceUpdate",
+    "defaultMessage": "Force update",
+    "message": "Mengubah paksa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderAndriodVersion",
+    "description": "riderAndriodVersion",
+    "defaultMessage": "Rider Android Version",
+    "message": "Versi Android Rider",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rideriosVersion",
+    "description": "rideriosVersion",
+    "defaultMessage": "Rider iOS Version",
+    "message": "Rider iOS Versi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.to",
+    "description": "Label",
+    "defaultMessage": "To",
+    "message": "untuk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validatePasswordLength",
+    "description": "Password length Validation",
+    "defaultMessage": "Password must be minimum 8 characters",
+    "message": "Kata sandi harus minimal 8 karakter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validateConfirmPasswordLength",
+    "description": "Confirm Password length Validation",
+    "defaultMessage": "Confirm Password must be minimum 8 characters",
+    "message": "Konfirmasi Kata Sandi harus minimal 8 karakter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.validatePasswordMatch",
+    "description": "Password mismatch",
+    "defaultMessage": "Password is mismatching with Confirm password",
+    "message": "Kata sandi tidak cocok dengan Konfirmasi kata sandi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.completedLabel",
+    "description": "Label",
+    "defaultMessage": "Completed",
+    "message": "Lengkap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Driver Billing Information",
+    "message": "Informasi sopir Penagihan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverEarnings",
+    "description": "Label",
+    "defaultMessage": "Driver Earnings",
+    "message": "Penghasilan sopir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notRequired",
+    "description": "Label",
+    "defaultMessage": "No Action Required",
+    "message": "No Action Diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.platformEarnings",
+    "description": "Label",
+    "defaultMessage": "Platform Earnings",
+    "message": "Platform Laba",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.platformOffered",
+    "description": "Label",
+    "defaultMessage": "Platform Overdrafts",
+    "message": "Platform Cerukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.processedCash",
+    "description": "Label",
+    "defaultMessage": "Processed via cash",
+    "message": "Diproses melalui kas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.rideFare",
+    "description": "Label",
+    "defaultMessage": "Ride Fare",
+    "message": "naik Fare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.riderBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Rider Billing Information",
+    "message": "Informasi Penagihan Rider",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsGivenToDriver",
+    "description": "Label",
+    "defaultMessage": "Tips given to the driver",
+    "message": "Tips yang diberikan kepada pengemudi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.tipsReceivedFromRider",
+    "description": "Label",
+    "defaultMessage": "Tips received from the rider",
+    "message": "Tips diterima dari pengendara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addAdminRole",
+    "description": "Title",
+    "defaultMessage": "Add Admin Role",
+    "message": "Tambah Admin Peran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAdminRole",
+    "description": "Title",
+    "defaultMessage": "Edit Admin Role",
+    "message": "Peran mengedit Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.locations",
+    "description": "Pagination",
+    "defaultMessage": "Locations",
+    "message": "lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.addAdminUserLabel",
+    "description": "Add Admin User",
+    "defaultMessage": "Add Admin User",
+    "message": "Tambahkan Pengguna Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.editAdminUserLabel",
+    "description": "Edit Admin User",
+    "defaultMessage": "Edit Admin User",
+    "message": "Edit Pengguna Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.approved",
+    "description": "Approved Status",
+    "defaultMessage": "Approved",
+    "message": "disetujui",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledByDriver",
+    "description": "Cancelled By Driver Status",
+    "defaultMessage": "Cancelled By Driver",
+    "message": "Dibatalkan Oleh Pengemudi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.cancelledByRider",
+    "description": "Cancelled By Rider Status",
+    "defaultMessage": "Cancelled By Rider",
+    "message": "Dibatalkan Oleh Pengendara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.completed",
+    "description": "Completed Status",
+    "defaultMessage": "Completed",
+    "message": "Lengkap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.declined",
+    "description": "Declined Status",
+    "defaultMessage": "Declined",
+    "message": "Ditolak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.expired",
+    "description": "Expired Status",
+    "defaultMessage": "Expired",
+    "message": "Kedaluwarsa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.started",
+    "description": "Started Status",
+    "defaultMessage": "Started",
+    "message": "Dimulai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.notRequiredMessage",
+    "description": "Not Required",
+    "defaultMessage": "Not Required",
+    "message": "Tidak dibutuhkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.driverPrivacyPolicy",
+    "description": "Title",
+    "defaultMessage": "Driver Privacy Policy",
+    "message": "Sopir Kebijakan Privasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.precautionNotification",
+    "description": "Title",
+    "defaultMessage": "Precaution Notification",
+    "message": "Perhatian Pemberitahuan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.image",
+    "description": "Label",
+    "defaultMessage": "Image",
+    "message": "Gambar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduleBooking",
+    "description": "Label",
+    "defaultMessage": "Schedule Bookings",
+    "message": "Jadwal Pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduled",
+    "description": "Trip status",
+    "defaultMessage": "Scheduled",
+    "message": "dijadwalkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduledFrom",
+    "description": "Label",
+    "defaultMessage": "Scheduled From",
+    "message": "dijadwalkan Dari",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduledTo",
+    "description": "Label",
+    "defaultMessage": "Scheduled To",
+    "message": "dijadwalkan Untuk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.failed",
+    "description": "Trip Status of Schedule History",
+    "defaultMessage": "Failed",
+    "message": "Gagal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.updated",
+    "description": "Trip Status of Schedule History",
+    "defaultMessage": "Updated",
+    "message": "Diperbarui",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.invalidVersionNumber",
+    "description": "invalidVersionNumber",
+    "defaultMessage": "Invalid Version Number",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.pendingLabel",
+    "description": "Label",
+    "defaultMessage": "Pending",
+    "message": "",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.updatedAt",
+    "description": "Label",
+    "defaultMessage": "Updated At",
+    "message": "Diperbarui Pada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "radicalstart.scheduleBookingHistory",
+    "description": "Heading",
+    "defaultMessage": "Schedule Booking History",
+    "message": "Jadwal Sejarah Pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  }
+]

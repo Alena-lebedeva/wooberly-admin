@@ -1,0 +1,13 @@
+query GetAllPrecautionNotification {
+    getAllPrecautionNotification { 
+        status
+        errorMessage
+        results {
+            id
+            title
+            description
+            isEnabled
+            imageName
+        }
+    }
+}

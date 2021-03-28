@@ -1,0 +1,23 @@
+query getDriver($id: Int!){
+  getDriver(id: $id){
+    id
+    email
+    phoneDialCode
+    phoneNumber
+    phoneCountryCode
+    userStatus
+    isBan
+    isActive
+    activeStatus
+    profile{
+      firstName
+      lastName
+      country
+      picture
+      licenceFront
+      licenceBack
+      licenceFrontName
+      licenceBackName
+    }
+  }
+}

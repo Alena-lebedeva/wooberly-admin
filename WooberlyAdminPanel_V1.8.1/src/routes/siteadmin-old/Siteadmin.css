@@ -1,0 +1,17 @@
+.marginNone {
+    margin: 0 !important;
+}
+
+.paddingNone {
+    padding: 0 !important;
+}
+
+.adminHeader {
+    padding: 20px 35px;
+    padding-bottom: 0;
+    font-size: 24px;
+}
+
+.adminSideColor{
+    background:#f5f5f5;
+}

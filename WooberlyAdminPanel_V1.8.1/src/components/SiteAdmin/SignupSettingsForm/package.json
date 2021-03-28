@@ -1,0 +1,6 @@
+{
+    "name": "Signup Settings Form",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./SignupSettingsForm.js"
+}

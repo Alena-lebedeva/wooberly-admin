@@ -1,0 +1,95 @@
+@import '../../variables.css';
+@import '../../Common.css';
+@import '../AdminCommon.css';
+
+.btnAlignRight {
+	float: right;
+}
+.textAlignRight {
+	text-align: right;
+}
+.textAlignLeft {
+	text-align: left;
+}
+.modalCaptionLink {
+	color: #01A088;
+}
+.modalCaptionLinkLarge {
+	font-size: 16px;
+	line-height: 32px;
+}
+.modalCaptionLink:hover,
+.modalCaptionLink:focus {
+	color: #01A088;
+	text-decoration: underline;
+}
+.button {
+	display: block;
+	box-sizing: border-box;
+	margin: 0;
+	width: 100%;
+	outline: 0;
+	border: 1px solid #373277;
+	border-radius: 0px;
+	background: #373277;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	line-height: 1.3333333;
+	cursor: pointer;
+}
+.button:hover {
+	background: rgba(54, 50, 119, 0.8);
+}
+.button:focus {
+	border-color: #0074c2;
+	box-shadow: 0 0 8px rgba(0, 116, 194, 0.6);
+}
+.btnPrimary {
+	border-color: #F42B53!important;
+	background-color: #F42B53!important;
+	color: #fff;
+	border-radius: 0px;
+}
+.btnPrimary:hover,
+.btnPrimary:focus {
+	border-color: #F64E70!important;
+	background-color: #F64E70!important;
+	color: #fff;
+}
+.btnPrimary:active,
+.btnPrimaryBorder:active {
+	border-color: #F64E70!important;
+	background-color: #F64E70!important;
+	color: #fff!important;
+}
+.btnPrimaryBorder {
+	border-color: #F42B53;
+	color: #F42B53;
+	background-color: #fff;
+	border-radius: 0px;
+}
+.btnPrimaryBorder:hover,
+.btnPrimaryBorder:focus {
+	border-color: #F64E70;
+	color: #F64E70;
+	background-color: #fff;
+}
+.btnSmall {
+	padding: 5px 0px;
+}
+.horizontalLineThrough {
+	position: relative;
+	z-index: 1;
+	display: block;
+	margin: 15px 0px;
+	width: 100%;
+	color: #3A3A3A;
+	text-align: center;
+	font-size: 14px;
+}
+.userText {
+	padding-top: 3px;
+	color: #3A3A3A;
+}

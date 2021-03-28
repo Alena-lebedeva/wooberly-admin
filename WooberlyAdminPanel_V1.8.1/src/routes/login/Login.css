@@ -1,0 +1,32 @@
+@import '../../components/variables.css';
+
+.root {
+  padding-left: 0;
+  padding-right: 0;
+  /* background-image: url('../../../public/static/admin-login-bg.jpg'); */
+  background: linear-gradient(90deg,#000 0,#000 50%,#fff 0,#fff);
+  /* background-image: linear-gradient(315deg, #000000 0%, #414141 74%); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: 50%;
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+
+}
+
+/* .container {
+  margin: 0 auto;
+  padding: 0 0 40px;
+  max-width: 400px;
+} */
+@media (max-width: 767px){
+  .root {
+ 
+    background: #000;
+   
+  
+  }
+  }

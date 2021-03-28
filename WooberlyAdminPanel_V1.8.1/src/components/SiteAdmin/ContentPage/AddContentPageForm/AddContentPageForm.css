@@ -1,0 +1,13 @@
+@import '../../../../components/variables.css';
+@import '../../../../components/Common.css';
+@import '../../../../components/responsive-common.css';
+
+
+@media screen and (max-width: 767px) {
+  .paddingTop {
+    padding-top: 18px;
+  }
+  .paddingBottom {
+    padding-bottom: 18px;
+  }
+}

@@ -1,0 +1,20 @@
+query getActiveCategories {
+  getActiveCategories {
+    result {
+      id
+      categoryName
+      categoryImage
+      categoryMarkerImage
+      unitPrice
+      minutePrice
+      basePrice
+      isActive
+      currency
+      capacity
+      riderFeeValue
+      driverFeeValue
+    }
+    status
+    errorMessage
+  }
+}

@@ -1,0 +1,419 @@
+@media (max-width:1440px) and (min-width:1366px) {
+}
+
+@media (max-width:1365px) and (min-width:1200px) {
+}
+
+@media (max-width:1199px) and (min-width:1024px) {
+  .swiper-button-next, .swiper-button-prev {
+    display: none;
+  }
+
+  .tabLabelText label {
+    font-size: 14px;
+  }
+
+  .customRatioButton input[type=radio]:before {
+    margin: -1px;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+  .pageUrlInput .input-group-text {
+    border-bottom-right-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    width: 100%;
+    border-top-right-radius: .25rem !important;
+  }
+
+  .pageUrlFormInput {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: .25em !important;
+    border-top-right-radius: 0;
+  }
+
+  .tableSticky .table thead th {
+    box-shadow: none !important;
+  }
+}
+
+@media (max-width:1023px) and (min-width:768px) {
+  .navbar-brand {
+    padding: 6px 0 0 6px;
+  }
+
+  .tableSticky .table thead th {
+    box-shadow: none !important;
+  }
+
+  .sideMenu .navbar-light .navbar-toggler {
+    display: none;
+  }
+
+  .sideMenu .collapse:not(.show) {
+    display: none;
+  }
+
+  
+
+  .menuToggle {
+    top: 3px;
+  }
+
+  .swiper-button-next, .swiper-button-prev {
+    display: none;
+  }
+
+  .customRatioButton input[type=radio]:before {
+    margin: -1px;
+  }
+
+}
+
+@media (max-width: 767px) {
+  body {
+    overflow: auto;
+  }
+  @supports (-webkit-touch-callout: none) {
+    .customRatioButton input[type=radio]:before{
+      position: relative;
+      left: -1px;
+      top: -1px;
+    }
+  }
+  .NewResponsiveTable {
+    height: 300px;
+  }
+    
+  .navbar-brand {
+    padding: 6px 0 0 6px;
+  }
+
+  .sideMenu .navbar-expand-lg {
+    position: absolute;
+    top: 13px;
+    width: auto;
+  }
+
+  .mr-auto.navbar-nav {
+    margin-top: 0px !important;
+  }
+
+  .sideMenu .navbar-collapse {
+    margin: 11px 0 0 0;
+    background: #35475e;
+    position: relative;
+    z-index: 5;
+    height: 100vh;
+  }
+
+
+
+  .sideMenu .navbar-expand-lg .navbar-nav {
+    flex-direction: column;
+    width: 100%;
+    padding: 25px 0 25px 0;
+    height: 100vh;
+    overflow: auto;
+  }
+
+  .logOut .nav-link {
+    color: #fff;
+    font-size: 13px;
+  }
+
+  .sideMenu .navbar-light .navbar-toggler {
+    position: absolute;
+    top: 0;
+  }
+
+  .menuToggle {
+    top: 3px;
+  }
+
+  .sideMenu {
+    width: auto;
+    height: auto;
+    position: inherit;
+    top: auto;
+    background: transparent;
+    border-radius: 0;
+    margin: 0;
+    overflow: auto;
+    max-width: 0;
+    bottom: 0;
+    margin-bottom: 0;
+  }
+
+  .swiper-button-next, .swiper-button-prev {
+    display: none;
+  }
+
+  .redux-toastr .toastr {
+    margin: 70px 0 !important;
+  }
+
+  .mapSection .link {
+    top: 38px;
+    width: 100%;
+    max-width: 120px;
+    text-align: center;
+    margin: 0 auto;
+    right: 0;
+    left: 0;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .pageUrlInput .input-group-text {
+    border-bottom-right-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    width: 100%;
+    border-top-right-radius: .25rem !important;
+  }
+
+  .pageUrlFormInput {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: .25em !important;
+    border-top-right-radius: 0;
+  }
+}
+
+@media (max-width:1440px) and (min-width:1366px) {
+}
+
+@media (max-width:1365px) and (min-width:1200px) {
+}
+@media screen and (max-width: 1199px) {
+  .NewResponsiveTable table {
+    border: 0;
+  }
+
+  .NewResponsiveTable table caption {
+    font-size: 1.3em;
+  }
+  
+  .NewResponsiveTable table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  .NewResponsiveTable table tr {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  .NewResponsiveTable table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+    border-top: 0px !important;
+    min-height: 44px;
+  }
+  
+  .NewResponsiveTable table td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .NewResponsiveTable table td:last-child {
+    border-bottom: 0;
+  }
+  .NewResponsiveTable td.ratingSection {
+    width: 100%;
+  }
+  .NewResponsiveTable td.commandSection {
+    width: 100%;
+    max-width: unset;
+  }
+  .NewResponsiveTable td.ratingSection .dv-star-rating-star {
+    margin-bottom: 0;
+  }
+  .NewResponsiveTable a.editAlign {
+    display: inline-table;
+  }
+}
+@media (max-width:1199px) and (min-width:1024px) {
+  .swiper-button-next, .swiper-button-prev {
+    display: none;
+  }
+
+  .tabLabelText label {
+    font-size: 14px;
+  }
+
+  .customRatioButton input[type=radio]:before {
+    margin: -1px;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+  .pageUrlInput .input-group-text {
+    border-bottom-right-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    width: 100%;
+    border-top-right-radius: .25rem !important;
+  }
+
+  .pageUrlFormInput {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: .25em !important;
+    border-top-right-radius: 0;
+  }
+
+  .tableSticky .table thead th {
+    box-shadow: none !important;
+  }
+}
+
+@media (max-width:1023px) and (min-width:768px) {
+  .navbar-brand {
+    padding: 6px 0 0 6px;
+  }
+
+  .tableSticky .table thead th {
+    box-shadow: none !important;
+  }
+
+  .sideMenu .navbar-light .navbar-toggler {
+    display: none;
+  }
+
+
+  .menuToggle {
+    top: 3px;
+  }
+
+  .swiper-button-next, .swiper-button-prev {
+    display: none;
+  }
+
+  .customRatioButton input[type=radio]:before {
+    margin: -1px;
+  }
+}
+
+@media (max-width: 767px) {
+  body {
+    overflow: auto;
+  }
+
+  .navbar-brand {
+    padding: 6px 0 0 6px;
+  }
+
+  .sideMenu .navbar-expand-lg {
+    position: absolute;
+    top: 13px;
+    width: auto;
+  }
+
+
+  .mr-auto.navbar-nav {
+    margin-top: 0px !important;
+  }
+
+  .sideMenu .navbar-collapse {
+    margin: 11px 0 0 0;
+    background: #35475e;
+    position: relative;
+    z-index: 5;
+    height: 100vh;
+  }
+
+  .sideMenu .navbar-expand-lg .navbar-nav {
+    flex-direction: column;
+    width: 100%;
+    padding: 25px 0 25px 0;
+    height: 100vh;
+    overflow: auto;
+  }
+
+  .logOut .nav-link {
+    color: #fff;
+    font-size: 13px;
+  }
+
+  .sideMenu .navbar-light .navbar-toggler {
+    position: absolute;
+    top: 0;
+  }
+
+  .menuToggle {
+    top: 3px;
+  }
+
+  .sideMenu {
+    width: auto;
+    height: auto;
+    position: inherit;
+    top: auto;
+    background: transparent;
+    border-radius: 0;
+    margin: 0;
+    overflow: auto;
+    max-width: 0;
+    bottom: 0;
+    margin-bottom: 0;
+  }
+
+  .swiper-button-next, .swiper-button-prev {
+    display: none;
+  }
+
+  .redux-toastr .toastr {
+    margin: 70px 0 !important;
+  }
+
+  .mapSection .link {
+    top: 38px;
+    width: 100%;
+    max-width: 120px;
+    text-align: center;
+    margin: 0 auto;
+    right: 0;
+    left: 0;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .pageUrlInput .input-group-text {
+    border-bottom-right-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    width: 100%;
+    border-top-right-radius: .25rem !important;
+  }
+
+  .pageUrlFormInput {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: .25em !important;
+    border-top-right-radius: 0;
+  }
+  .whiteDropdown select{
+    width: 120px !important;
+  }
+  .NewResponsiveTable table td{
+    display: grid;
+    text-align: left;
+    word-break: break-word;
+  }
+  .NewResponsiveTable table td::before{
+    margin-bottom: 5px;
+  }
+  .NewResponsiveTable button {
+    text-align: left;
+  }
+  .NewResponsiveTable a.editAlign {
+    display: block;
+  }
+}

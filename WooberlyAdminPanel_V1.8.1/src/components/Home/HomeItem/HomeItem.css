@@ -1,0 +1,8 @@
+@import '../../Common.css';
+
+.sliderBox img{
+    width:100%;
+}
+.fontNormal{
+    font-weight: 500;
+}

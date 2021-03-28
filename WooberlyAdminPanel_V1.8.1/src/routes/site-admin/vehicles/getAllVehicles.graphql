@@ -1,0 +1,21 @@
+query getAllVehicles($currentPage: Int){
+  getAllVehicles(currentPage: $currentPage){
+   count
+    vehicleData{
+        id
+        vehicleType
+         vehicleNumber
+        vehicleName 
+      vehicleStatus
+        category{
+          categoryName
+        }
+        user{
+          email
+          profile{
+            firstName
+          }
+        }
+    }
+  }
+}

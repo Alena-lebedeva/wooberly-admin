@@ -1,0 +1,167 @@
+@import '../../variables.css';
+@import '../../Common.css';
+@import '../../responsive-common.css';
+
+.carBg {
+  width: 100%;
+  height: 695px;
+  background: #fff no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+.firstContent {
+  font-size: 36px;
+  width: 400px;
+  text-align: center;
+  letter-spacing: 6px;
+  line-height: 50px;
+  position: absolute;
+  top: 27%;
+  left: 45%;
+  color: #000000;
+  animation-name: contant;
+  animation-duration: 3s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+}
+@keyframes contant {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.getButton,
+.getButton:hover,
+.getButton:focus {
+  padding: 8px 40px;
+  margin-top: 25px;
+}
+.firstImage {
+  position: absolute;
+  bottom: 16px;
+  left: 52%;
+  animation-name: left;
+  animation-duration: 3s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+  z-index: 4;
+}
+@keyframes left {
+  0% {
+    left: -100%;
+  }
+  100% {
+    left: 52%;
+  }
+}
+.wooberlyIcon img {
+  width: 100%;
+  max-width: 75px;
+  animation-name: scale;
+  animation-duration: 5s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+  opacity: 1;
+}
+@keyframes scale {
+  0% {
+    opacity: 0;
+  }
+  30% {
+    opacity: 0;
+  }
+  60% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.wooberlyIcon {
+  position: absolute;
+  bottom: 32%;
+  left: 62%;
+}
+.secondImage {
+  position: absolute;
+  bottom: 7px;
+  right: 46px;
+  animation-name: right;
+  animation-duration: 6s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+  z-index: 4;
+}
+@keyframes right {
+  0% {
+    right: -500%;
+  }
+  20% {
+    right: -400%;
+  }
+  40% {
+    right: -300%;
+  }
+  60% {
+    right: -200%;
+  }
+  80% {
+    right: -100%;
+  }
+  100% {
+    right: 46px;
+  }
+}
+.secondImage img {
+  width: 100%;
+  max-width: 420px;
+}
+.flowerImage {
+  position: absolute;
+  bottom: 7px;
+  left: 39px;
+  z-index: 2;
+  animation-name: contant;
+  animation-duration: 3s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+}
+.handImage {
+  position: absolute;
+  bottom: 10px;
+  left: 124px;
+  animation-name: fadeInDown;
+  animation-duration: 6s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+}
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 0;
+  }
+  40% {
+    opacity: 0;
+  }
+  60% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.handImage img {
+  width: 100%;
+  max-width: 210px;
+}
+.tabView img {
+  width: 100%;
+}

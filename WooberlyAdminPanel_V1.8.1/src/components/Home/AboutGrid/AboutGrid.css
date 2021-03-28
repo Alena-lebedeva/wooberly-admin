@@ -1,0 +1,86 @@
+@import '../../variables.css';
+@import '../../Common.css';
+@import '../../responsive-common.css';
+
+.aboutContainer{
+    padding: 120px 0 140px;
+}
+.aboutCenter{
+    width:464px;
+    height:464px;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin: 0 auto;
+    text-align: center;
+    -webkit-animation: rotation 35s infinite linear;
+    -moz-animation: rotation 35s infinite linear;
+    animation: rotation 35s infinite linear;
+}
+@-webkit-keyframes rotation {
+    from {
+            -webkit-transform: rotate(0deg);
+    }
+    to {
+            -webkit-transform: rotate(359deg);
+    }
+}
+.aboutGrid img{
+    position: relative;
+    top: -50px;
+    max-width: 306px;
+}
+.contentOne h1{
+    font-size: 20px;
+    color: #000000;
+    letter-spacing: 4px;
+}
+.contentOne p{
+    font-size: 16px;
+    color: #444444;
+}
+.contentOne{
+    width: 300px;
+    text-align: right;
+    position: absolute;
+    top: 0;
+    left: 5%;
+}
+.aboutGrid{
+    position: relative;
+}
+.positionTwo{
+    top: 35%;
+    left: 2%;
+}
+.positionThree{
+    top:72%;
+    left: 5%;
+}
+.positionFour{
+    top: 0;
+    right: 5%;
+    text-align: left;
+    left: auto;
+}
+.positionFive{
+    top: 35%;
+    right: 2%;
+    text-align: left;
+    left: auto;
+}
+.positionSix{
+    top: 72%;
+    right: 5%;
+    text-align: left;
+    left: auto;
+}
+
+.mobimleImg{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -11px;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+}

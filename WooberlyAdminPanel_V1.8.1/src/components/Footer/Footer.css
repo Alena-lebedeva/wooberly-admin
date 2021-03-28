@@ -1,0 +1,87 @@
+@import '../variables.css';
+@import '../Common.css';
+@import '../responsive-common.css';
+.content ul{
+    padding: 0;
+    list-style-type: none;
+}
+.content ul li a{
+    color: #dfdfdf;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 1.5;
+    display: block;
+    
+}
+.content ul li{
+    margin: 13px 0 13px;
+}
+.content h3{
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 700;
+    position: relative;
+    margin-bottom: 18px;
+}
+.content h3::before {
+    content: '';
+    width: 33px;
+    height: 2px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: #2472b5;
+    top: 30px;
+}
+.content p {
+    max-width: 371px;
+    color: #dfdfdf;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 27px;
+}
+.footer{
+    padding: 35px 0 0 0;
+}
+.bottomLine{
+    background: url('../../../public/Icons/footer-line.png');
+    height: 2px;
+    margin-top: 30px;
+    width: 100%;
+    max-width: 726px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+.copyRight{
+    font-size: 14px;
+    padding: 20px 0 15px;
+    color: #dfdfdf;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 30px;
+}
+.heroBkgAnimated {
+    background: url('../../../public/footer-bg.svg') repeat-x;
+    width: auto;
+    margin: 0;
+    height: 550px;
+    padding-top: 10%;
+    box-sizing: border-box;
+    /* -webkit-animation: slide 9s linear infinite; */
+    position: relative;
+    background-position: top center;
+    background-size: cover;
+  }
+  /* @-webkit-keyframes slide {
+      from { background-position: 0 0; }
+      to { background-position: -400px 0; }
+  } */
+  .iconPaddingRight {
+      padding-right: 15px;
+  }
+  .socialIcon:hover {
+    -webkit-box-shadow: 0 0 40px rgba(255,255,255,.6), inset 0 0 40px rgba(255,255,255,1);
+    -moz-box-shadow: 0 0 40px rgba(255,255,255,.6), inset 0 0 40px rgba(255,255,255,1);
+    box-shadow: 0 0 40px rgba(255,255,255,.6), inset 0 0 40px rgba(255,255,255,1);
+    border-radius: 50%;
+  }

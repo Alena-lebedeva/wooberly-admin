@@ -1,0 +1,50 @@
+@import '../../../components/responsive-common.css';
+ .displayTable {
+	display: table;
+	width: 100%;
+}
+.displayTableRow {
+	display: table-row;
+	width: 100%;
+}
+.displayTableCell {
+	display: table-cell;
+	vertical-align: middle;
+}
+.widthText {
+	width: 150px;
+}
+.totalCss {
+	font-size: 20px;
+	font-weight: 400;
+	background: #fff;
+	color: #000;
+	padding: 20px;
+	font-weight: 600;
+}
+.box {
+	box-shadow: 0 1px 15px 3px #2d3d5126;
+	padding: 20px 0 0 0;
+	background: #000000;
+	color: #fff;
+	margin-bottom: 30px;
+}
+.box h2 {
+	text-align: center;
+}
+.boxInner {
+	font-size: 18px;
+	text-align: center;
+	margin: 50px 0;
+}
+.textRight {
+	text-align: right;
+	padding: 0 35px 0 0;
+}
+.textCenterDashboard {
+	text-align: center;
+}
+.earingSection {
+	width: 430px;
+	margin: 0 auto;
+}

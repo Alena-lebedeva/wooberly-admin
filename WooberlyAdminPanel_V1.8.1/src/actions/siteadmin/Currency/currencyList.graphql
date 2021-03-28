@@ -1,0 +1,12 @@
+query getCurrency($currentPage: Int, $searchList: String){
+  getCurrency(currentPage: $currentPage, searchList:$searchList){
+    count
+    currencyList{
+        id
+        symbol
+        isEnable
+        isPayment
+        isBaseCurrency
+    }
+  }
+}

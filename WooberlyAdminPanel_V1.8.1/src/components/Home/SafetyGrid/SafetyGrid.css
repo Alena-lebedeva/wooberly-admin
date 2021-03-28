@@ -1,0 +1,46 @@
+@import '../../variables.css';
+@import '../../Common.css';
+@import '../../responsive-common.css';
+.safetyContainer {
+    background: #F3FFF7;
+}
+.signUp h3 {
+    font-size: 40px;
+    color: #000000;
+    font-weight: 400;
+    letter-spacing: 4px;
+}
+.signUp p {
+    font-size: 20px;
+    color: #464646;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+.phoneImg {
+    width: 100%;
+    -moz-animation: wave 3s cubic-bezier( 0.36, 0.45, 0.63, 0.53) infinite;
+    -webkit-animation: wave 3s cubic-bezier( 0.36, 0.45, 0.63, 0.53) infinite;
+    animation: wave 3s cubic-bezier( 0.36, 0.45, 0.63, 0.53) infinite;
+    transform: translate3d(0, 0, 0);
+    position: relative;
+    overflow: hidden;
+}
+@-webkit-keyframes wave {
+    0%, 100% {
+        transform: translate3d(0,-25px,0);
+      }
+      50% {
+        transform: translate3d(0,5px,0);
+      }
+  }
+.appImg {
+    width: 100%;
+    max-width: 232px;
+}
+.paddingRight {
+    padding-right: 15px;
+}
+.paddingLeft {
+    padding-left: 15px;
+}

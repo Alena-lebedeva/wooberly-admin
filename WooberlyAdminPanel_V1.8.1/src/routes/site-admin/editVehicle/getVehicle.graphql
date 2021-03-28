@@ -1,0 +1,21 @@
+query getVehicle($id: Int!){
+  getVehicle( id: $id){
+    id
+   	vehicleName
+    vehicleType
+    vehicleStatus
+    vehicleNumber
+    vehicleRC
+    vehicleInsurance
+    category{
+      categoryName
+    }
+    user{
+          email
+          profile{
+            firstName
+            lastName
+          }
+        }
+  }
+}

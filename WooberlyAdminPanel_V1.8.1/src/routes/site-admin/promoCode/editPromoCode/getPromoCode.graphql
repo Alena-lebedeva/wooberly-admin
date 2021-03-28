@@ -1,0 +1,13 @@
+query($id: Int!) {
+    getPromoCode(id: $id) {
+        id
+        title
+        description
+        code
+        type
+        promoValue
+        currency
+        expiryDate
+        isEnable
+    }
+}

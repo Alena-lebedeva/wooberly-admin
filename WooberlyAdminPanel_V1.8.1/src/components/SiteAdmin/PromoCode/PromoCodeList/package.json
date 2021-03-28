@@ -1,0 +1,6 @@
+{
+    "name": "PromoCodeList",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./PromoCodeList.js"
+  }

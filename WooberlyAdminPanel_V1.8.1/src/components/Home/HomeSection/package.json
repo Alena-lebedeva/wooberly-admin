@@ -1,0 +1,6 @@
+{
+  "name": "HomeSection",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./HomeSection.js"
+}

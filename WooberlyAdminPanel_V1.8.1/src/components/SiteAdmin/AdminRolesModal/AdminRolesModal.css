@@ -1,0 +1,17 @@
+@import '../../../components/variables.css';
+.root {
+	padding: 10px;
+}
+.container {
+	margin: 0 auto;
+	padding: 0px;
+	max-width: 100%;
+}
+.logInModalBody {
+	padding: 0px;
+}
+
+
+
+
+

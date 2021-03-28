@@ -1,0 +1,10 @@
+query ($id: Int) {
+  getCancelReason(id:$id) {
+    result {
+      id
+      reason
+      userType
+      isActive
+    }
+  }
+}

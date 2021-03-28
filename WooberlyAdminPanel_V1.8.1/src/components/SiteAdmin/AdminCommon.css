@@ -1,0 +1,139 @@
+.adminPanelLogo, .adminPanelLogo:hover {
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    display: block;
+    text-decoration: none !important;
+}
+
+.adminPanelSidemenu {
+    height: auto;
+    /* min-height: 100vh; */
+    padding: 0;
+    overflow-y: auto;
+    background: linear-gradient(to right, #5691c8, #457fca);
+    box-shadow: 2px 10px 30px 0 rgba(0, 0, 0, .42), 0 4px 25px 0 rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2);
+}
+
+.mainMenu {
+    background: #f5f5f5;
+}
+
+.card {
+    border: 0;
+    margin: 18px 0;
+    /* box-shadow: 0 6px 0 0 rgba(0, 0, 0, .01), 0 15px 32px 0 rgba(0, 0, 0, .06); */
+    border-radius: 0px;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    align-items: center;
+    /* color: #fff; */
+}
+
+.gradientOne {
+    background: linear-gradient(to right, #2F80ED, #56CCF2);
+}
+
+.gradientTwo {
+    background: linear-gradient(to right, #0083B0, #00B4DB);
+}
+
+.gradientThree {
+    background: linear-gradient(to right, #8f94fb, #4e54c8);
+}
+
+.cardOne {
+    border: 0;
+    margin: 18px 0;
+    box-shadow: 0 6px 0 0 rgba(0, 0, 0, .01), 0 15px 32px 0 rgba(0, 0, 0, .06);
+    border-radius: 4px;
+    background: #fff;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.adminPadding {
+    padding: 25px !important;
+}
+
+.marginNone {
+    margin: 0 !important;
+}
+
+.countSection {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.userSection {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.cardImage {
+    height: 45px;
+    width: auto;
+}
+
+.chartHeight {
+    height: 200px;
+}
+
+.hoverColor {
+    background: #7084a1 !important;
+}
+
+.sidebarImage {
+    height: 20px;
+    width: 20px;
+    margin: 0px 10px;
+}
+
+.paddingNone {
+    padding: 0 !important;
+}
+
+.buttonWidth {
+    width: 200px;
+}
+
+@media(min-width:991px) {
+    .adminPanelSidemenu {
+        min-height: 100vh;
+        flex-direction: column !important;
+    }
+}
+
+.activeSideMenu {
+    border-right: 5px solid #fff !important;
+    /* background: #6f89ad54 !important; */
+}
+
+.fullWidth {
+    width: 100% !important;
+}
+
+.outlineNone {
+    outline: none !important;
+}
+.customSelect{
+    width:100% !important;
+    background:transparent !important;
+    padding:5px;
+}
+
+.errorMessage {
+    margin-bottom: 5px;
+    display: block;
+    color: #ff0000;
+    font-size: 14px;
+    font-weight: normal;
+  }

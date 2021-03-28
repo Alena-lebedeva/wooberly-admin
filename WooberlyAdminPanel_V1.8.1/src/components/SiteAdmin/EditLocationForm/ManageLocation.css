@@ -1,0 +1,29 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../AdminCommon.css';
+
+
+.passwordSection {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 520px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 25px 20px;
+  box-shadow: 0 1px 15px 3px #2d3d5126;
+}
+.subtext {
+  color: #767676;
+  margin: 0;
+  font-size: 14px;
+  margin-top: 6px;
+}
+.relative {
+  position: relative;
+}
+
+@media screen and (max-width: 767px) {
+  .passwordSection {
+    padding: 25px 15px;
+  }
+}

@@ -1,0 +1,48 @@
+@import '../../variables.css';
+@import '../../Common.css';
+@import '../../responsive-common.css';
+
+
+.cityBg{
+    width:100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0 40px 0;
+}
+.city{
+    background: #F9F8F2;
+    padding: 60px 0 0 0 0;
+}
+.cityText h1{
+    font-size: 40px;
+    color: #000000;
+    font-weight: 500;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    position: relative;
+}
+.cityText h1::after{
+    content: '';
+    height: 1px;
+    background-color: #ccb9b9;
+    width: 150px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 70px;
+    margin: 0 auto;
+}
+.cityText p{
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto;
+    font-size: 20px;
+    color: #3f3f3f;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding-top: 18px;
+}
+
+

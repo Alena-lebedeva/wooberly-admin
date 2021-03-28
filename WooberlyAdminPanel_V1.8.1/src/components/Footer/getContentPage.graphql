@@ -1,0 +1,12 @@
+query getContentPageDetails {
+  getContentPageDetails{
+    id
+    metaTitle
+    metaDescription
+    pageUrl
+    pageTitle
+    content
+    isEnable
+    createdAt
+  }
+}

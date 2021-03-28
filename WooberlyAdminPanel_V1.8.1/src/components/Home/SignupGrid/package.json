@@ -1,0 +1,6 @@
+{
+  "name": "SignupGrid",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SignupGrid.js"
+}
